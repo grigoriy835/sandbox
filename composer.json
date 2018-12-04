@@ -1,0 +1,22 @@
+{
+  "name": "Motoharujap/modniybot",
+  "keywords": ["telegram", "bot"],
+  "type": "project",
+  "require": {
+    "irazasyed/telegram-bot-sdk": "dev-master",
+    "moon/artisan": "^1.8",
+    "vlucas/phpdotenv": "^2.4",
+    "monolog/monolog": "^1.22",
+    "simple-crud/simple-crud": "^6.9"
+  },
+  "autoload": {
+    "psr-4": {
+      "Components\\": "Components/"
+    }
+  },
+  "scripts": {
+    "post-create-project-cmd": [
+      "php -r \"copy('.env.example', '.env');\""
+    ]
+  }
+}
