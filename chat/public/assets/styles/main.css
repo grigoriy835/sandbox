@@ -1,0 +1,59 @@
+.content{
+    width: 700px;
+    height: 900px;
+    margin: auto;
+    border: 1px solid #5865bb;
+}
+
+.userList{
+    background: #f7f0ff;
+    border: 1px solid #5865bb;
+    width: 23%;
+    height: 97%;
+    float: left;
+    overflow: auto;
+    box-sizing: border-box;
+}
+
+.messageHistory{
+    background: #f7f0ff;
+    border: 1px solid #5865bb;
+    width: 77%;
+    height: 97%;
+    float: left;
+    overflow: auto;
+    box-sizing: border-box;
+}
+
+.myName{
+    background: #fffff5;
+    border: 1px solid #5865bb;
+    width: 23%;
+    height: 3%;
+    float: left;
+    box-sizing: border-box;
+    padding: 3px;
+}
+
+.areaToMessage{
+    background: #f7f0ff;
+    border: 1px solid #5865bb;
+    width: 77%;
+    height: 3%;
+    float: left;
+    box-sizing: border-box;
+    padding: 3px;
+}
+
+.inputArea{
+    width: 100%;
+    border: 0px;
+}
+
+.participant{
+
+}
+
+.message{
+
+}
