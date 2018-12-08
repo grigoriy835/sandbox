@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Request>
+    <Header>
+        <Authentication>
+            <Login>{{ login }}</Login>
+            <NowUtc>{{ now }}</NowUtc>
+            <Signature>{{ signature }}</Signature>
+        </Authentication>
+    </Header>
+    <CreateInvoiceRequest>
+        <ProjectID>{{ project_i }}</ProjectID>
+        <ClientIP>{{ ip }}</ClientIP>
+        <UndefinedMobilePhoneCustomer>
+            <NetworkID>{{ network_id }}</NetworkID>
+        </UndefinedMobilePhoneCustomer>
+        <InvoiceInfo>
+            <Description></Description>
+            <MerchantOrderID>{{ uniq_hash }}</MerchantOrderID>
+            <CustomerPrice amount="{{ amount }}" currency="RUB" includingVAT="false" />
+            <AllowDownscaling>true</AllowDownscaling>
+        </InvoiceInfo>
+    </CreateInvoiceRequest>
+</Request>
