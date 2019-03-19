@@ -1,0 +1,11 @@
+<h2>all my Bitchez</h2>
+
+<ul class="bitchez">
+  <li *ngFor="let bitch of bitchez"
+      (click)="onSelect(bitch)"
+      [class.selected]="bitch === selectedBitch">
+    <span class="badge">{{bitch.id}}</span> {{bitch.name}}
+  </li>
+</ul>
+
+<app-bitch-detail [bitch]="selectedBitch"></app-bitch-detail>
