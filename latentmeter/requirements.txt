@@ -1,0 +1,3 @@
+python-dotenv
+aiohttp
+pyTelegramBotAPI # https://github.com/eternnoir/pyTelegramBotAPI#asynchronous-delivery-of-messages
