@@ -1,6 +1,6 @@
 import {Component, OnInit} from '@angular/core';
 import {Bitch} from '../../models/bitch';
-import {BITCHEZ} from "../../mock-bitchez";
+import {BitchService} from "../../bitch.service";
 
 
 @Component({
@@ -10,12 +10,17 @@ import {BITCHEZ} from "../../mock-bitchez";
 })
 export class BitchezComponent implements OnInit {
 
-  bitchez: Bitch[] = BITCHEZ;
+  bitchez: Bitch[];
 
-  constructor() {
+  constructor(private bitchService: BitchService) {
   }
 
   ngOnInit() {
+    this.getBitchez();
+  }
+
+  getBitchez(): void {
+    this.bitchService.getBitchez().subscribe(bitchez => this.bitchez = bitchez);
   }
 
   selectedBitch: Bitch;
