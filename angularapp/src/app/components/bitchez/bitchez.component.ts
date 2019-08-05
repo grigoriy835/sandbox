@@ -22,9 +22,4 @@ export class BitchezComponent implements OnInit {
   getBitchez(): void {
     this.bitchService.getBitchez().subscribe(bitchez => this.bitchez = bitchez);
   }
-
-  selectedBitch: Bitch;
-  onSelect(bitch: Bitch): void {
-    this.selectedBitch = bitch;
-  }
 }

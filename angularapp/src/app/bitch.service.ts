@@ -9,10 +9,17 @@ import { MessageService } from './message.service'
 })
 export class BitchService {
 
+  constructor(private messageService: MessageService) { }
+
   getBitchez(): Observable<Bitch[]> {
     // TODO: send the message _after_ fetching the heroes
     this.messageService.add('Hfetched bitchez');
     return of(BITCHEZ);
   }
-  constructor(private messageService: MessageService) { }
+
+  getBitch(id: number): Observable<Bitch> {
+    this.messageService.add(`fetched bitch if= ${id}`);
+    return of(BITCHEZ.find(bitch => bitch.id == id))
+  }
+
 }

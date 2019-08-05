@@ -7,13 +7,15 @@ import {BitchezComponent} from './components/bitchez/bitchez.component';
 import {BitchDetailComponent} from './components/bitch-detail/bitch-detail.component';
 import { MessagesComponent } from './components/messages/messages.component';
 import { AppRoutingModule } from './app-routing.module';
+import { DashboardComponent } from './components/dashboard/dashboard.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     BitchezComponent,
     BitchDetailComponent,
-    MessagesComponent
+    MessagesComponent,
+    DashboardComponent
   ],
   imports: [
     FormsModule,
