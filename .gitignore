@@ -1,5 +1,7 @@
 .idea/
 vendor/
+venv/
+out/
 node_modules/
 package-lock.json
 .env
