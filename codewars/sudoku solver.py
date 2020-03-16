@@ -8,7 +8,6 @@ puzzle = [[5,3,0,0,7,0,0,0,0],
           [0,0,0,4,1,9,0,0,5],
           [0,0,0,0,8,0,0,7,9]]
 
-import functools
 temp = None
 
 
@@ -90,7 +89,7 @@ def possibles(puzzle, x, y):
     col = set(zip(*puzzle)[y])
     return set(range(1,10)).difference(square.union(row).union(col))
 
-def sudoku(puzzle):
+def sudoku2(puzzle):
     z = [(r,c) for (r,c) in product(range(9),range(9)) if puzzle[r][c] == 0]
     if z == []:
         return puzzle
