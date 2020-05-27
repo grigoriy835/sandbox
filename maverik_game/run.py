@@ -46,6 +46,8 @@ def main():
                 if event.key == 0:
                     going = False
 
+        allsprites.update()
+        
         # Draw Everything
         screen.blit(background, (0, 0))
         allsprites.draw(background)
