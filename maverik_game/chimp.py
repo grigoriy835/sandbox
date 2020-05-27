@@ -153,8 +153,7 @@ def main():
 
     # Prepare Game Objects
     clock = pygame.time.Clock()
-    whiff_sound = load_sound('whiff.wav')
-    punch_sound = load_sound('punch.wav')
+
     chimp = Chimp()
     fist = Fist()
     allsprites = pygame.sprite.RenderPlain((fist, chimp))
@@ -172,10 +171,7 @@ def main():
                 going = False
             elif event.type == MOUSEBUTTONDOWN:
                 if fist.punch(chimp):
-                    punch_sound.play()  # punch
                     chimp.punched()
-                else:
-                    whiff_sound.play()  # miss
             elif event.type == MOUSEBUTTONUP:
                 fist.unpunch()
 
