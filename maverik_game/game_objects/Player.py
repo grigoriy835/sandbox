@@ -4,10 +4,11 @@ from pygame.sprite import Sprite
 
 class Player(Sprite):
 
-    def __init__(self):
+    def __init__(self, world):
         Sprite.__init__(self)
         # Create an image of the block, and fill it with a color.
         # This could also be an image loaded from the disk.
+        self.world = world
         self.width = 40
         self.height = 100
         self.color = (150, 10, 200)
@@ -21,7 +22,7 @@ class Player(Sprite):
         self.area = screen.get_rect()
         self.rect.topleft = self.area.width / 2 - self.width, self.area.height / 2 - self.height
         self.speed = [0, 0]
-        self.acc = [1, 0]
+        self.acc = [0, 1]
         self.can_jump = True
 
     def jump(self):
@@ -37,20 +38,9 @@ class Player(Sprite):
         self.speed[1] = 0
     
     def update(self, *args):
-        newpos = self.rect.move(self.speed)
-        new_speed = self.get_speed()
-        self.speed[0] = new_speed[0]
-        self.speed[1] = new_speed[1]
-        self.rect = newpos
-
-    def get_speed(self):
-        speed = [0, 0]
-        if self.rect.right < self.area.right:
-            speed[0] += self.acc[0]
-            speed[1] += self.acc[1]
-            return speed
-        elif self.rect.left > self.area.left:
-            speed[0] += self.acc[0]
-            speed[1] += self.acc[-1]
-            return speed
+        if self.rect.bottom < self.world.rect.top - 9:
+            self.speed[0] += self.acc[0]
+            self.speed[1] += self.acc[1]
+            newpos = self.rect.move(self.speed)
+            self.rect = newpos
 

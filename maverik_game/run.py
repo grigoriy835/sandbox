@@ -23,9 +23,10 @@ def main():
     background.fill((250, 250, 250))
     screen.blit(background, (0, 0))
     pygame.display.flip()
-    
-    player = Player()
+
     world = World()
+    player = Player(world)
+
     allsprites = pygame.sprite.RenderPlain((player, world))
 
     screen.blit(background, (0, 0))
