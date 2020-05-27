@@ -1,8 +1,9 @@
-import os, sys
 import pygame
-from pygame import draw
 from pygame.locals import *
-import random
+
+from Constants import Constants
+from game_objects.Player import Player
+from game_objects.World import World
 
 if not pygame.font: print('Warning, fonts disabled')
 if not pygame.mixer: print('Warning, sound disabled')
@@ -10,7 +11,7 @@ if not pygame.mixer: print('Warning, sound disabled')
 def main():
     # Initialize Everything
     pygame.init()
-    screen = pygame.display.set_mode((1000,600))
+    screen = pygame.display.set_mode((Constants.WORLD_WIDTH, Constants.WORLD_HEIGHT))
     pygame.display.set_caption('fuck')
     pygame.mouse.set_visible(0)
 
@@ -19,7 +20,8 @@ def main():
     background = background.convert()
     background.fill((250, 250, 250))
     screen.blit(background, (0, 0))
-
+    world = World()
+    player = Player()
     clock = pygame.time.Clock()
     # Main Loop
     going = True
@@ -33,6 +35,12 @@ def main():
             if event.type == KEYDOWN:
                 if event.key == 0:
                     going = False
+
+        # Draw Everything
+        screen.blit(background, (0, 0))
+        world.draw()
+        player.draw()
+        pygame.display.flip()
 
     pygame.quit()
 
