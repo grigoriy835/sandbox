@@ -25,7 +25,8 @@ def main():
     pygame.display.flip()
     
     player = Player()
-    allsprites = pygame.sprite.RenderPlain((player))
+    world = World()
+    allsprites = pygame.sprite.RenderPlain((player, world))
 
     screen.blit(background, (0, 0))
     allsprites.draw(screen)
@@ -47,8 +48,7 @@ def main():
 
         # Draw Everything
         screen.blit(background, (0, 0))
-        world.draw()
-        player.draw()
+        allsprites.draw(background)
         pygame.display.flip()
 
     pygame.quit()
