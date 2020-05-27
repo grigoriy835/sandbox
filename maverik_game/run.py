@@ -50,7 +50,7 @@ def main():
         
         # Draw Everything
         screen.blit(background, (0, 0))
-        allsprites.draw(background)
+        allsprites.draw(screen)
         pygame.display.flip()
 
     pygame.quit()

@@ -33,23 +33,24 @@ class Player(Sprite):
         self.speed[1] = dir
 
     def move_stop(self):
+        self.speed[0] = 0
         self.speed[1] = 0
     
     def update(self, *args):
         newpos = self.rect.move(self.speed)
-        if not self.area.contains(newpos):
-            if self.rect.left < self.area.left:
-                self.rect.left = self.area.left
-                self.move_stop()
-            if self.rect.right < self.area.right:
-                self.rect.right = self.area.right
-                self.move_stop()
-            if self.rect.top < self.area.top:
-                self.rect.top = self.area.top
-                self.move_stop()
-            if self.rect.bottom < self.area.bottom:
-                self.rect.bottom = self.area.bottom
-                self.move_stop()
-            self.rect = newpos
-        self.speed[0] += self.acc[0]
-        self.speed[1] += self.acc[1]
+        new_speed = self.get_speed()
+        self.speed[0] = new_speed[0]
+        self.speed[1] = new_speed[1]
+        self.rect = newpos
+
+    def get_speed(self):
+        speed = [0, 0]
+        if self.rect.right < self.area.right:
+            speed[0] += self.acc[0]
+            speed[1] += self.acc[1]
+            return speed
+        elif self.rect.left > self.area.left:
+            speed[0] += self.acc[0]
+            speed[1] += self.acc[-1]
+            return speed
+
