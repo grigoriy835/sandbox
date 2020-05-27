@@ -1,4 +1,6 @@
+import os, sys
 import pygame
+from pygame import draw
 from pygame.locals import *
 
 from Constants import Constants
@@ -13,15 +15,22 @@ def main():
     pygame.init()
     screen = pygame.display.set_mode((Constants.WORLD_WIDTH, Constants.WORLD_HEIGHT))
     pygame.display.set_caption('fuck')
-    pygame.mouse.set_visible(0)
+    pygame.mouse.set_visible(1)
 
     #The Backgound
     background = pygame.Surface(screen.get_size())
     background = background.convert()
     background.fill((250, 250, 250))
     screen.blit(background, (0, 0))
-    world = World()
+    pygame.display.flip()
+    
     player = Player()
+    allsprites = pygame.sprite.RenderPlain((player))
+
+    screen.blit(background, (0, 0))
+    allsprites.draw(screen)
+    pygame.display.flip()
+
     clock = pygame.time.Clock()
     # Main Loop
     going = True
