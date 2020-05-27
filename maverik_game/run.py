@@ -44,8 +44,15 @@ def main():
             if event.type == pygame.QUIT:
                 going = False
             if event.type == KEYDOWN:
-                if event.key == 0:
-                    going = False
+                if event.key == 32:
+                    player.jump()
+                if event.key == 276:
+                    player.move_up(-3)
+                if event.key == 275:
+                    player.move_up(3)
+            if event.type == KEYUP:
+                if event.key == 276 or event.key == 275:
+                    player.move_stop()
 
         allsprites.update()
         

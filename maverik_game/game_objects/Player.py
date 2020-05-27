@@ -30,17 +30,21 @@ class Player(Sprite):
             self.speed[1] -= 10
             self.can_jump = False
 
+    def jump_stop(self):
+        self.speed[1] = 0
+        self.can_jump = True
+
     def move_up(self, dir):
         self.speed[1] = dir
 
     def move_stop(self):
         self.speed[0] = 0
-        self.speed[1] = 0
     
     def update(self, *args):
-        if self.rect.bottom < self.world.rect.top - 9:
-            self.speed[0] += self.acc[0]
-            self.speed[1] += self.acc[1]
-            newpos = self.rect.move(self.speed)
-            self.rect = newpos
-
+        newpos = self.rect.move(self.speed)
+        if newpos.bottom > self.world.rect.top:
+            newpos.bottom = self.world.rect.top
+        self.rect = newpos
+        self.speed[0] += self.acc[0]
+        self.speed[1] += self.acc[1]
+      
