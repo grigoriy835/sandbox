@@ -39,7 +39,7 @@ def main():
     while going:
         clock.tick(60)
         for event in pygame.event.get():
-            if event.type != pygame.MOUSEMOTION:
+            if event.type not in [pygame.MOUSEMOTION, pygame.ACTIVEEVENT] :
                 print(event)
             if event.type == pygame.QUIT:
                 going = False
