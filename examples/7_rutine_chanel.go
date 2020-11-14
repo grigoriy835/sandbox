@@ -5,23 +5,35 @@ import (
 	"time"
 )
 
+func main() {
+	fmt.Println("start")
+
+	gorutine()
+
+	channel()
+
+	bufferedChannel()
+
+	syncByChannel()
+
+	usingSelect()
+
+	timeout()
+
+	nonBlocking()
+
+	closingChannel()
+
+	rangeOverChannel()
+}
+
 func f(from string) {
 	for i := 0; i < 3; i++ {
 		fmt.Println(from, ":", i)
 	}
 }
 
-func worker(done chan bool) {
-	fmt.Print("working...")
-	time.Sleep(time.Second)
-	fmt.Println("done")
-
-	done <- true
-}
-
-func main() {
-	// GORUTINE -----------------------------------------------------------------------------
-
+func gorutine() {
 	f("direct")
 
 	go f("goroutine")
@@ -32,18 +44,18 @@ func main() {
 
 	time.Sleep(time.Second)
 	fmt.Println("done")
+}
 
-	//CHAIN -----------------------------------------------------------------------
-
+func channel() {
 	messages := make(chan string)
 
 	go func() { messages <- "ping" }()
 
 	msg := <-messages
 	fmt.Println(msg)
+}
 
-	//BUFFERED ---------------------------------------------------------------------
-
+func bufferedChannel() {
 	messages1 := make(chan string, 2)
 
 	messages1 <- "buffered"
@@ -51,15 +63,22 @@ func main() {
 
 	fmt.Println(<-messages1)
 	fmt.Println(<-messages1)
+}
 
-	//GORUTINE SYNC ---------------------------------------------------------------\
-
+func syncByChannel() {
 	done := make(chan bool, 1)
-	go worker(done)
+	go func(done chan bool) {
+		fmt.Print("working...")
+		time.Sleep(time.Second)
+		fmt.Println("done")
+
+		done <- true
+	}(done)
 
 	<-done
+}
 
-	//SELECT ----------------------------------------------------------------------------
+func usingSelect() {
 	c1 := make(chan string)
 	c2 := make(chan string)
 
@@ -80,9 +99,9 @@ func main() {
 			fmt.Println("received", msg2)
 		}
 	}
+}
 
-	//TIMEOUT -----------------------------------------------------------------------
-
+func timeout() {
 	v1 := make(chan string, 1)
 	go func() {
 		time.Sleep(2 * time.Second)
@@ -107,9 +126,9 @@ func main() {
 	case <-time.After(3 * time.Second):
 		fmt.Println("timeout 2")
 	}
+}
 
-	// NON-BLOCKING -------------------------------------------------------------
-
+func nonBlocking() {
 	messages2 := make(chan string)
 	signals := make(chan bool)
 
@@ -120,7 +139,7 @@ func main() {
 		fmt.Println("no message received")
 	}
 
-	msg = "hi"
+	msg := "hi"
 	select {
 	case messages2 <- msg:
 		fmt.Println("sent message", msg)
@@ -136,9 +155,9 @@ func main() {
 	default:
 		fmt.Println("no activity")
 	}
+}
 
-	//CLOSING JOBS -------------------------------------------------------------------------
-
+func closingChannel() {
 	jobs := make(chan int, 5)
 	done1 := make(chan bool)
 
@@ -163,9 +182,9 @@ func main() {
 	fmt.Println("sent all jobs")
 
 	<-done1
+}
 
-	// RANGE ---------------------------------------------------------------------------------------
-
+func rangeOverChannel() {
 	queue := make(chan string, 2)
 	queue <- "one"
 	queue <- "two"
