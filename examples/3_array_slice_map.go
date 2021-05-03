@@ -67,6 +67,20 @@ func main() {
 	}
 	fmt.Println("2d: ", twoD) // 2d:  [[0] [1 2] [2 3 4]]
 
+	//delete from slice
+	var ll []int
+	ll = make([]int, 0)
+	ll = append(ll, 1, 2, 3, 4, 5)
+
+	for k, v := range ll {
+		if v == 3 {
+			ll = append(ll[:k], ll[k+1:]...)
+			break
+		}
+	}
+
+	fmt.Println(ll)
+
 	// MAP---------------------------------------------------------------------------------
 	var m map[string]int
 	m = make(map[string]int)

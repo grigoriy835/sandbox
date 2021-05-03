@@ -129,6 +129,7 @@ func timeout() {
 }
 
 func nonBlocking() {
+	// Basic sends and receives on channels are blocking. However, we can use select with a default
 	messages2 := make(chan string)
 	signals := make(chan bool)
 

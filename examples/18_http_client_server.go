@@ -9,7 +9,7 @@ import (
 func main() {
 	print("start\n")
 
-	client()
+	//client()
 	server()
 }
 
@@ -48,10 +48,21 @@ func headers(w http.ResponseWriter, req *http.Request) {
 	}
 }
 
+func getParams(w http.ResponseWriter, req *http.Request) {
+	fmt.Println(req.URL.Query())
+
+	for name, params := range req.URL.Query() {
+		for _, h := range params {
+			fmt.Fprintf(w, "%v: %v\n", name, h)
+		}
+	}
+}
+
 func server() {
 
 	http.HandleFunc("/hello", hello1)
 	http.HandleFunc("/headers", headers)
+	http.HandleFunc("/get_params", getParams)
 
 	http.ListenAndServe(":8090", nil)
 }

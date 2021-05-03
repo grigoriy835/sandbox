@@ -2,11 +2,51 @@ package main
 
 import (
 	"flag"
-	"fmt"
 	"github.com/gorilla/websocket"
+	"io/ioutil"
 	"log"
 	"net/http"
+	"sync"
 )
+
+type Client struct {
+	id string
+	C  chan []byte
+}
+
+type ClientsList struct {
+	sync.Mutex
+	clients []*Client
+}
+
+func (cList *ClientsList) Push(c *Client) {
+	cList.Lock()
+	defer cList.Unlock()
+	cList.clients = append(cList.clients, c)
+}
+
+func (cList *ClientsList) Delete(clientId string) {
+	cList.Lock()
+	defer cList.Unlock()
+
+	for index, client := range cList.clients {
+		if client.id == clientId {
+			cList.clients = append(cList.clients[:index], cList.clients[index+1:]...)
+			break
+		}
+	}
+}
+
+func (cList *ClientsList) SendToAll(mess []byte) {
+	cList.Lock()
+	defer cList.Unlock()
+
+	for _, client := range cList.clients {
+		client.C <- mess
+	}
+}
+
+var nameSpaces = make(map[string]ClientsList)
 
 var addr = flag.String("addr", "localhost:8880", "http service address")
 
@@ -19,14 +59,23 @@ func get_updates(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	defer c.Close()
+
+	cliId := r.URL.Query()["id"][0]
+	namespace := r.URL.Query()["namespace"][0]
+
+	cList, prs := nameSpaces[namespace]
+	if !prs {
+		cList = ClientsList{}
+		nameSpaces[namespace] = cList
+	}
+
+	cli := Client{cliId, make(chan []byte)}
+	cList.Push(&cli)
+	defer cList.Delete(cliId)
+
 	for {
-		mt, message, err := c.ReadMessage()
-		if err != nil {
-			log.Println("read:", err)
-			break
-		}
-		log.Printf("recv: %s", message)
-		err = c.WriteMessage(mt, message)
+		message := <-cli.C
+		err = c.WriteMessage(websocket.TextMessage, message)
 		if err != nil {
 			log.Println("write:", err)
 			break
@@ -35,8 +84,18 @@ func get_updates(w http.ResponseWriter, r *http.Request) {
 }
 
 func push_update(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprintf(w, "hello\n")
-	log.Println("hello bitch")
+	namespace := r.URL.Query()["namespace"][0]
+	message, err := ioutil.ReadAll(r.Body)
+	if err != nil {
+		log.Fatalln(err)
+	}
+	cList, prs := nameSpaces[namespace]
+	if !prs && len(cList.clients) == 0 {
+		return
+	}
+	cList.SendToAll(message)
+
+	w.WriteHeader(http.StatusOK)
 }
 
 func main() {
