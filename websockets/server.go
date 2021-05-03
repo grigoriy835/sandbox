@@ -2,12 +2,15 @@ package main
 
 import (
 	"flag"
+	"fmt"
 	"github.com/gorilla/websocket"
 	"io/ioutil"
 	"log"
 	"net/http"
 	"sync"
 )
+
+var addr = flag.String("addr", "localhost:8880", "http service address")
 
 type Client struct {
 	id string
@@ -46,9 +49,7 @@ func (cList *ClientsList) SendToAll(mess []byte) {
 	}
 }
 
-var nameSpaces = make(map[string]ClientsList)
-
-var addr = flag.String("addr", "localhost:8880", "http service address")
+var nameSpaces = make(map[string]*ClientsList)
 
 var upgrader = websocket.Upgrader{} // use default options
 
@@ -63,9 +64,12 @@ func get_updates(w http.ResponseWriter, r *http.Request) {
 	cliId := r.URL.Query()["id"][0]
 	namespace := r.URL.Query()["namespace"][0]
 
+	fmt.Printf("new client %s in %s\n", cliId, namespace)
+	defer fmt.Printf("client out %s\n", cliId)
+
 	cList, prs := nameSpaces[namespace]
 	if !prs {
-		cList = ClientsList{}
+		cList = &ClientsList{}
 		nameSpaces[namespace] = cList
 	}
 
@@ -75,6 +79,7 @@ func get_updates(w http.ResponseWriter, r *http.Request) {
 
 	for {
 		message := <-cli.C
+		fmt.Printf("write %v to %s\n", message, cliId)
 		err = c.WriteMessage(websocket.TextMessage, message)
 		if err != nil {
 			log.Println("write:", err)
@@ -90,9 +95,11 @@ func push_update(w http.ResponseWriter, r *http.Request) {
 		log.Fatalln(err)
 	}
 	cList, prs := nameSpaces[namespace]
-	if !prs && len(cList.clients) == 0 {
+	if !prs || len(cList.clients) == 0 {
+		fmt.Fprintln(w, "no clients detected\n")
 		return
 	}
+	fmt.Printf("write message %s to all in %v\n", message, namespace)
 	cList.SendToAll(message)
 
 	w.WriteHeader(http.StatusOK)
