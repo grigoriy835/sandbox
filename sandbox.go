@@ -2,42 +2,28 @@ package main
 
 import (
 	"fmt"
-	"time"
 )
 
-func get(messages chan string, prefix string) {
-	for {
-		mess := <-messages
-		println(mess + prefix)
-	}
+type Test struct {
+	tt []string
+}
+
+func (test *Test) do() []string {
+	return append([]string{}, test.tt...)
 }
 
 func main() {
-	print("start\n")
+	fmt.Println("start\n")
 
-	messages := make(chan string)
+	ll := make([][]byte, 10)
 
-	go get(messages, " first")
-	go get(messages, " second")
-
-	go func() {
-		ticker := time.NewTicker(time.Hour)
-		for {
-			<-ticker.C
-			messages <- "mess"
-		}
-	}()
-
-	var ll []int
-	ll = make([]int, 0)
-	ll = append(ll, 1, 2, 3, 4, 5)
-
-	for k, v := range ll {
-		if v == 3 {
-			ll = append(ll[:k], ll[k+1:]...)
-			break
+	for _, v := range ll {
+		if v != nil {
+			fmt.Println("ne nil")
+		} else {
+			fmt.Println("nil")
 		}
 	}
-
 	fmt.Println(ll)
+
 }

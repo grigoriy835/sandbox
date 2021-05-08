@@ -3,6 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
+	"github.com/google/uuid"
 	"github.com/gorilla/websocket"
 	"io/ioutil"
 	"log"
@@ -12,44 +13,8 @@ import (
 
 var addr = flag.String("addr", "localhost:8880", "http service address")
 
-type Client struct {
-	id string
-	C  chan []byte
-}
-
-type ClientsList struct {
-	sync.Mutex
-	clients []*Client
-}
-
-func (cList *ClientsList) Push(c *Client) {
-	cList.Lock()
-	defer cList.Unlock()
-	cList.clients = append(cList.clients, c)
-}
-
-func (cList *ClientsList) Delete(clientId string) {
-	cList.Lock()
-	defer cList.Unlock()
-
-	for index, client := range cList.clients {
-		if client.id == clientId {
-			cList.clients = append(cList.clients[:index], cList.clients[index+1:]...)
-			break
-		}
-	}
-}
-
-func (cList *ClientsList) SendToAll(mess []byte) {
-	cList.Lock()
-	defer cList.Unlock()
-
-	for _, client := range cList.clients {
-		client.C <- mess
-	}
-}
-
 var nameSpaces = make(map[string]*ClientsList)
+var history = make(map[string]*History)
 
 var upgrader = websocket.Upgrader{} // use default options
 
@@ -61,21 +26,41 @@ func get_updates(w http.ResponseWriter, r *http.Request) {
 	}
 	defer c.Close()
 
-	cliId := r.URL.Query()["id"][0]
-	namespace := r.URL.Query()["namespace"][0]
+	cliId := r.URL.Query()["id"]
+	namespace := r.URL.Query()["namespace"]
+	reconnect := r.URL.Query()["reconnect"]
 
-	fmt.Printf("new client %s in %s\n", cliId, namespace)
-	defer fmt.Printf("client out %s\n", cliId)
-
-	cList, prs := nameSpaces[namespace]
-	if !prs {
-		cList = &ClientsList{}
-		nameSpaces[namespace] = cList
+	if len(cliId) == 0 {
+		cliId = []string{"generated_" + uuid.NewString()}
 	}
 
-	cli := Client{cliId, make(chan []byte)}
+	fmt.Printf("new client %s in %s\n", cliId[0], namespace[0])
+	defer fmt.Printf("client out %s\n", cliId[0])
+
+	cList, prs := nameSpaces[namespace[0]]
+	if !prs {
+		cList = &ClientsList{}
+		nameSpaces[namespace[0]] = cList
+	}
+
+	cli := Client{cliId[0], make(chan []byte)}
 	cList.Push(&cli)
-	defer cList.Delete(cliId)
+	defer cList.Delete(cliId[0])
+
+	if len(reconnect) > 0 && reconnect[0] == "1" {
+		historyByNamespace, prs := history[namespace[0]]
+		if prs {
+			for _, message := range historyByNamespace.GetArr() {
+				if message != nil {
+					err = c.WriteMessage(websocket.TextMessage, message)
+					if err != nil {
+						log.Println("write:", err)
+						break
+					}
+				}
+			}
+		}
+	}
 
 	for {
 		message := <-cli.C
@@ -100,6 +85,13 @@ func push_update(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	fmt.Printf("write message %s to all in %v\n", message, namespace)
+	historyByNamespace, prs := history[namespace]
+	if !prs {
+		historyByNamespace = &History{sync.Mutex{}, make([][]byte, 10)}
+		history[namespace] = historyByNamespace
+	}
+
+	historyByNamespace.Add(message)
 	cList.SendToAll(message)
 
 	w.WriteHeader(http.StatusOK)

@@ -51,6 +51,9 @@ func headers(w http.ResponseWriter, req *http.Request) {
 func getParams(w http.ResponseWriter, req *http.Request) {
 	fmt.Println(req.URL.Query())
 
+	namespace := req.URL.Query()["namespace"]
+	fmt.Println(namespace)
+
 	for name, params := range req.URL.Query() {
 		for _, h := range params {
 			fmt.Fprintf(w, "%v: %v\n", name, h)
