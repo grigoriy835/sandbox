@@ -1,7 +1,7 @@
 package main
 
 import (
-	"flag"
+	"crypto/subtle"
 	"fmt"
 	"github.com/google/uuid"
 	"github.com/gorilla/websocket"
@@ -11,14 +11,35 @@ import (
 	"sync"
 )
 
-var addr = flag.String("addr", "localhost:8880", "http service address")
+const (
+	CONN_HOST = "localhost"
+	CONN_PORT = "8080"
+	USER      = "admin"
+	PASSWORD  = "admin"
+)
 
 var nameSpaces = make(map[string]*ClientsList)
 var history = make(map[string]*History)
 
 var upgrader = websocket.Upgrader{} // use default options
 
+func BasicAuth(w http.ResponseWriter, r *http.Request) bool {
+	user, pass, ok := r.BasicAuth()
+	if !ok || subtle.ConstantTimeCompare([]byte(user),
+		[]byte(USER)) != 1 || subtle.ConstantTimeCompare([]byte(pass),
+		[]byte(PASSWORD)) != 1 {
+		w.Header().Set("WWW-Authenticate", `Basic realm="Credentials:"`)
+		w.WriteHeader(401)
+		w.Write([]byte("Unauthorized\n"))
+		return false
+	}
+	return true
+}
+
 func get_updates(w http.ResponseWriter, r *http.Request) {
+	if !BasicAuth(w, r) {
+		return
+	}
 	c, err := upgrader.Upgrade(w, r, nil)
 	if err != nil {
 		log.Print("upgrade:", err)
@@ -74,6 +95,9 @@ func get_updates(w http.ResponseWriter, r *http.Request) {
 }
 
 func push_update(w http.ResponseWriter, r *http.Request) {
+	if !BasicAuth(w, r) {
+		return
+	}
 	namespace := r.URL.Query()["namespace"][0]
 	message, err := ioutil.ReadAll(r.Body)
 	if err != nil {
@@ -101,5 +125,5 @@ func main() {
 	log.SetFlags(0)
 	http.HandleFunc("/get_updates", get_updates)
 	http.HandleFunc("/push_update", push_update)
-	log.Fatal(http.ListenAndServe(*addr, nil))
+	log.Fatal(http.ListenAndServe(CONN_HOST+":"+CONN_PORT, nil))
 }
