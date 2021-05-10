@@ -13,7 +13,7 @@ import (
 
 var addrs = flag.String("addr", "localhost:8880", "http service address")
 
-func main() {
+func main1() {
 	flag.Parse()
 	log.SetFlags(0)
 

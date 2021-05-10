@@ -37,12 +37,9 @@ func BasicAuth(w http.ResponseWriter, r *http.Request) bool {
 }
 
 func get_updates(w http.ResponseWriter, r *http.Request) {
-	if !BasicAuth(w, r) {
-		return
-	}
 	c, err := upgrader.Upgrade(w, r, nil)
 	if err != nil {
-		log.Print("upgrade:", err)
+		log.Print("server: upgrade:", err)
 		return
 	}
 	defer c.Close()
@@ -50,13 +47,19 @@ func get_updates(w http.ResponseWriter, r *http.Request) {
 	cliId := r.URL.Query()["id"]
 	namespace := r.URL.Query()["namespace"]
 	reconnect := r.URL.Query()["reconnect"]
+	login := r.URL.Query()["login"]
+	password := r.URL.Query()["password"]
+	if len(login) < 1 || len(password) < 1 || login[0] != USER || password[0] != PASSWORD {
+		log.Print("server: drop unauthorized client: ", cliId, login, password)
+		return
+	}
 
 	if len(cliId) == 0 {
 		cliId = []string{"generated_" + uuid.NewString()}
 	}
 
-	fmt.Printf("new client %s in %s\n", cliId[0], namespace[0])
-	defer fmt.Printf("client out %s\n", cliId[0])
+	fmt.Printf("server: new client %s in %s\n", cliId[0], namespace[0])
+	defer fmt.Printf("server: client out %s\n", cliId[0])
 
 	cList, prs := nameSpaces[namespace[0]]
 	if !prs {
@@ -75,7 +78,7 @@ func get_updates(w http.ResponseWriter, r *http.Request) {
 				if message != nil {
 					err = c.WriteMessage(websocket.TextMessage, message)
 					if err != nil {
-						log.Println("write:", err)
+						log.Println("server: write:", err)
 						break
 					}
 				}
@@ -85,10 +88,10 @@ func get_updates(w http.ResponseWriter, r *http.Request) {
 
 	for {
 		message := <-cli.C
-		fmt.Printf("write %v to %s\n", message, cliId)
+		fmt.Printf("server: write %v to %s\n", message, cliId)
 		err = c.WriteMessage(websocket.TextMessage, message)
 		if err != nil {
-			log.Println("write:", err)
+			log.Println("server: write:", err)
 			break
 		}
 	}
@@ -105,10 +108,9 @@ func push_update(w http.ResponseWriter, r *http.Request) {
 	}
 	cList, prs := nameSpaces[namespace]
 	if !prs || len(cList.clients) == 0 {
-		fmt.Fprintln(w, "no clients detected\n")
+		fmt.Fprintln(w, "server: no clients detected")
 		return
 	}
-	fmt.Printf("write message %s to all in %v\n", message, namespace)
 	historyByNamespace, prs := history[namespace]
 	if !prs {
 		historyByNamespace = &History{sync.Mutex{}, make([][]byte, 10)}
@@ -123,6 +125,7 @@ func push_update(w http.ResponseWriter, r *http.Request) {
 
 func main() {
 	log.SetFlags(0)
+	log.Println("server: start server")
 	http.HandleFunc("/get_updates", get_updates)
 	http.HandleFunc("/push_update", push_update)
 	log.Fatal(http.ListenAndServe(CONN_HOST+":"+CONN_PORT, nil))
