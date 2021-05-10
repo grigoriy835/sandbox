@@ -138,4 +138,9 @@ func CheckMessagesFromSocket(clientPrefix string, url string, messages []string,
 			return
 		}
 	}
+	err = c.WriteMessage(websocket.CloseMessage, websocket.FormatCloseMessage(websocket.CloseNormalClosure, ""))
+	if err != nil {
+		log.Println("write close:", err)
+		return
+	}
 }
