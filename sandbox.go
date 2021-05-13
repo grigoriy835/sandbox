@@ -3,7 +3,6 @@ package main
 import (
 	"crypto/subtle"
 	"fmt"
-	"log"
 	"net/http"
 )
 
@@ -32,10 +31,6 @@ func BasicAuth(handler http.HandlerFunc, realm string) http.HandlerFunc {
 	}
 }
 func main() {
-	http.HandleFunc("/", BasicAuth(helloWorld, "Please enter yourusername and password"))
-	err := http.ListenAndServe(CONN_HOST+":"+CONN_PORT, nil)
-	if err != nil {
-		log.Fatal("error starting http server : ", err)
-		return
-	}
+
+	fmt.Println(rr)
 }

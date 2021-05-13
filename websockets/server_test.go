@@ -21,7 +21,7 @@ func TestServer1(t *testing.T) {
 
 	//message emitter 1 to test
 	go func() {
-		u := url.URL{Scheme: "http", Host: CONN_HOST + ":" + CONN_PORT,
+		u := url.URL{Scheme: "http", Host: "localhost:" + CONN_PORT,
 			Path: "/push_update", User: url.UserPassword(USER, PASSWORD),
 			RawQuery: "namespace=test"}
 		messages := []string{"mess1", "mess2", "mess3", "mess4"}

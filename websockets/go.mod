@@ -1,4 +1,4 @@
-module websockets
+module maverik_websockets
 
 go 1.15
 

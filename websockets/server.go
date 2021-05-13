@@ -8,15 +8,22 @@ import (
 	"io/ioutil"
 	"log"
 	"net/http"
+	"os"
 	"sync"
 )
 
-const (
-	CONN_HOST = "localhost"
-	CONN_PORT = "8080"
-	USER      = "admin"
-	PASSWORD  = "admin"
-)
+func getEnv(key, fallback string) string {
+	if value, ok := os.LookupEnv(key); ok {
+		return value
+	}
+	log.Printf("server: WARN env variable %s is not setted", key)
+	return fallback
+}
+
+var CONN_HOST = "0.0.0.0"
+var CONN_PORT = getEnv("ws_port", "8080")
+var USER = getEnv("ws_user", "admin")
+var PASSWORD = getEnv("ws_password", "admin")
 
 var nameSpaces = make(map[string]*ClientsList)
 var history = make(map[string]*History)
