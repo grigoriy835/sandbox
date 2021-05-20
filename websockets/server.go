@@ -8,7 +8,9 @@ import (
 	"io/ioutil"
 	"log"
 	"net/http"
+	"net/url"
 	"os"
+	"strings"
 	"sync"
 )
 
@@ -28,8 +30,17 @@ var PASSWORD = getEnv("ws_password", "admin")
 var nameSpaces = make(map[string]*ClientsList)
 var history = make(map[string]*History)
 
-//todo mb add origin validation to upgrader
-var upgrader = websocket.Upgrader{} // use default options
+var upgrader = websocket.Upgrader{CheckOrigin: func(r *http.Request) bool {
+	origin := r.Header["Origin"]
+	if len(origin) == 0 {
+		return true
+	}
+	u, err := url.Parse(origin[0])
+	if err != nil {
+		return false
+	}
+	return strings.Split(u.Host, ":")[0] == strings.Split(r.Host, ":")[0]
+}}
 
 func BasicAuth(w http.ResponseWriter, r *http.Request) bool {
 	user, pass, ok := r.BasicAuth()
