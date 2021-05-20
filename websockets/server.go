@@ -28,6 +28,7 @@ var PASSWORD = getEnv("ws_password", "admin")
 var nameSpaces = make(map[string]*ClientsList)
 var history = make(map[string]*History)
 
+//todo mb add origin validation to upgrader
 var upgrader = websocket.Upgrader{} // use default options
 
 func BasicAuth(w http.ResponseWriter, r *http.Request) bool {
@@ -56,6 +57,7 @@ func get_updates(w http.ResponseWriter, r *http.Request) {
 	reconnect := r.URL.Query()["reconnect"]
 	login := r.URL.Query()["login"]
 	password := r.URL.Query()["password"]
+	//todo move credentials to headers
 	if len(login) < 1 || len(password) < 1 || login[0] != USER || password[0] != PASSWORD {
 		log.Print("server: drop unauthorized client: ", cliId, login, password)
 		return
