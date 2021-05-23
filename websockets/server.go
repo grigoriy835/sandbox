@@ -18,7 +18,7 @@ func getEnv(key, fallback string) string {
 	if value, ok := os.LookupEnv(key); ok {
 		return value
 	}
-	log.Printf("server: WARN env variable %s is not setted", key)
+	log.Printf("server: WARN env variable %s is not setted, used default %s", key, fallback)
 	return fallback
 }
 

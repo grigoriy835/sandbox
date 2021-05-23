@@ -32,5 +32,5 @@ func BasicAuth(handler http.HandlerFunc, realm string) http.HandlerFunc {
 }
 func main() {
 
-	fmt.Println(rr)
+	fmt.Println("")
 }
