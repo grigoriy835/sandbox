@@ -6,3 +6,5 @@ help_waria/*
 node_modules/
 package-lock.json
 .env
+my_scripts/_noip_helper/cur_ip
+*my_submission.csv
