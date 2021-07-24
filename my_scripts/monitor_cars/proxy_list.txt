@@ -1,0 +1,1648 @@
+188.130.255.5	80	HTTP	None	Russia Proxy Russia			98.3%
+164.132.200.191	3128	HTTPS	None	Italy Proxy Italy			57.7%
+117.212.192.86	8080	HTTP	None	India Proxy India	Maharashtra	Pune	96.2%
+51.159.154.37	3128	HTTPS	None	United Kingdom Proxy United Kingdom			76.1%
+27.72.89.136	8888	HTTP	High Anonymous	Viet Nam Proxy Viet Nam			55.4%
+188.130.255.17	80	HTTP	None	Russia Proxy Russia			94.2%
+176.9.63.62	3128	HTTP	None	Germany Proxy Germany			77.4%
+41.59.90.92	80	HTTP	Anonymous	Tanzania Proxy Tanzania			92.2%
+140.227.25.253	6000	HTTPS	Anonymous	United States Proxy United States	Florida	Palm Bay	94.2%
+140.227.73.61	3128	HTTPS	None	United States Proxy United States	Florida	Palm Bay	96.4%
+185.38.111.1	8080	HTTPS	None	Europe Proxy Europe			52.0%
+5.9.250.7	3128	HTTPS	None	Europe Proxy Europe			50.5%
+51.75.49.208	42543	HTTPS	None	United Kingdom Proxy United Kingdom			81.7%
+188.130.255.8	80	HTTP	None	Russia Proxy Russia			94.5%
+190.217.100.65	8182	HTTPS	None	Argentina Proxy Argentina			83.1%
+140.227.32.79	6000	HTTPS	High Anonymous	United States Proxy United States	Florida	Palm Bay	92.7%
+109.254.41.131	9090	HTTP	Anonymous	Ukraine Proxy Ukraine			86.2%
+140.227.67.141	58888	HTTPS	None	United States Proxy United States	Florida	Palm Bay	97.7%
+95.216.10.237	6000	HTTP	Anonymous	Ukraine Proxy Ukraine			67.9%
+140.227.76.44	6000	HTTPS	Anonymous	United States Proxy United States	Florida	Palm Bay	96.5%
+140.227.68.113	6000	HTTPS	High Anonymous	United States Proxy United States	Florida	Palm Bay	92.6%
+205.185.118.53	80	HTTP	Anonymous	United States Proxy United States	Illinois	Chicago	99.4%
+192.71.249.124	8060	HTTP	High Anonymous	Sweden Proxy Sweden			72.4%
+2.83.22.107	80	HTTP	Anonymous	Portugal Proxy Portugal	Leiria	Marinha Grande	62.1%
+203.33.113.31	80	HTTP	Anonymous	Australia Proxy Australia	New South Wales	Richmond	62.3%
+157.90.248.6	6666	HTTP	Anonymous	United States Proxy United States	Georgia	Augusta	67.4%
+95.216.10.237	5008	HTTP	Anonymous	Ukraine Proxy Ukraine			56.1%
+8.210.157.49	18186	HTTPS	Anonymous	United States Proxy United States			60.9%
+128.199.239.230	8080	HTTPS	None	United Kingdom Proxy United Kingdom			53.1%
+47.241.17.89	8888	HTTP	Anonymous	Canada Proxy Canada	Ontario	Ottawa	96.7%
+210.186.175.14	80	HTTP	Anonymous	Malaysia Proxy Malaysia	Kuala Lumpur	Kuala Lumpur	58.5%
+118.140.160.85	80	HTTP	Anonymous	Hong Kong Proxy Hong Kong		Central District	93.6%
+91.214.71.30	3128	HTTPS	High Anonymous	Russia Proxy Russia			58.3%
+140.227.67.135	6000	HTTPS	High Anonymous	United States Proxy United States	Florida	Palm Bay	96.2%
+47.242.230.146	8888	HTTP	High Anonymous	Canada Proxy Canada	Ontario	Ottawa	77.1%
+12.151.56.30	80	HTTP	None	United States Proxy United States	New York	New York	75.1%
+20.97.28.47	8080	HTTPS	Anonymous	United States Proxy United States	Virginia	Falls Church	60.5%
+140.227.66.105	58888	HTTPS	None	United States Proxy United States	Florida	Palm Bay	97.0%
+140.227.81.13	3128	HTTPS	High Anonymous	United States Proxy United States	Florida	Palm Bay	95.1%
+175.143.37.162	80	HTTP	Anonymous	Malaysia Proxy Malaysia	Kuala Lumpur	Kuala Lumpur	96.4%
+109.254.92.67	9090	HTTP	Anonymous	Ukraine Proxy Ukraine			57.8%
+82.64.183.22	8080	HTTPS	High Anonymous	France Proxy France			83.8%
+180.150.205.162	8080	HTTP	High Anonymous	Korea Proxy Korea			51.7%
+128.199.214.87	3128	HTTPS	Anonymous	United Kingdom Proxy United Kingdom			77.1%
+136.243.211.104	80	HTTP	Anonymous	Germany Proxy Germany	Mecklenburg-Vorpommern	Kiez	98.3%
+192.46.211.139	3127	HTTPS	None	United States Proxy United States	California	Palo Alto	81.4%
+109.254.171.21	9090	HTTP	Anonymous	Ukraine Proxy Ukraine			59.3%
+188.130.255.14	80	HTTP	None	Russia Proxy Russia			95.2%
+165.227.173.87	42185	HTTPS	High Anonymous	United States Proxy United States	California	Santa Cruz	83.6%
+110.159.204.32	80	HTTP	Anonymous	Malaysia Proxy Malaysia	Kuala Lumpur	Kuala Lumpur	75.7%
+14.97.2.104	80	HTTP	Anonymous	India Proxy India	Maharashtra	Mumbai	58.8%
+190.95.134.120	999	HTTPS	None	Ecuador Proxy Ecuador	Guayas	Guayaquil	98.2%
+186.3.213.151	999	HTTPS	None	Ecuador Proxy Ecuador			60.3%
+206.161.234.197	80	HTTP	Anonymous	United States Proxy United States	Virginia	Herndon	97.2%
+43.243.141.146	8181	HTTPS	None	Japan Proxy Japan	Fukuoka	Kanda	50.1%
+159.69.66.224	8080	HTTP	None	United States Proxy United States	Florida	Jacksonville	51.2%
+140.227.65.159	6000	HTTPS	High Anonymous	United States Proxy United States	Florida	Palm Bay	92.8%
+140.227.63.136	58888	HTTPS	None	United States Proxy United States	Florida	Palm Bay	96.0%
+222.74.202.243	82	HTTP	None	China Proxy China	Beijing	Beijing	95.0%
+51.91.157.66	80	HTTP	High Anonymous	United Kingdom Proxy United Kingdom			95.2%
+134.122.93.93	8080	HTTP	Anonymous	United States Proxy United States	California	Milpitas	55.3%
+188.130.255.19	80	HTTP	None	Russia Proxy Russia			95.1%
+140.227.61.25	58888	HTTPS	None	United States Proxy United States	Florida	Palm Bay	96.1%
+140.227.73.60	3128	HTTPS	None	United States Proxy United States	Florida	Palm Bay	94.6%
+85.84.14.9	80	HTTP	High Anonymous	Spain Proxy Spain	Pais Vasco	Baracaldo	60.9%
+190.217.100.64	8182	HTTPS	None	Argentina Proxy Argentina			79.3%
+200.115.235.49	999	HTTP	None	Argentina Proxy Argentina	Distrito Federal	Buenos Aires	64.3%
+140.227.71.136	6000	HTTPS	High Anonymous	United States Proxy United States	Florida	Palm Bay	90.9%
+122.252.182.6	53281	HTTPS	None	Cambodia Proxy Cambodia	Phnum Penh	Phnum Penh	54.9%
+188.130.255.18	80	HTTP	None	Russia Proxy Russia			92.5%
+140.227.80.43	3128	HTTPS	High Anonymous	United States Proxy United States	Florida	Palm Bay	95.4%
+122.187.224.162	3128	HTTPS	None	India Proxy India	Delhi	Delhi	67.3%
+140.227.118.184	6000	HTTPS	High Anonymous	United States Proxy United States	Florida	Palm Bay	96.4%
+5.9.250.11	3128	HTTP	None	Europe Proxy Europe			51.9%
+195.239.217.102	8080	HTTP	None	Russia Proxy Russia			74.8%
+190.95.134.122	999	HTTPS	None	Ecuador Proxy Ecuador	Guayas	Guayaquil	99.0%
+8.210.155.56	80	HTTP	None	United States Proxy United States			56.3%
+43.129.186.179	8080	HTTP	Anonymous	Japan Proxy Japan	Tokyo	Tokyo	73.4%
+51.79.147.137	8080	HTTP	None	United Kingdom Proxy United Kingdom			50.5%
+187.217.81.229	3128	HTTP	Anonymous	Mexico Proxy Mexico			59.6%
+210.186.175.180	80	HTTP	Anonymous	Malaysia Proxy Malaysia	Kuala Lumpur	Kuala Lumpur	85.6%
+140.227.8.93	58888	HTTPS	None	United States Proxy United States	Florida	Palm Bay	95.0%
+122.154.100.210	80	HTTP	Anonymous	Thailand Proxy Thailand	Chon Buri	Pattaya	99.5%
+140.112.105.116	80	HTTPS	High Anonymous	Taiwan Proxy Taiwan	T'ai-pei	Taipei	67.9%
+200.106.184.11	999	HTTPS	None	Colombia Proxy Colombia	Cundinamarca	Bogota	54.3%
+140.227.25.251	6000	HTTPS	Anonymous	United States Proxy United States	Florida	Palm Bay	95.6%
+110.36.213.38	8082	HTTPS	None	Pakistan Proxy Pakistan	Punjab	Lahore	54.4%
+47.56.69.11	8000	HTTPS	Anonymous	Canada Proxy Canada	Ontario	Ottawa	58.4%
+128.199.244.63	3228	HTTP	None	United Kingdom Proxy United Kingdom			57.8%
+85.15.152.39	3128	HTTP	High Anonymous	Russia Proxy Russia	Tyumen'	Tobolsk	60.5%
+128.14.225.32	8080	HTTPS	None	United States Proxy United States	Massachusetts	Cambridge	63.4%
+222.74.202.233	8080	HTTP	None	China Proxy China	Beijing	Beijing	81.8%
+196.15.221.205	80	HTTP	Anonymous	South Africa Proxy South Africa	Gauteng	Pretoria	96.7%
+109.254.11.9	9090	HTTP	Anonymous	Ukraine Proxy Ukraine			96.3%
+190.52.129.39	8080	HTTP	None	Paraguay Proxy Paraguay	Central	Asuncion	52.4%
+188.130.255.12	80	HTTP	None	Russia Proxy Russia			92.6%
+188.130.255.9	80	HTTP	None	Russia Proxy Russia			95.9%
+149.129.55.14	3128	HTTPS	None	United States Proxy United States	New York	Ithaca	57.1%
+128.199.167.74	8080	HTTPS	None	United Kingdom Proxy United Kingdom			74.9%
+51.81.186.206	8080	HTTPS	None	United Kingdom Proxy United Kingdom			96.5%
+51.222.21.92	32768	HTTPS	Anonymous	United Kingdom Proxy United Kingdom			58.6%
+47.57.188.208	80	HTTP	None	Canada Proxy Canada	Ontario	Ottawa	68.8%
+140.227.69.170	6000	HTTPS	High Anonymous	United States Proxy United States	Florida	Palm Bay	95.8%
+83.229.8.9	3128	HTTPS	None				52.7%
+222.74.202.233	9999	HTTP	None	China Proxy China	Beijing	Beijing	81.5%
+195.235.90.29	80	HTTP	Anonymous	Spain Proxy Spain			69.8%
+194.233.69.38	443	HTTPS	High Anonymous	Germany Proxy Germany			77.9%
+203.75.190.21	80	HTTP	None	Taiwan Proxy Taiwan	T'ai-pei	Taipei	94.2%
+202.212.123.44	80	HTTP	Anonymous	Japan Proxy Japan			97.1%
+188.130.255.6	80	HTTP	None	Russia Proxy Russia			96.8%
+113.20.31.22	8080	HTTP	None	Indonesia Proxy Indonesia			50.3%
+222.74.202.238	8081	HTTP	None	China Proxy China	Beijing	Beijing	92.1%
+109.254.75.200	9090	HTTP	Anonymous	Ukraine Proxy Ukraine			57.4%
+196.15.221.200	80	HTTP	Anonymous	South Africa Proxy South Africa	Gauteng	Pretoria	97.8%
+218.111.228.178	80	HTTP	Anonymous	Malaysia Proxy Malaysia	Kuala Lumpur	Petaling Jaya	83.8%
+201.91.82.155	3128	HTTP	None	Brazil Proxy Brazil			73.9%
+200.69.179.2	999	HTTPS	None	Ecuador Proxy Ecuador	Pichincha	Quito	69.0%
+182.72.150.242	8080	HTTP	Anonymous	India Proxy India	Karnataka	Bangalore	52.1%
+1.186.40.130	80	HTTPS	None	India Proxy India	Karnataka	Manipal	51.1%
+203.33.113.178	80	HTTP	Anonymous	Australia Proxy Australia	New South Wales	Richmond	50.7%
+82.65.35.131	8080	HTTP	Anonymous	France Proxy France			55.8%
+188.130.255.21	80	HTTP	None	Russia Proxy Russia			92.5%
+189.112.111.194	80	HTTPS	High Anonymous	Brazil Proxy Brazil	Minas Gerais	Pedro Leopoldo	53.6%
+51.79.160.134	8080	HTTPS	None	United Kingdom Proxy United Kingdom			63.1%
+140.227.25.235	6000	HTTPS	High Anonymous	United States Proxy United States	Florida	Palm Bay	92.9%
+116.202.232.246	80	HTTP	None	India Proxy India			78.1%
+92.204.129.161	80	HTTP	High Anonymous	Germany Proxy Germany			70.0%
+140.227.58.238	3128	HTTPS	None	United States Proxy United States	Florida	Palm Bay	92.8%
+128.199.152.210	8080	HTTPS	None	United Kingdom Proxy United Kingdom			61.8%
+210.212.128.246	8080	HTTPS	None	India Proxy India	Gujarat	Ahmadabad	70.8%
+136.228.141.154	8080	HTTP	Anonymous	United States Proxy United States	New Hampshire	Nashua	60.5%
+188.130.255.10	80	HTTP	None	Russia Proxy Russia			93.3%
+118.99.73.45	8080	HTTP	None	Indonesia Proxy Indonesia	Jakarta Raya	Jakarta	55.5%
+140.227.65.129	58888	HTTPS	None	United States Proxy United States	Florida	Palm Bay	95.4%
+51.222.21.94	32768	HTTP	Anonymous	United Kingdom Proxy United Kingdom			60.4%
+222.74.202.245	8080	HTTP	None	China Proxy China	Beijing	Beijing	82.2%
+181.48.220.250	999	HTTP	None	Colombia Proxy Colombia			69.5%
+140.227.28.39	6000	HTTPS	High Anonymous	United States Proxy United States	Florida	Palm Bay	93.4%
+202.5.127.137	8081	HTTPS	High Anonymous	Australia Proxy Australia	New South Wales	Turramurra	56.3%
+222.74.202.230	81	HTTP	None	China Proxy China	Beijing	Beijing	91.4%
+88.255.234.197	80	HTTP	Anonymous	Turkey Proxy Turkey			96.9%
+41.223.119.156	3128	HTTPS	None	Zambia Proxy Zambia	North-Western	Chipata	82.3%
+140.227.68.230	58888	HTTPS	None	United States Proxy United States	Florida	Palm Bay	95.5%
+14.97.2.110	80	HTTP	Anonymous	India Proxy India	Maharashtra	Mumbai	55.6%
+14.97.2.106	80	HTTP	Anonymous	India Proxy India	Maharashtra	Mumbai	59.2%
+118.174.146.131	80	HTTP	Anonymous	Thailand Proxy Thailand	Krung Thep	Bangkok	93.9%
+182.23.45.166	3128	HTTP	None	Indonesia Proxy Indonesia			54.6%
+188.130.255.11	80	HTTP	None	Russia Proxy Russia			94.3%
+116.73.14.16	8080	HTTP	High Anonymous	India Proxy India	Maharashtra	Mumbai	51.1%
+43.241.132.142	8083	HTTP	None	Japan Proxy Japan	Fukuoka	Kanda	73.6%
+119.28.68.91	8080	HTTP	Anonymous	China Proxy China	Beijing	Beijing	95.1%
+187.217.81.232	3128	HTTP	Anonymous	Mexico Proxy Mexico			53.0%
+94.140.234.76	3128	HTTP	None	Russia Proxy Russia	Karelia	Petrozavodsk	57.9%
+140.227.62.35	58888	HTTPS	None	United States Proxy United States	Florida	Palm Bay	95.8%
+140.227.60.64	3128	HTTPS	None	United States Proxy United States	Florida	Palm Bay	96.1%
+157.65.170.117	3128	HTTPS	High Anonymous	Japan Proxy Japan	Aichi	Kowa	92.7%
+51.222.21.93	32768	HTTPS	Anonymous	United Kingdom Proxy United Kingdom			60.8%
+222.74.202.242	8080	HTTP	None	China Proxy China	Beijing	Beijing	89.3%
+222.74.202.240	80	HTTP	None	China Proxy China	Beijing	Beijing	86.3%
+188.130.255.13	80	HTTP	None	Russia Proxy Russia			94.7%
+157.65.167.24	3128	HTTPS	High Anonymous	Japan Proxy Japan	Aichi	Kowa	92.0%
+140.227.67.200	3128	HTTPS	High Anonymous	United States Proxy United States	Florida	Palm Bay	92.5%
+140.227.211.47	8080	HTTPS	Anonymous	United States Proxy United States	Florida	Palm Bay	96.0%
+13.86.159.104	3128	HTTPS	None	United States Proxy United States	Connecticut	Norwalk	75.6%
+222.74.202.237	82	HTTP	None	China Proxy China	Beijing	Beijing	82.9%
+51.38.227.203	443	HTTPS	None	United Kingdom Proxy United Kingdom			62.1%
+118.140.160.84	80	HTTP	Anonymous	Hong Kong Proxy Hong Kong		Central District	95.3%
+160.19.232.85	3128	HTTPS	Anonymous	Japan Proxy Japan			73.1%
+51.68.206.76	999	HTTPS	None	United Kingdom Proxy United Kingdom			85.9%
+122.3.41.154	8090	HTTP	None	Philippines Proxy Philippines	Benguet	Philippine	88.8%
+144.217.101.245	3129	HTTP	Anonymous	United States Proxy United States	California	Sacramento	56.2%
+188.130.255.20	80	HTTP	None	Russia Proxy Russia			94.1%
+95.0.94.170	80	HTTP	Anonymous	Turkey Proxy Turkey			94.8%
+170.106.175.94	80	HTTP	High Anonymous	United States Proxy United States	New Jersey	Parsippany	68.7%
+82.99.232.18	58689	Iran 1040 ms HTTP	High	1 minutes
+85.185.159.74	8080	Iran 2700 ms HTTP	High	2 minutes
+5.202.115.102	8080	Iran 820 ms HTTP	High	2 minutes
+37.156.29.119	8118	Iran 1060 ms HTTPS	High	2 minutes
+222.74.202.229	8081	China 840 ms HTTP	Average	10 minutes
+222.74.202.231	8080	China 820 ms HTTP	Average	10 minutes
+121.36.161.40	8080	China 700 ms HTTP	High	10 minutes
+222.74.202.239	9999	China 880 ms HTTP	Average	11 minutes
+222.74.202.245	81	China 820 ms HTTP	Average	11 minutes
+190.144.10.242	55443	Colombia Medellín 3460 ms HTTP	High	11 minutes
+222.74.202.233	80	China 880 ms HTTP	Average	11 minutes
+39.106.223.134	80	China Hangzhou 820 ms HTTP	High	11 minutes
+131.100.51.1	999	Colombia Florencia 4300 ms HTTP	Average	11 minutes
+222.74.202.242	80	China 820 ms HTTP	Average	11 minutes
+222.74.202.231	80	China 860 ms HTTP	Average	11 minutes
+222.74.202.230	8080	China 860 ms HTTP	Average	11 minutes
+109.200.240.118	53281	Ukraine Odessa 1960 ms HTTP	High	13 minutes
+103.78.73.93	3128 4660 ms HTTP	High	13 minutes
+5.149.219.201	8080	Ukraine Sevastopol 240 ms HTTP	High	13 minutes
+181.209.86.50	999	Argentina Carmen de Patagones 4360 ms HTTP	Average	13 minutes
+200.58.87.194	808	Bolivia Oruro 4420 ms HTTP	Average	13 minutes
+103.255.53.98	56031	Indonesia 2880 ms HTTP	High	13 minutes
+95.78.174.219	60473	Russian Federation Chelyabinsk 1500 ms HTTP	High	13 minutes
+51.222.21.94	32768	Canada 1120 ms HTTP, HTTPS	High	13 minutes
+1.186.45.170	80	India Mumbai 700 ms HTTP	Average	13 minutes
+113.11.16.212	7878	Bangladesh Dhaka 1040 ms HTTP	Average	13 minutes
+95.143.8.182	57169	Russian Federation Moscow 1980 ms HTTP	High	13 minutes
+88.198.50.103	8080	Germany Nuremberg 160 ms HTTP	High	13 minutes
+202.154.189.74	8083	Indonesia Batam 1340 ms HTTP	Average	13 minutes
+79.143.87.134	9090	United Kingdom Manchester 480 ms HTTP, HTTPS	Low	13 minutes
+105.208.44.183	53480	South Africa Centurion 5100 ms HTTP	High	13 minutes
+109.167.134.253	30710	Russian Federation Petergof 3400 ms HTTP	High	13 minutes
+191.96.42.80	8080	United States Chicago 540 ms HTTP	High	13 minutes
+159.224.166.129	38779	Ukraine Kyiv 3000 ms HTTP	High	13 minutes
+51.79.160.134	8080	Singapore Singapore 3300 ms HTTP	Average	13 minutes
+94.74.132.129	808	Iran 4460 ms HTTP	Low	13 minutes
+177.66.112.221	57945	Brazil Teresina 4100 ms HTTP	High	13 minutes
+170.254.148.110	8080	Brazil Jaboatao dos Guararapes 3840 ms HTTP	Average	13 minutes
+128.199.202.122	3128	Singapore 1280 ms HTTP	High	14 minutes
+46.209.6.50	8080	Iran 4560 ms HTTP	Average	14 minutes
+213.108.5.226	3128	Russian Federation 2340 ms HTTP	High	14 minutes
+45.189.252.43	999	Mexico Veracruz 1220 ms HTTP	Average	14 minutes
+139.59.1.14	8080	India Bengaluru 780 ms HTTP	High	14 minutes
+198.199.86.11	8080	United States North Bergen 620 ms HTTP	High	14 minutes
+197.248.184.157	53281	Kenya Nairobi 5100 ms HTTP	High	14 minutes
+103.213.116.195	8080	Indonesia Jakarta 5100 ms HTTP	Average	14 minutes
+36.67.198.35	3128	Indonesia 3560 ms HTTP	Average	14 minutes
+93.170.200.180	8080	Russian Federation Kashira 5100 ms HTTP	Average	14 minutes
+134.209.29.120	8080	United Kingdom London 180 ms HTTP	High	14 minutes
+159.203.61.169	3128	Canada Toronto 520 ms HTTP	High	14 minutes
+88.255.234.197	80	Turkey Denizli 760 ms HTTP	Low	14 minutes
+190.121.131.6	8080	Colombia Sincelejo 5100 ms HTTP	Average	14 minutes
+176.9.75.42	8080	Germany 160 ms HTTP	High	14 minutes
+177.200.206.167	8080	Brazil Itajaí 3840 ms HTTP	Average	14 minutes
+185.211.193.162	8080	Czech Republic Veseli nad Moravou 5100 ms HTTP	Average	14 minutes
+52.251.88.114	80	United States Boydton 2480 ms HTTP	High	14 minutes
+222.74.202.229	80	China 820 ms HTTP	Average	14 minutes
+47.75.254.142	8888	Hong Kong Central 1180 ms HTTP	High	14 minutes
+20.94.229.106	80	United States 2120 ms HTTP	High	14 minutes
+195.178.56.37	8080	Serbia 4740 ms HTTP	Average	14 minutes
+104.211.209.172	3128	India Chennai 900 ms HTTP	Average	14 minutes
+185.124.112.133	8080	Iran 1960 ms HTTP	Average	14 minutes
+111.68.27.190	8080	Indonesia Semarang 1260 ms HTTP	Average	14 minutes
+27.105.130.93	8080	Taiwan Hsinchu 3400 ms HTTP	Average	14 minutes
+36.89.187.193	43032	Indonesia Depok 4560 ms HTTP	High	15 minutes
+197.248.30.123	80	Kenya Nairobi 5100 ms HTTP	Low	15 minutes
+95.0.94.170	80	Turkey Istanbul 580 ms HTTP	Low	15 minutes
+197.248.30.122	80	Kenya Nairobi 5100 ms HTTP	Low	15 minutes
+167.71.5.83	8080	Netherlands Amsterdam 160 ms HTTP	High	15 minutes
+94.54.208.189	80	Turkey Istanbul 1280 ms HTTP	Average	15 minutes
+124.158.88.56	54555	Mongolia 1420 ms HTTP	High	15 minutes
+20.97.28.47	8080	United States 760 ms HTTP, HTTPS	High	15 minutes
+27.109.116.119	23500	Cambodia Phnom Penh 5100 ms HTTP	High	15 minutes
+186.96.66.78	999	Venezuela 940 ms HTTP	Average	15 minutes
+178.172.225.49	3128	Belarus 2180 ms HTTP	Average	15 minutes
+190.85.115.78	3128	Colombia Medellín 2380 ms HTTP	Average	15 minutes
+45.165.131.46	8080	Brazil Natal 1040 ms HTTP	Average	15 minutes
+200.116.226.210	43049	Colombia Barranquilla 1620 ms HTTP	High	15 minutes
+39.98.45.168	8081	China 840 ms HTTP	High	15 minutes
+172.107.159.194	443	Singapore 4820 ms HTTP	High	15 minutes
+139.162.78.109	8080	Japan Tokyo 1100 ms HTTP	High	15 minutes
+165.16.34.1	8080	Libyan Arab Jamahiriya 1740 ms HTTP	Average	15 minutes
+103.134.126.137	8080	Bangladesh 3180 ms HTTP	Average	16 minutes
+118.179.173.253	40836	Bangladesh Dhaka 2720 ms HTTP	High	16 minutes
+91.237.109.223	55443	Ukraine Makiivka 3760 ms HTTP	High	16 minutes
+43.224.8.14	6666	India Surendranagar 5100 ms HTTPS	High	16 minutes
+91.225.11.51	8080	Poland Skrzyszow 4800 ms HTTP	Average	16 minutes
+103.135.227.218	3127	Indonesia Babakan 1140 ms HTTP	Average	16 minutes
+222.74.202.244	8080	China 840 ms HTTP	Average	16 minutes
+35.172.135.29	80	United States Ashburn 520 ms HTTP	High	16 minutes
+181.49.100.190	8080	Colombia Guadalajara de Buga 5100 ms HTTP	High	16 minutes
+103.1.93.211	8080	Nepal Lamjung 5100 ms HTTP	Average	16 minutes
+109.193.195.7	8080	Germany Stuttgart 4340 ms HTTP	High	16 minutes
+103.14.198.234	83	India Bengaluru 1520 ms HTTP	Average	16 minutes
+140.227.71.136	6000	Japan 4160 ms HTTP	High	17 minutes
+140.227.81.13	3128	Japan 2140 ms HTTP	High	17 minutes
+52.78.172.171	80	Korea Incheon 3320 ms HTTP	High	18 minutes
+47.241.17.89	8888	Singapore Singapore 1140 ms HTTP	High	18 minutes
+5.252.161.48	8080	United Kingdom 200 ms HTTP	High	19 minutes
+37.32.126.162	8080	Iran 5100 ms HTTP	Average	19 minutes
+172.107.159.202	443	Singapore 2640 ms HTTPS	High	20 minutes
+103.78.97.38	8080	Indonesia Kuningan Barat 920 ms HTTP	High	20 minutes
+217.79.181.109	443	Germany 220 ms HTTP, HTTPS	High	20 minutes
+45.181.204.2	8080 4780 ms HTTP	Average	22 minutes
+46.209.207.150	8080	Iran 3920 ms HTTP	Average	24 minutes
+61.7.146.7	80	Thailand Nonthaburi 5100 ms HTTP	Average	25 minutes
+185.190.38.150	8080 3140 ms HTTP	Average	25 minutes
+190.52.129.39	8080	Paraguay 1780 ms HTTP	Average	25 minutes
+103.161.165.14	8181	Indonesia 1120 ms HTTP	Average	25 minutes
+159.69.66.224	8080	Germany 1240 ms HTTP	Average	26 minutes
+36.92.189.66	80	Indonesia South Tangerang 1180 ms HTTP	Average	26 minutes
+190.186.18.182	999	Bolivia Santa Cruz 1900 ms HTTP	Average	26 minutes
+192.46.211.139	3127	India Mumbai 920 ms HTTP	Average	26 minutes
+190.92.9.162	999	Honduras 880 ms HTTP	Average	26 minutes
+200.114.97.85	999	Argentina San Juan 1200 ms HTTP	Average	26 minutes
+51.68.206.76	999	United Kingdom Walthamstow 240 ms HTTP, HTTPS	Average	26 minutes
+5.135.152.198	6666	France 580 ms HTTP	Average	26 minutes
+94.231.94.163	3128	Switzerland 300 ms HTTP	Average	26 minutes
+190.111.203.179	8080	Argentina Buenos Aires 1440 ms HTTP	Average	26 minutes
+103.111.186.252	80	Indonesia 1800 ms HTTP	Average	26 minutes
+188.130.255.5	80	Russian Federation Komsomolsk-on-Amur 440 ms HTTP	Average	26 minutes
+45.174.248.36	999	Mexico Morelia 3300 ms HTTP	Average	26 minutes
+177.128.115.4	999	Chile Melipilla 4020 ms HTTP	Average	29 minutes
+201.220.112.106	999	Chile Coelemu 3240 ms HTTP	Average	30 minutes
+85.133.130.18	8080	Iran 4740 ms HTTP	High	30 minutes
+185.108.141.74	8080	Bulgaria Sofia 2860 ms HTTP	High	30 minutes
+140.227.76.44	6000	Japan 3840 ms HTTP	High	30 minutes
+103.250.166.12	6666	India Morvi 2460 ms HTTP, HTTPS	High	30 minutes
+157.25.200.39:8080	HTTP (Mikrotik)	NOA	Poland (Warsaw)	157.25.200.39 (T-Mobile Czech Republic a.s.)	2.904	
+109.254.11.9:9090	HTTP	ANM	Ukraine (Donetsk)	ip-109-254-11-9.eq.dec.net.ua (Donbass Electronic Communications Ltd.)	0.276	
+109.254.64.143:9090	HTTP	ANM	Ukraine (Donetsk)	ip-109-254-64-143.eq.dec.net.ua (Donbass Electronic Communications Ltd.)	0.343	
+141.0.180.242:8080	HTTP (Mikrotik)	NOA	Russia (Samara)	141.0.180.242.samara.svrv.ru (JSC Avantel)	4.984	
+125.62.214.233:84	HTTP (Mikrotik)	NOA	India (Mandapeta) !!!	125.62.214.233 (VIZAG BROADCASTING COMPANY PVT. LTD)	5.911	
+103.114.88.236:8080	HTTP (Mikrotik)	NOA	Cambodia	103.114.88.236 (BEE UNION CAMBODIA TELECOM CO., LTD)	4.634	
+46.209.6.50:8080	HTTPS (Mikrotik)	NOA	Iran	46.209.6.50 (Dade Pardazi Respina PJSC)	5.847	
+150.129.171.35:30093	HTTP	HIA	India (Nadiad)	150.129.171.35 (Gujarat Telelink Pvt Ltd)	4.358	
+176.113.83.244:3128	HTTP (Squid)	NOA	Russia	ptr.ruvds.com (JSC Mediasoft ekspert)	0.825	
+187.95.114.125:3128	HTTPS (Mikrotik)	NOA	Brazil (Maringá)	125.114.95.187.static.copel.net (COPEL Telecomunicacoes S.A.)	7.562	
+188.133.173.21:8080	HTTPS (Mikrotik)	NOA	Russia	188.133.173.21 (JSC ER-Telecom Holding)	1.77	
+168.90.14.162:999	HTTPS (Mikrotik)	NOA	Colombia (Oiba)	1689014162.ip76.static.mediacommerce.com.co (Media Commerce Partners S.A)	1.217	
+186.10.68.226:3128	HTTPS (Mikrotik)	NOA	Chile (Temuco)	z424.entelchile.net (ENTEL CHILE S.A.)	4.407	
+140.238.151.217:3128	HTTP (Squid)	ANM	Canada (Toronto) !!!	140.238.151.217 (ORACLE-BMC-31898)	0.41	
+84.244.31.19:8080	HTTPS (Mikrotik)	NOA	Russia	84x244x31x19.static-customer.irkutsk.ertelecom.ru (JSC ER-Telecom Holding)	2.731	
+61.19.145.66:8080	HTTP (Mikrotik)	NOA	Thailand (Chiang Mai)	61.19.145.66 (The Communication Authoity of Thailand, CAT)	9.446	
+203.150.128.248:8080	HTTPS (Mikrotik)	NOA	Thailand	248.128.150.203.sta.inet.co.th (Internet Thailand Company Limited)	1.194	
+180.211.192.60:8080	HTTPS	HIA	Bangladesh (Bagerhat)	180.211.192.60 (Bangladesh Telecommunications Company Limited BTCL, Nationwide PSTN Operator and Data and In)	1.973	
+176.56.107.200:33625	HTTPS	HIA	Spain (La Puebla de los Infantes)	176.56.107.200 (ServiHosting Networks S.L.)	1.964	
+202.129.196.242:53879	HTTP	HIA	India (Coimbatore)	202.129.196.242 (Wireline Solution India Pvt Ltd.)	11.215	
+103.6.184.222:39241	HTTPS	HIA	India (Navi Mumbai)	103.6.184.222 (SOFT CALL CUST-O-CARE PRIVATE LIMITED)	7.541	
+103.220.206.110:59570	HTTPS	HIA	Bangladesh (Dhaka) !!!	103.220.206.110 (KS Network Limited)	5.46	
+37.143.25.10:8080	HTTPS (Mikrotik)	NOA	Russia (St Petersburg)	37.143.25.10 (JSC Severen-Telecom)	8.039	
+131.108.118.27:8080	HTTP	HIA	Brazil (Catalao)	131-108-118-27.soucbnet.com.br (Catalao Bandnet Servicos Multimidia LTDA - ME)	7.347	
+46.229.187.169:53281	HTTP	HIA	Russia (Yaroslavl)	static-46.229.187.169.yarnet.ru (Yarnet Ltd)	3.77	
+168.228.150.5:47507	HTTP	HIA	Brazil (Minacu)	168-228-150-5.integrato.net.br (INTEGRATO TELECOMUNICACOES LTDA - ME)	5.359	
+195.9.162.186:8080	HTTP (Mikrotik)	NOA	Russia (Moscow)	mail.gupmr.ru (PJSC Moscow city telephone network)	8.372	
+24.172.34.114:49920	HTTP	HIA	United States (Darlington)	rrcs-24-172-34-114.midsouth.biz.rr.com (TWC-11426-CAROLINAS)	9.489	
+91.229.67.77:8080	HTTP	HIA	Ukraine (Kyiv)	91.229.67.77 (Infoaura Ltd)	2.25	
+202.191.108.42:8080	HTTPS (Mikrotik)	NOA	Myanmar	202.191.108.42 (Telecom International Myanmar Co., Ltd)	2.299	
+103.155.54.14:84	HTTPS (Mikrotik)	NOA	India (Haldia)	103.155.54.14 (Pegasuswave Private Limited)	1.468	
+140.227.211.47:8080	HTTP	HIA	Japan	140-227-211-47.vpscloud.static.arena.ne.jp (NTT PC Communications, Inc.)	8.049	
+88.255.101.233:8080	HTTPS (Mikrotik)	NOA	Turkey (Antalya)	88.255.101.233.static.ttnet.com.tr (Turk Telekom)	1.573	
+95.67.65.18:53281	HTTP	HIA	Ukraine (Kyiv)	cosmonova.isa-viking.com.ua (Cosmonova LLC)	8.201	
+103.250.157.39:6666	HTTPS	HIA	India (Godhra)	103.250.157.39 (Gujarat Telelink Pvt Ltd)	2.167	
+47.241.17.89:8888	HTTP	ANM	Singapore (Singapore)	47.241.17.89 (Alibaba US Technology Co., Ltd.)	0.977	
+94.153.242.174:3128	HTTP	HIA	Ukraine (Lviv)	94-153-242-174.ip.kyivstar.net (Kyivstar PJSC)	0.476	
+103.138.192.89:55443	HTTP	HIA	Cambodia	103.138.192.89 (Istanaimpian Corporation Limited)	6.593	
+132.145.137.26:6666	HTTP	HIA	United States (Ashburn)	132.145.137.26 (ORACLE-BMC-31898)	4.71	
+170.238.235.123:8080	HTTP (Mikrotik)	NOA	Brazil	123.235.238.170.angolacables.ao (ANGOLA-CABLES)	5.863	
+170.82.116.129:8083	HTTP	HIA	Brazil	170-82-116-129.netlight.com.br (Fonelight Telecomunicacoes SA)	5.919	
+185.189.199.75:23500	HTTPS	HIA	Bulgaria (Bansko)	185.189.199.75 (MIS70 LTD)	5.774	
+103.108.98.1:55207	HTTP	HIA	India (Gandhidham) !!!	103.108.98.1 (Wingsnet Internet Pvt. Ltd.)	3.638	
+45.236.170.185:999	HTTPS (Mikrotik)	NOA	Ecuador (Guayaquil) !!!	45.236.170.185 (CODGREC S.A.)	1.397	
+138.219.100.90:8080	HTTP (Mikrotik)	NOA	Brazil (Porangatu)	138-219-100-90.meganetscm.net.br (MegaNET Servicos de Comunicacao Multimidia Ltda)	10.087	
+200.54.194.12:53281	HTTP	HIA	Chile (Recoleta)	200-54-194-12.static.tie.cl (Telefonica Empresas)	5.761	
+49.51.207.213:808	HTTP	HIA	United States (Santa Clara)	49.51.207.213 (Tencent Building, Kejizhongyi Avenue)	7.037	
+43.224.8.14:6666	HTTP	HIA	India (Surendranagar)	43.224.8.14 (Gujarat Telelink Pvt Ltd)	3.562	
+157.65.170.117:3128	HTTP	HIA	Japan	157-65-170-117.vpscloud.static.arena.ne.jp (NTT PC Communications, Inc.)	8.068	
+103.28.86.241:61954	HTTP	HIA	Nepal (Butwal) !!!	103.28.86.241 (TECHMINDS NETWORKS PVT. LTD.)	6.34	
+160.16.78.56:3128	HTTPS	HIA	Japan (Tokyo)	tk2-215-17052.vs.sakura.ne.jp (SAKURA Internet Inc.)	8.192	
+109.105.205.232:59152	HTTP	HIA	Bosnia and Herzegovina (Maglaj) !!!	tc-cutuk-net-14-232.team.ba (Team Consulting d.o.o.)	2.487	
+1.20.217.52:8080	HTTPS	HIA	Thailand (Sawi)	1.20.217.52 (TOT Public Company Limited)	3.601	
+159.224.243.185:37793	HTTP	HIA	Ukraine (Dnipro)	185.243.224.159.triolan.net (Content Delivery Network Ltd)	1.659	
+114.134.188.124:55667	HTTPS	HIA	Cambodia (Phnom Penh)	114.134.188.124 (CAMBODIAN SINGMENG TELEMEDIA CO., LTD)	1.917	
+79.101.98.2:53281	HTTP	HIA	Serbia (Belgrade)	79-101-98-2.static.isp.telekom.rs (TELEKOM SRBIJA a.d.)	2.798	
+41.86.251.62:8080	HTTPS (Mikrotik)	NOA	Benin	41.86.251.62 (ISOCEL)	13.955	
+186.225.45.13:45974	HTTPS	HIA	Brazil (Fortaleza)	186.225.45.13 (SOBRALNET SERVICOS E TELECOMUNICACOES LTDA - ME)	1.533	
+41.217.219.53:31398	HTTPS	HIA	Malawi	41.217.219.53 (SKYBAND)	4.672	
+45.120.39.14:8080	HTTPS (Mikrotik)	NOA	Bangladesh	45.120.39.14 (InfoLink)	3.22	
+170.83.60.125:55443	HTTP	HIA	Brazil (Santa Juliana)	170.83.60.125 (H-MICRO ASSISTENCIA ESPECIALIZADE EM INFORM LDTA)	9.95	
+85.15.152.39:3128	HTTP	HIA	Russia	39.152.access.ttknet.ru (Rostelecom)	5.205	
+41.78.212.62:8080	HTTPS	HIA	South Africa	41.78.212.62 (BInfraco)	5.576	
+201.81.38.123:8080	HTTPS	HIA	Brazil (São Paulo)	c951267b.virtua.com.br (CLARO S.A.)	4.809	
+110.74.199.16:63141	HTTPS	HIA	Cambodia	ezecom.110.74.199.16.ezecom.com.kh (EZECOM limited)	3.24	
+189.52.154.213:3128	HTTPS	HIA	Brazil !!!	189.52.154.213 (CLARO S.A.)	1.347	
+103.107.94.2:52827	HTTP	HIA	India (Gurgaon)	103.107.94.2 (Netncr Technology Pvt. Ltd.)	2.237	
+201.222.44.34:999	HTTP (Mikrotik)	NOA	Chile (Lo Barnechea)	201.222.44.34 (GRUPO ULLOA CLIVIO SPA)	6.15	
+82.64.186.155:8080	HTTP	HIA	France	82-64-186-155.subs.proxad.net (Free SAS)	1.601	
+115.243.184.76:23500	HTTPS	HIA	India (Araghar)	115.243.184.76.static.jio.com (Reliance Jio Infocomm Limited)	4.698	
+143.0.171.41:999	HTTPS (Mikrotik)	NOA	Argentina (San Juan) !!!	143.0.171.41 (Interredes S.A.)	5.677	
+96.9.86.70:53827	HTTPS	HIA	Cambodia	70.86.9.96.sinet.com.kh (SINET, Cambodias specialist Internet and Telecom Service Provider.)	10.694	
+95.9.194.13:56726	HTTP	HIA	Turkey (Konyaalti)	95.9.194.13.static.ttnet.com.tr (Turk Telekom)	2.684	
+188.120.246.81:8118	HTTPS	HIA	Russia !!!	yuroval.fvds.ru (JSC IOT)	4.04	
+177.136.84.75:999	HTTP (Mikrotik)	ANM	Argentina !!!	177.136.84.75 (ACCESS AIR SOCIEDAD SIMPLE)	3.956	
+5.149.219.201:8080	HTTPS	HIA	Ukraine (Sevastopol)	host-201-219-149-5.sevstar.net (Lancom Ltd.)	1.22	
+187.216.93.20:55443	HTTPS	HIA	Mexico (Tepotzotlan)	customer-187-216-93-20.uninet-ide.com.mx (Uninet S.A. de C.V.)	3.797	
+190.63.169.34:53281	HTTPS	HIA	Ecuador (Guayaquil)	customer-190-63-169-34.claro.com.ec (CONECEL)	5.967	
+27.123.1.46:3128	HTTPS	HIA	Indonesia (Jakarta)	ip123-1-46.tgg.net.id (Tele Globe Global, PT)	1.99	
+197.231.198.172:42461	HTTP	HIA	South Africa (Pretoria)	197.231.198.172 (Triponza)	10.397	
+162.155.10.150:55443	HTTP	HIA	United States (Athens)	rrcs-162-155-10-150.central.biz.rr.com (TWC-10796-MIDWEST)	4.416	
+190.82.91.203:999	HTTPS (Mikrotik)	NOA	Chile (Penalolen)	190-82-91-203.static.tie.cl (Telefonica Empresas)	3.732	
+163.197.231.237:8118	HTTP	ANM	United States (Chicago)	ns1648.ztomy.com (PEGTECHINC)	4.891	
+122.187.224.162:3128	HTTP (Squid)	NOA	India !!!	nsg-corporate-162.224.187.122.airtel.in (BHARTI Airtel Ltd.)	0.969	
+163.197.224.247:8118	HTTP	ANM	United States (Chicago)	ns1648.ztomy.com (PEGTECHINC)	8.852	
+196.216.220.204:36739	HTTP	HIA	Sierra Leone (Freetown)	196.216.220.204 (MICG)	4.797	
+113.176.101.252:9090	HTTP (Mikrotik)	NOA	VietNam (Da Nang)	static.vnpt.vn (VNPT Corp)	9.147	
+181.129.140.83:35232	HTTPS	HIA	Colombia (Filandia)	static-bafo-181-129-140-83.une.net.co (EPM Telecomunicaciones S.A. E.S.P.)	2.684	
+103.230.211.29:8080	HTTP (Mikrotik)	NOA	Bangladesh (Joypurhat)	103.230.211-29.ibds.com.bd (Infobd24 Systems)	5.208	
+212.126.107.2:31475	HTTPS	HIA	Iraq	212.126.107.2 (AL-SARD FIBER Co. for Internet Fiber and Optical Cable Services /Ltd.)	3.227	
+178.134.155.82:48146	HTTPS	HIA	Georgia (K`alak`i T`bilisi)	178-134-155-82.dsl.utg.ge (JSC Silknet)	4.159	
+111.118.218.126:8080	HTTPS (Mikrotik)	NOA	Australia (Richmond)	126-218-118-111.static.broadbandsolutions.com.au (Broadband Solutions Pty Ltd)	2.675	
+78.101.64.35:8080	HTTP	HIA	Qatar (Doha)	78.101.64.35 (Ooredoo Q.S.C.)	2.892	
+190.121.157.142:999	HTTPS (Mikrotik)	NOA	Colombia (Sardinata) !!!	190121157142.ip14.static.mediacommerce.com.co (Media Commerce Partners S.A)	2.243	
+195.140.226.244:8080	HTTP (Mikrotik)	NOA	Ukraine (Kharkiv)	195.140.226-244.therecom.net (Therecom Ltd)	7.746	
+140.227.64.163:3128	HTTP	HIA	Japan	140-227-64-163.vpscloud.static.arena.ne.jp (NTT PC Communications, Inc.)	2.031	
+103.6.104.104:38898	HTTP	HIA	Philippines (Iligan)	103.6.104.104 (Southern CableVision Inc.)	5.94	
+186.3.213.151:999	HTTPS (Mikrotik)	NOA	Ecuador (Babahoyo) !!!	host-186-3-213-151.netlife.ec (Telconet S.A)	3.969	
+189.199.126.94:8080	HTTP	HIA	Mexico (Mazatlán)	customer-MZT-MCA-126-94.megared.net.mx (Mega Cable, S.A. de C.V.)	8.431	
+15.185.235.30:8080	HTTP (ApacheTS)	NOA	Bahrain	ec2-15-185-235-30.me-south-1.compute.amazonaws.com (AMAZON-02)	0.885	
+190.108.93.87:999	HTTPS (Mikrotik)	NOA	Peru (Lima)	190.108.93.87 (INTERNEXA PERU S.A)	2.663	
+203.177.60.115:8080	HTTP (Mikrotik)	NOA	Philippines !!!	203.177.60.115 (Globe Telecoms)	6.345	
+27.109.116.28:55443	HTTP	HIA	Cambodia (Phnom Penh)	27.109.116.28 (CAMBODIAN SINGMENG TELEMEDIA CO., LTD)	3.702	
+45.228.188.210:999	HTTP (Mikrotik)	NOA	Argentina (Obera) !!!	45-228-188-210.obercom.net.ar (MELNICHUK IVAN EMANUEL)	8.27	
+112.133.219.244:3127	HTTPS (Squid)	NOA	India (Raichur)	112.133.219.244 (RailTel Corporation of India Ltd)	0.989	
+136.232.116.2:48976	HTTP	HIA	India (Surat)	136.232.116.2.static.jio.com (Reliance Jio Infocomm Limited)	4.897	
+173.212.220.96:3128	HTTPS (Squid)	NOA	Germany (Nuremberg)	vmi139051.contaboserver.net (Contabo GmbH)	4.894	
+96.9.74.91:8080	HTTPS	HIA	Cambodia (Phnom Penh)	91.74.9.96.sinet.com.kh (SINET, Cambodias specialist Internet and Telecom Service Provider.)	5.801	
+62.33.210.34:58918	HTTP	HIA	Russia (Izhevsk)	62.33.210.34 (Joint Stock Company TransTeleCom)	8.242	
+177.73.148.100:9999	HTTP (Mikrotik)	NOA	Brazil (Sapopema) !!!	177-73-148-100.franet.com.br (FRANET TELECOM)	10.673	
+45.189.252.40:999	HTTPS (Mikrotik)	NOA	Mexico (Alvarado)	45.189.252.40 (TRACERED SA DE CV)	3.883	
+109.86.182.203:3128	HTTPS	HIA	Ukraine (Kharkiv)	203.182.86.109.triolan.net (Content Delivery Network Ltd)	3.218	
+200.54.247.98:8080	HTTP (Mikrotik)	NOA	Chile (San Bernardo)	200.54.247.98 (CTC. CORP S.A. TELEFONICA EMPRESAS)	3.317	
+183.89.56.115:8080	HTTPS	HIA	Thailand (Bangkok)	mx-ll-183.89.56-115.dynamic.3bb.in.th (JasTel Network International Gateway)	1.392	
+103.28.242.180:55443	HTTPS	HIA	Cambodia (Phnom Penh)	103.28.242.180 (CityLink Corporation, LTD)	3.804	
+109.86.152.78:55443	HTTPS	HIA	Ukraine (Kyiv)	78.152.86.109.triolan.net (Content Delivery Network Ltd)	0.351	
+213.157.47.38:8080	HTTPS (Mikrotik)	NOA	Kazakhstan	213.157.47.38 (astel Jsc)	1.1	
+87.236.212.220:8080	HTTPS	HIA	United Kingdom (Manchester)	87.236.212.220 (Serverius Holding B.V.)	0.885	
+118.179.173.253:40836	HTTPS	HIA	Bangladesh (Dhaka)	118.179.173.253 (AmberIT Limited)	9.735	
+103.215.149.46:8060	HTTPS (Mikrotik)	NOA	India (Navi Mumbai) !!!	103.215.149.46 (Cloudnet Communications Pvt Ltd)	0.802	
+89.250.149.114:60981	HTTP	HIA	Russia (Tyumen)	89x250x149x114.static-business.tmn.ertelecom.ru (JSC ER-Telecom Holding)	5.837	
+201.159.176.57:999	HTTP (Mikrotik)	NOA	Mexico (Tijuana) !!!	201.159.176.57 (Bajanet Comunicaciones, S.A. de C.V.)	6.596	
+103.154.65.240:8080	HTTPS (Mikrotik)	NOA	Pakistan (Lahore)	103.154.65.240 (WellNetworks Private Limited)	0.882	
+190.97.254.114:8080	HTTP (Mikrotik)	NOA	Venezuela (San Cristóbal)	190.97.254.114 (NetLink America C.A.)	7.308	
+103.21.160.10:35101	HTTPS	HIA	India (Jamnagar)	103.21.160.10 (Gujarat Telelink Pvt Ltd)	3.746	
+113.130.126.2:31932	HTTP	HIA	Cambodia (Phnom Penh)	113.130.126.2 (EZECOM limited)	4.374	
+200.125.168.132:999	HTTP (Mikrotik)	NOA	Dominican Republic (Mejia de Navarrete)	INTERNET-DEDICADO-168-132.wmservice.com.do (WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L)	8.761	
+43.241.131.105:8080	HTTPS (Mikrotik)	NOA	India (Thane) !!!	105-131-241-43.intechonline.net (Intech Online Private Limited)	6.797	
+181.129.183.19:53281	HTTPS	HIA	Colombia (Barrancabermeja)	adsl-181-129-183-19.une.net.co (EPM Telecomunicaciones S.A. E.S.P.)	3.152	
+181.78.18.172:9991	HTTP (Mikrotik)	NOA	Colombia (Barranquilla)	172.18.78.181.ufinet.com.co (UFINET PANAMA S.A.)	2.342	
+200.116.198.177:35184	HTTP	HIA	Colombia (Medellín)	static-200-116-198-177.une.net.co (EPM Telecomunicaciones S.A. E.S.P.)	11.013	
+134.19.254.2:21231	HTTP	HIA	Georgia (K`alak`i T`bilisi)	134.19.254.2 (Magticom Ltd.)	2.575	
+150.129.148.88:35101	HTTP	HIA	India (Veraval)	150.129.148.88 (Gujarat Telelink Pvt Ltd)	4.297	
+200.37.231.67:8080	HTTPS (Mikrotik)	NOA	Peru (Surquillo)	200.37.231.67 (Telefonica del Peru S.A.A.)	8.672	
+201.222.5.193:999	HTTPS (Mikrotik)	NOA	Venezuela !!!	201.222.5.193 (RED DOT TECHNOLOGIES, C.A.)	1.21	
+185.230.105.134:8182	HTTP	ANM	Iraq (Baghdad)	185.230.105.134 (Noor Al-Qamar Co. For Internet Ltd.)	9.812	
+62.133.168.72:55443	HTTPS	HIA	Russia (Uchaly)	h62-133-168-72.static.bashtel.ru (PJSC Bashinformsvyaz)	2.616	
+154.0.15.166:46547	HTTP	HIA	South Africa (Pretoria)	u33a-cust.coolideas.co.za (COOL-IDEAS)	9.193	
+154.117.176.102:23500	HTTP	HIA	South Africa (Cape Town)	102-176-117-154.bitcointernet.co.za (BITCO)	4.003	
+103.240.77.98:30093	HTTP	HIA	India (Surat)	103.240.77.98 (Gujarat Telelink Pvt Ltd)	7.6	
+200.140.189.43:8080	HTTP (Mikrotik)	NOA	Brazil (Brasília) !!!	200-140-189-43.user3p.brasiltelecom.net.br (Brasil Telecom SA - Filial Distrito Federal)	6.886	
+103.241.227.98:6666	HTTP	HIA	India (Dohad)	103.241.227.98 (Gujarat Telelink Pvt Ltd)	1.97	
+190.95.134.120:999	HTTPS (Mikrotik)	NOA	Ecuador	190.95.134.120 (Telconet S.A)	1.148	
+90.102.20.197:82	HTTP	HIA	France (Paris) !!!	90.102.20.197 (Orange)	0.199	
+103.109.59.242:53281	HTTP	HIA	Bangladesh !!!	103.109.59.242 (SKYNET CHOWMUHANI)	5.025	
+192.140.42.81:47277	HTTP	HIA	Brazil (Boa Vista do Jauato)	192-140-42-81.allfiber.com.br (Allfiber Telecom Servicos de Telecomunicacoes)	7.389	
+170.239.255.2:55443	HTTP	HIA	Brazil (Betim)	170-239-255-2.utopianet.com.br (UTOPIANET INFORMATICA E TELECOMUNICACOES LTDA)	8.902	
+178.136.2.208:55443	HTTPS	HIA	Ukraine (Zhytomyr)	178-136-1-208.static.vega-ua.net (Private Joint-stock Company farlep-invest)	6.062	
+50.192.195.69:52018	HTTP	HIA	United States (Midvale)	50-192-195-69-static.hfc.comcastbusiness.net (COMCAST-7922)	5.861	
+186.167.33.244:42550	HTTPS	HIA	Venezuela (Valera)	186-167-33-244.suelopetrol.com (Corporacion Digitel C.A.)	4.538	
+59.153.17.186:53281	HTTP	HIA	Bangladesh (Dhaka)	59.153.17-186.eurotelbd.net (S.M. ZAKIR HOSSAIN ta EUROtelbd Online Ltd.)	7.5	
+103.104.122.199:3128	HTTP (Squid)	NOA	VietNam	static-ptr.vndata.vn (Viet Storage Technology Joint Stock Company)	3.668	
+177.91.111.253:8080	HTTP	HIA	Brazil (Bom Jesus da Lapa)	253-111-91-177.pollynet.com.br (MP TELECOM SERVICOS E COMERCIO LTDA)	13.875	
+186.219.96.47:54570	HTTP	HIA	Brazil (Ourinhos)	186-219-96-47.cabonnet.com.br (GIGA TV LTDA - EPP)	3.277	
+81.18.34.98:42535	HTTP	HIA	Kazakhstan	81.18.34.98 (Radiobaylanys LLP)	3.551	
+202.40.188.90:40486	HTTPS	HIA	Bangladesh (Dhaka)	ritt-188-90.ranksitt.net (Ranks ITT Ltd.)	4.212	
+201.132.155.198:8080	HTTP	HIA	Mexico (Culiacán)	customer-CLN-MCA-155-198.megared.net.mx (Mega Cable, S.A. de C.V.)	2.373	
+116.206.58.157:8181	HTTPS (Mikrotik)	NOA	Bangladesh (Comilla)	116.206.58.157 (aamra networks limited)	4.201	
+200.29.102.231:55443	HTTP	HIA	Colombia (Santiago de Cali)	dsl-emcali-200.29.102.231.emcali.net.co (EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P.)	6.119	
+181.129.98.146:8080	HTTP (Mikrotik)	NOA	Colombia (Medellín)	static-181-129-98-146.une.net.co (EPM Telecomunicaciones S.A. E.S.P.)	4.752	
+113.160.224.224:55443	HTTP	HIA	VietNam (Da Nang)	static.vnpt.vn (VNPT Corp)	7.347	
+41.220.114.154:8080	HTTPS (Mikrotik)	NOA	Kenya	41.220.114.154.accesskenya.com (ACCESSKENYA GROUP LTD is an ISP serving)	12.777	
+201.132.105.30:8080	HTTP	HIA	Mexico (Jilotepec de Molina Enriquez)	customer-CHGO-105-30.megared.net.mx (Mega Cable, S.A. de C.V.)	2.907	
+192.140.91.133:50701	HTTPS	HIA	Brazil (Alfenas)	192-140-91-133.itop.net.br (ITOP TELECOM LTDA - ME)	2.888	
+200.116.198.163:49422	HTTP	HIA	Colombia (Medellín)	static-200-116-198-163.une.net.co (EPM Telecomunicaciones S.A. E.S.P.)	1.98	
+195.154.106.59:5566	HTTPS	HIA	France (Ivry-sur-Seine) !!!	195-154-106-59.rev.poneytelecom.eu (Online S.a.s.)	1.457	
+186.233.98.173:23500	HTTP	HIA	Brazil !!!	186.233.98-173.siminternet.com.br (Beleza Network Provedor de Internet LTDA-ME)	10.555	
+181.143.106.162:52151	HTTPS	HIA	Colombia (Medellín)	static-181-143-106-162.une.net.co (EPM Telecomunicaciones S.A. E.S.P.)	2.656	
+118.173.242.189:8080	HTTP (Mikrotik)	NOA	Thailand (Bangkok) !!!	node-1by5.pool-118-173.dynamic.totinternet.net (TOT Public Company Limited)	6.537	
+152.101.74.178:8080	HTTP	HIA	Hong Kong	152-101-74-178.static.hk.net (CITIC Telecom International CPC Limited)	2.653	
+203.207.52.206:8085	HTTP	HIA	Indonesia	203.207.52.206 (PT Media Akses Global Indo, Internet Provider Jakarta)	9.758	
+62.69.212.197:8090	HTTPS (Mikrotik)	NOA	Poland (Szczecin)	62.69.212.197 (Netia SA)	5.558	
+36.37.139.2:43997	HTTPS	HIA	Cambodia (Phnom Penh)	36.37.139.2 (ISPIXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.)	8.097	
+91.237.109.223:55443	HTTPS	HIA	Ukraine (Donetsk)	91-237-109-223.amik.dn.ua (AMIK LLC)	9.658	
+160.202.9.53:8080	HTTPS (Mikrotik)	NOA	India (Vadodara)	160.202.9.53 (Ishans Network)	2.718	
+190.152.17.62:55443	HTTPS	HIA	Ecuador	62.17.152.190.static.anycast.cnt-grms.ec (CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP)	12.227	
+177.91.96.44:6666	HTTP	HIA	Brazil (Sitio do Mato)	44-96-91-177.pollynet.com.br (MP TELECOM SERVICOS E COMERCIO LTDA)	7.025	
+3.96.119.90:8081	HTTPS	HIA	Canada (Montreal)	ec2-3-96-119-90.ca-central-1.compute.amazonaws.com (AMAZON-02)	3.891	
+45.231.221.193:999	HTTP (Mikrotik)	NOA	Mexico (Tijuana) !!!	45-231-221-193.dyn.distrokom.net (DISTROKOM S DE RL DE CV)	13.039	
+115.79.198.18:55443	HTTPS	HIA	VietNam (Ho Chi Minh City)	115.79.198.18 (Viettel Group)	2.468	
+86.123.166.109:8080	HTTP	HIA	Romania (Brasov)	86-123-166-109.static.brasov.rdsnet.ro (RCS & RDS)	1.623	
+165.73.125.214:53281	HTTPS	HIA	South Africa (Cape Town)	165-73-125-214.ip.afrihost.capetown (Afrihost)	5.257	
+172.107.159.194:443	HTTPS	HIA	Singapore	172.107.159.194 (AS40676)	0.934	
+160.16.123.8:3128	HTTPS	HIA	Japan (Tokyo)	tk2-237-28254.vs.sakura.ne.jp (SAKURA Internet Inc.)	1.39	
+37.29.80.161:8080	HTTPS	HIA	Russia	37.29.80.161 (PJSC MegaFon)	5.29	
+124.41.211.188:38656	HTTP	HIA	Nepal (Kathmandu)	188.211.41.124.dynamic.wlink.com.np (WorldLink Communications Pvt Ltd)	3.21	
+103.243.82.198:37358	HTTPS	HIA	Bangladesh	103.243.82.198 (aamra networks limited)	6.906	
+45.160.73.145:999	HTTPS (Mikrotik)	NOA	Chile (San Bernardo) !!!	reverso.45.160.73.145.static.bestdns.cl (Besthost Spa)	1.877	
+200.24.157.122:999	HTTP (Mikrotik)	NOA	Ecuador (Azogues) !!!	host-200-24-157-122.nedetel.net (NEDETEL S.A.)	2.446	
+140.227.31.223:6000	HTTPS	HIA	Japan (Nagasaki)	140-227-31-223.vpscloud.static.arena.ne.jp (NTT PC Communications, Inc.)	4.044	
+195.110.7.195:3121	HTTPS	HIA	Ukraine (Simferopol)	195.110.7.195 (Ltd. Cypher)	1.282	
+1.179.148.9:55636	HTTP	HIA	Thailand (Bangkok)	1.179.148.9 (TOT Public Company Limited)	5.007	
+116.90.229.186:35561	HTTPS	HIA	Nepal	116.90.229.186 (Websurfer Nepal Internet Service Provider)	3.367	
+178.47.139.151:35102	HTTP	HIA	Russia (Perm)	178.47.139.151 (Rostelecom)	4.449	
+189.206.34.154:3128	HTTP	ANM	Mexico (Ecatepec)	static-189-206-34-154.alestra.net.mx (Alestra, S. de R.L. de C.V.)	1.751	
+157.65.167.24:3128	HTTP	HIA	Japan	157-65-167-24.vpscloud.static.arena.ne.jp (NTT PC Communications, Inc.)	8.023	
+3.213.139.74:8888	HTTP (Tinyproxy)	ANM	United States (Ashburn) !!!	ec2-3-213-139-74.compute-1.amazonaws.com (AMAZON-AES)	12.512	
+62.201.228.250:56798	HTTPS	HIA	Iraq	62.201.228.250 (IQ Networks)	1.255	
+78.133.154.1:8080	HTTPS (Mikrotik)	NOA	Poland !!!	78.133.154.1 (T-Mobile Czech Republic a.s.)	0.387	
+195.175.89.198:8080	HTTPS (Mikrotik)	NOA	Turkey (Seydisehir)	195.175.89.198.static.turktelekom.com.tr (Turk Telekom)	1.768	
+150.129.250.28:33846	HTTP	HIA	India (Noida)	250.129.150.in-addr.tripleplay.in (TRIPLE PLAY BROADBAND PRIVATE LIMITED)	4.299	
+165.22.81.30:33963	HTTPS	HIA	Germany (Frankfurt am Main) !!!	classifiedads-de.futudata.com (DIGITALOCEAN-ASN)	3.757	
+195.74.72.129:37213	HTTP	HIA	Ukraine !!!	195.74.72.129 (Branch Enterprise Netgroup-Service)	1.865	
+196.3.97.71:23500	HTTP	HIA	Mozambique (Maputo)	fdd071.uem.mz (EMUNET)	8.471	
+103.111.186.252:80	HTTP	NOA	Indonesia	103.111.186.252 (PT Cyberindo Aditama)	0.933	
+91.107.6.115:53281	HTTP	HIA	Russia (Lyubertsy)	91.107.6.115 (AVK-computer ltd)	10.999	
+119.82.252.25:42914	HTTP	HIA	Cambodia (Phnom Penh)	eze-119.82.252.25.ezecom.com.kh (EZECOM limited)	4.93	
+217.168.76.230:59021	HTTP	HIA	Russia (Kaliningrad)	soc.gov39.ru (Rostelecom)	5.592	
+103.216.82.19:6666	HTTP	HIA	India (Ahmedabad)	103.216.82.19 (Gujarat Telelink Pvt Ltd)	5.572	
+190.152.93.204:8080	HTTPS (Mikrotik)	NOA	Ecuador !!!	204.93.152.190.static.anycast.cnt-grms.ec (CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP)	6.915	
+45.189.24.2:9999	HTTP (Mikrotik)	NOA	Brazil (Dias davila)	45.189.24.2 (Popnet Servicos De Telecomunicacoes Eireli)	1.719	
+181.129.74.58:40667	HTTPS	HIA	Colombia (Medellín)	static-181-129-74-58.une.net.co (EPM Telecomunicaciones S.A. E.S.P.)	3.528	
+189.195.41.242:8080	HTTPS	HIA	Mexico (Nogales)	customer-TLN-MCA-41-242.megared.net.mx (Mega Cable, S.A. de C.V.)	3.118	
+109.200.155.196:8080	HTTPS (Mikrotik)	NOA	Ukraine (Simferopol)	ip196-155-200-109.crelcom.ru (Crelcom LLC)	2.116	
+197.255.52.214:8081	HTTP	HIA	Nigeria (Lagos)	197.255.52.214 (Cobranet Limited)	3.983	
+96.9.67.84:8080	HTTPS (Mikrotik)	NOA	Cambodia (Phnom Penh)	84.67.9.96.sinet.com.kh (SINET, Cambodias specialist Internet and Telecom Service Provider.)	12.13	
+103.124.111.33:8080	HTTP (Mikrotik)	NOA	Bangladesh (Dhaka) !!!	103.124.111.33 (Md. Shazzad Hossain)	7.572	
+221.120.210.220:39617	HTTP	HIA	Pakistan	mail.styloshoes.com.pk (Pakistan Telecommunication Company Limited)	8.12	
+190.211.105.86:55443	HTTP	HIA	Costa Rica (Limón)	190.211.105.86 (Cooperativa de Electrificacion Rural de San Carlos R.L. Coopelesca R.L.)	2.726	
+91.194.53.24:9090	HTTPS (Mikrotik)	NOA	Turkey (Bursa) !!!	91.194.53.24 (Veganet Teknolojileri ve Hizmetleri LTD STI)	8.542	
+160.16.104.81:3128	HTTPS	HIA	Japan (Tokyo)	tk2-228-23577.vs.sakura.ne.jp (SAKURA Internet Inc.)	4.133	
+93.171.224.43:8080	HTTP (Mikrotik)	NOA	Ukraine (Dnipro) !!!	93.171.224.43 (PE TV and Radio Company Kentavr-TV)	3.651	
+45.77.146.38:3228	HTTP (Squid)	NOA	United States (Piscataway)	45.77.146.38.vultr.com (AS-CHOOPA)	0.51	
+170.238.255.90:31113	HTTPS	HIA	Mexico (Guadalupe)	170.238.255.90 (Sierra Madre Internet SA de CV)	2.967	
+183.87.153.98:49602	HTTPS	HIA	India (Pune)	98-153-87-183.mysipl.com (Syscon Infoway Pvt. Ltd.)	6.386	
+103.94.169.235:55443	HTTPS	HIA	Indonesia (Jakarta)	ip-169-235.balifiber.id (PT Bali Towerindo Sentra, Tbk)	1.291	
+66.170.183.90:9090	HTTPS	HIA	Canada (Hawkesbury)	ip-66-170-183-90.static.belairnet.com (BELAIR-TECHNOLOGIES)	1.568	
+140.227.28.39:6000	HTTP	HIA	Japan (Nagasaki)	140-227-28-39.vpscloud.static.arena.ne.jp (NTT PC Communications, Inc.)	8.598	
+190.61.41.106:999	HTTP (Mikrotik)	NOA	Colombia (Valledupar)	106.41.61.190.ufinet.com.co (UFINET PANAMA S.A.)	2.392	
+103.231.80.202:55443	HTTPS	HIA	Indonesia !!!	103.231.80.202 (PT Telemedia Network Cakrawala)	1.569	
+200.55.3.122:999	HTTP (Mikrotik)	NOA	Argentina (Mendoza)	200-55-3-122.static.impsat.net.ar (LVLT-3549)	4.256	
+45.236.152.45:6666	HTTP	HIA	Brazil (Porto Seguro)	ip-45-236-152-45.fibranetbrasil.com.br (FIBRANET BRASIL)	7.48	
+170.0.87.201:999	HTTP (Mikrotik)	NOA	Argentina (Andresito) !!!	170.0.87.201 (Dardo Rene Schroder)	10.137	
+1.179.183.73:50178	HTTPS	HIA	Thailand (Lue Amnat)	1.179.183.73 (TOT Public Company Limited)	5.768	
+113.161.186.101:8080	HTTPS (Mikrotik)	NOA	VietNam (Bao Loc)	static.vnpt.vn (VNPT Corp)	2.807	
+177.87.168.105:53281	HTTP	HIA	Brazil (Recife) !!!	105-168-87-177.asstelecom.com.br (Asstelecom telecomunicacao Ltda me)	3.215	
+83.167.203.174:50128	HTTPS	HIA	Netherlands (Bergschenhoek)	static-174-203-167-83.thenetworkfactory.nl (Vodafone Libertel B.V.)	4.681	
+178.217.172.206:55443	HTTP	HIA	Kyrgyzstan	178.217.172.206 (Kyrgyz research and education network association)	1.588	
+190.57.143.70:50719	HTTPS	HIA	Ecuador (Cuenca) !!!	corp-190-57-143-70.cue.puntonet.ec (PUNTONET S.A.)	13.824	
+191.96.36.188:808	HTTPS	HIA	Thailand	191.96.36.188 (MinetHost Co. LTD)	5.204	
+45.174.70.18:53281	HTTP	HIA	Mexico (Navojoa) !!!	nav.index.com.mx (INDEX DATACOM S.A. DE C.V.)	9.74	
+201.220.112.98:999	HTTP (Mikrotik)	NOA	Chile (Lautaro)	201.220.112.98 (Telefonica del Sur S.A.)	4.828	
+103.22.172.42:59458	HTTP	HIA	India (Hyderabad)	103.22.172.42 (VAINAVI INDUSTIES LTD, INTERNET SERVICE PROVIDER, INDIA)	6.171	
+45.179.187.107:8083	HTTP (Mikrotik)	NOA	Brazil (Cassilandia) !!!	ajotel-ipv4-as269099-187.179.45.ajotel.com.br (AJOTEL TECNOLOGIA EIRELI)	4.157	
+41.222.209.9:808	HTTPS	HIA	Nigeria (Abuja) !!!	41-222-209-9.galaxybackbone.com (Galaxy Backbone)	0.772	
+195.158.81.121:55443	HTTPS	HIA	Malta (Swieqi)	195.158.81.121 (GO p.l.c.)	3.556	
+65.78.143.142:55443	HTTPS	HIA	United States (Carmichael)	142.143-78-65.ftth.swbr.surewest.net (SUREWEST)	3.063	
+78.186.111.152:9090	HTTP	HIA	Turkey (Istanbul)	78.186.111.152.static.ttnet.com.tr (Turk Telekom)	2.64	
+103.101.100.26:8080	HTTP (Mikrotik)	NOA	India (Jhajjar)	host103-101-100-26.sbrtelecom.com (SBR Telecom Pvt. Ltd)	2.581	
+172.104.43.191:82	HTTP	ANM	Singapore (Singapore)	li1623-191.members.linode.com (Linode, LLC)	1.05	
+5.252.195.253:9999	HTTPS	HIA	Russia	195-253.static.spheral.ru (Ip Server LLC)	7.387	
+154.127.79.192:8080	HTTPS	HIA	Libyan Arab Jamahiriya !!!	154.127.79.192 (Aljeel-net)	0.766	
+190.12.95.170:47029	HTTP	HIA	Peru (Lima)	190.12.95.170 (OPTICAL TECHNOLOGIES S.A.C.)	4.025	
+82.99.232.18:58689	HTTPS	HIA	Iran	pcomtelecom.net (Pars Online PJS)	3.948	
+103.212.92.253:48434	HTTPS	HIA	India (Mumbai) !!!	103.212.92.253 (Best Telnet Services Private Limited)	2.467	
+189.204.242.178:8080	HTTP	HIA	Mexico (Tizayuca)	178.189-204-242.bestelclientes.com.mx (Operbes, S.A. de C.V.)	2.337	
+177.46.148.126:3128	HTTP (Mikrotik)	NOA	Brazil (São Paulo)	STC148-126.static.tesa.net.br (Telecom South America SA)	3.729	
+43.129.186.179:8080	HTTP	ANM	Hong Kong (Central)	43.129.186.179 (Tencent Building, Kejizhongyi Avenue)	5.663	
+13.229.90.80:3128	HTTP	ANM	Singapore (Singapore)	ec2-13-229-90-80.ap-southeast-1.compute.amazonaws.com (AMAZON-02)	1.628	
+172.107.159.202:443	HTTP	HIA	Singapore	172.107.159.202 (AS40676)	4.5	
+119.28.68.91:8080	HTTP	ANM	Hong Kong (Central)	119.28.68.91 (Tencent Building, Kejizhongyi Avenue)	1.323	
+176.28.64.225:3128	HTTP	HIA	Russia (Orenburg)	176.28.64.225 (Stroytechservice LLC)	0.475	
+31.131.67.14:8080	HTTPS	HIA	Russia	31.131.67.14 (PE Zinstein Hariton Vladimirovich)	5.225	
+88.82.95.146:3128	HTTPS	HIA	Russia (Kazan’) !!!	146-95-82-88.fatum.ru (Radiokom Ltd.)	1.97	
+202.62.84.210:53281	HTTP	HIA	India (Vijayawada)	202.62.84.210 (CityOnline Services Ltd)	2.161	
+191.100.28.115:8080	HTTPS	HIA	Ecuador (Cuenca)	115.191-100-28.etapanet.net (ETAPA EP)	1.627	
+103.158.147.121:55443	HTTPS	HIA	India (Murbad) !!!	103.158.147.121 (Netfox Networks Private Limited)	1.31	
+185.175.119.113:47174	HTTP	HIA	Russia (Belorechensk)	185.175.119.113 (Beltelecom LLC)	7.551	
+187.1.57.206:20183	HTTPS (Mikrotik)	NOA	Brazil (Belo Horizonte)	ip-187-1-57-206.isp.valenet.com.br (Companhia Itabirana Telecomunicacoes Ltda)	3.081	
+103.108.57.9:3127	HTTP (Squid)	NOA	India (Belgaum)	103.108.57.9 (Optisky Fibernet Private Limited)	13.643	
+94.228.192.197:8087	HTTPS	HIA	Russia (Moscow)	union-tel.192.197.ru (Uniontel Ltd)	7.639	
+143.255.52.67:31158	HTTP	HIA	Brazil (Campo Alegre de Lourdes)	143.255.52.67.oxentenet.com.br (OXENTE NET EMPREENDIMENTOS LTDA - EPP)	5.553	
+177.10.162.222:8080	HTTP (Mikrotik)	NOA	Brazil (Coronel Freitas) !!!	entrenanet--177-10-162-222.enn.net.br (Chapeco Tecnologia em Telecomunicacoes Ltda.)	9.845	
+155.0.181.254:43496	HTTPS	HIA	Zambia	155.0.181.254 (ZAMREN)	5.06	
+103.25.155.189:83	HTTPS (Mikrotik)	NOA	India (Narsingpur) !!!	103.25.155.189 (Omkar Infotech)	2.067	
+124.217.246.133:3128	HTTPS	ANM	Malaysia	124.217.246.133 (Shinjiru Technology Sdn Bhd)	5.528	
+103.110.109.12:3129	HTTP (Mikrotik)	NOA	Maldives	103.110.109.12 (SatLink Pvt Ltd)	8.878	
+8.210.157.49:17309	HTTPS	ANM	Hong Kong (Central) !!!	8.210.157.49 (Alibaba US Technology Co., Ltd.)	7.198	
+195.123.239.114:8080	HTTPS (Mikrotik)	NOA	Singapore (Singapore)	chr-shp-28.surgainternetanaswaee.my.id (ITL-Bulgaria Ltd.)	8.325	
+77.222.158.126:8080	HTTPS (Mikrotik)	NOA	Ukraine (Nizhyn)	77-222-158-126-static.retail.datagroup.ua (Private Joint Stock Company datagroup)	4.779	
+176.193.32.111:8080	HTTPS (Mikrotik)	NOA	Russia (Moscow)	ip-176-193-32-111.bb.netbynet.ru (Net By Net Holding LLC)	0.944	
+103.112.213.82:83	HTTP (Mikrotik)	NOA	India (Ilkal)	host103-112-213-82.supersonicbroadband.com (Supersonic Isp Connectivity India Pvt Ltd)	1.84	
+197.255.209.34:8080	HTTP (Mikrotik)	NOA	Nigeria (Lagos)	197.255.209.34 (SIMBANET-NIGERIA)	12.821	
+41.33.179.195:8080	HTTP (Mikrotik)	NOA	Egypt	host-41.33.179.195.tedata.net (TE-AS)	5.781	
+148.251.219.105:8080	HTTP	HIA	Germany	static.105.219.251.148.clients.your-server.de (Hetzner Online GmbH)	14.215	
+102.68.135.21:8080	HTTPS (Mikrotik)	NOA	Libyan Arab Jamahiriya (Tripoli) !!!	102.68.135.21 (General Post and Telecommunication Company)	2.4	
+200.39.154.1:999	HTTPS (Mikrotik)	NOA	Peru (Chachapoyas) !!!	200.39.154.1 (AIRWIZ PERU E.I.R.L)	1.545	
+71.172.1.50:8080	HTTP (Mikrotik)	NOA	United States (Somerset) !!!	static-71-172-1-50.nwrknj.fios.verizon.net (UUNET)	4.901	
+170.0.233.60:999	HTTPS (Mikrotik)	NOA	Peru (Lima) !!!	170.0.233.60 (OPTICAL TECHNOLOGIES S.A.C.)	7.24	
+91.194.53.17:9090	HTTPS (Mikrotik)	NOA	Turkey (Bursa) !!!	91.194.53.17 (Veganet Teknolojileri ve Hizmetleri LTD STI)	1.539	
+200.106.184.11:999	HTTPS (Mikrotik)	NOA	Argentina	200.106.184.11 (FULLNET SOLUTIONS S.A.S.)	3.632	
+177.73.112.206:9090	HTTPS (Mikrotik)	NOA	Brazil (Pureza)	177.73.112.206 (MGNET INFORMATICA E SERVICOS LTDA)	4.371	
+180.94.86.252:8080	HTTPS (Mikrotik)	NOA	Afghanistan	180.94.86.252 (AFGHANTELECOM GOVERNMENT COMMUNICATION NETWORK)	7.713	
+176.236.223.153:9090	HTTP (Mikrotik)	NOA	Turkey !!!	176.236.223.153 (Tellcom Iletisim Hizmetleri A.s.)	10.655	
+180.210.184.226:8080	HTTP (Mikrotik)	NOA	Bangladesh (Chittagong)	180.210.184.226 (Premium Connectivity Limited)	5.147	
+160.119.125.25:8080	HTTPS (Mikrotik)	NOA	Nigeria (Abuja) !!!	160.119.125.25 (Dotmac-Tech)	3.005	
+121.139.218.165:31409	HTTPS	HIA	South Korea (Ansan-si)	121.139.218.165 (Korea Telecom)	3.79	
+186.250.25.230:55443	HTTPS	HIA	Brazil (Rio Pardo)	186-250-25-230.luxtelinternet.com.br (V de M Vargas)	7.574	
+131.161.68.37:31264	HTTP	HIA	Brazil (Rio de Janeiro) !!!	131.161.68.37 (MS NUNES INFORMACAO TECNOLOGICA LTDA)	5.597	
+45.174.78.33:999	HTTP (Mikrotik)	NOA	Mexico (Ciudad Juárez) !!!	host-45-174-78-33.nidix.mx (RAUL DUARTE URITA)	2.424	
+78.108.108.9:8080	HTTP (Mikrotik)	NOA	Czech Republic (Pilsen)	router-halkova.pilsfree.net (FreeTel, s.r.o.)	4.425	
+117.208.148.72:3128	HTTPS (Mikrotik)	NOA	India (Kurnool)	117.208.148.72 (National Internet Backbone)	11.356	
+83.143.115.129:53281	HTTPS	HIA	Bulgaria	83.143.115.129 (SKAT TV Ltd.)	2.865	
+162.220.204.46:53281	HTTPS (Mikrotik)	NOA	Canada (Milton)	162.220.204-46.ip.standardbroadband.ca (IASL)	0.723	
+45.242.130.62:55443	HTTP (Mikrotik)	NOA	Egypt (Alexandria)	45.242.130.62 (LINKdotNET)	0.669	
+190.2.214.97:999	HTTP (Mikrotik)	NOA	Colombia (Villavicencio) !!!	azteca-comunicaciones.com (TV AZTECA SUCURSAL COLOMBIA)	7.195	
+97.72.168.62:87	HTTP	NOA	United States !!!	host977262168.direcpc.com (HNS-DIRECPC)	5.938	
+86.62.120.68:3128	HTTP (Mikrotik)	NOA	Russia (Moscow)	h86-62-120-68.ln.rinet.ru (JSC ER-Telecom Holding)	4.069	
+36.37.177.186:8080	HTTPS	HIA	Cambodia	36.37.177.186 (ISPIXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.)	4.915	
+185.20.198.108:8080	HTTPS (Mikrotik)	NOA	Iraq !!!	185.20.198.108 (Horizon Scope Mobile Telecom WLL)	6.389	
+170.239.150.222:999	HTTPS	HIA	Mexico (Querétaro City)	170-239-150-222.internet.ientc.mx (IENTC S DE RL DE CV)	1.511	
+176.236.232.65:9090	HTTPS (Mikrotik)	NOA	Turkey (Konya) !!!	176.236.232.65 (Tellcom Iletisim Hizmetleri A.s.)	1.488	
+115.75.75.239:8080	HTTP (Mikrotik)	NOA	VietNam	115.75.75.239 (Viettel Group)	3.198	
+45.167.125.129:9991	HTTPS (Mikrotik)	NOA	Colombia (Popayán)	45.167.125.129 (SEPCOM COMUNICACIONES SAS)	4.23	
+79.104.25.218:8080	HTTP	HIA	Russia (Moscow)	79.104.25.218 (PVimpelCom)	1.318	
+177.222.160.214:3128	HTTP (Squid)	NOA	Brazil (Mongagua)	br.214.alphaservers.com.br (PAM Pepe Antenas Telecom. e Multimida Ltda ME)	1.447	
+190.120.255.80:999	HTTPS (Mikrotik)	NOA	Venezuela (Valencia)	190.120.255.80 (The Houses Television C.A. ConexTELECOM)	6.001	
+185.238.239.60:8090	HTTP (Mikrotik)	NOA	Poland (Wiazow) !!!	185.238.239.60 (RADIO-NET)	5.584	
+216.169.73.65:34679	HTTP	HIA	United States (Tropic)	216-169-73-65.scinternet.net (SCINTERNET)	3.811	
+131.108.84.14:8080	HTTP (Mikrotik)	NOA	Brazil (Palmares)	static-131.108.84.14-pgftelecom.com.br (pgf telecomunicacoes ltda)	5.322	
+1.10.141.220:54620	HTTP	HIA	Thailand (Phayao)	node-2qk.pool-1-10.dynamic.totinternet.net (TOT Public Company Limited)	6.383	
+217.23.55.52:8080	HTTPS (Mikrotik)	NOA	Germany (Schlat)	gate-city-wlan-eis.gigalan.net (I-NetPartner GmbH)	4.486	
+110.76.129.106:59570	HTTPS	HIA	Bangladesh (Dhaka) !!!	110.76.129.106 (KS Network Limited)	9.235	
+128.199.244.63:3228	HTTP (Mikrotik)	NOA	Singapore (Singapore)	sg-01.1go.moe (DIGITALOCEAN-ASN)	13.612	
+43.242.242.196:8080	HTTP (Mikrotik)	NOA	Mongolia (Ulan Bator)	43.242.242.196 (first E-commerce and TriplePlay Service ISP in Mongolia.)	4.445	
+190.217.10.12:999	HTTP (Mikrotik)	NOA	Argentina !!!	190.217.10.12 (LVLT-3549)	3.015	
+81.134.57.82:3128	HTTPS (Squid)	NOA	United Kingdom (Paignton)	host81-134-57-82.in-addr.btopenworld.com (British Telecommunications PLC)	1.278	
+94.19.162.175:8080	HTTPS (Mikrotik)	NOA	Russia (St Petersburg)	94.19.162.175.pool.sknt.ru (SkyNet Ltd.)	1.92	
+8.208.91.118:8000	HTTP (Squid)	NOA	United Kingdom (London)	8.208.91.118 (Alibaba US Technology Co., Ltd.)	8.745	
+149.126.98.162:9090	HTTPS	HIA	Russia (Moscow)	149-126-98-162.in-addr.netone.ru (NetOne Rus JSC)	0.865	
+185.134.96.34:8081	HTTPS (Mikrotik)	NOA	Iran	185.134.96.34 (Yaghoot Rayaneh Saveh Cooperative Co.)	0.969	
+103.76.241.34:3127	HTTPS (Mikrotik)	NOA	Bangladesh (Dhaka)	103.76.241.34 (MD. Khurshid Alom ta Computer Complex Network)	3.695	
+138.201.114.61:8080	HTTP (Mikrotik)	NOA	Germany	static.61.114.201.138.clients.your-server.de (Hetzner Online GmbH)	1.738	
+185.172.0.222:8080	HTTPS (Mikrotik)	NOA	Iran	185.172.0.222 (Farabord Dadeh Haye Iranian Co.)	1.575	
+140.227.71.136:6000	HTTP	HIA	Japan	140-227-71-136.vpscloud.static.arena.ne.jp (NTT PC Communications, Inc.)	8.028	
+140.227.81.13:3128	HTTP	HIA	Japan	140-227-81-13.vpscloud.static.arena.ne.jp (NTT PC Communications, Inc.)	4.035	
+5.56.134.237:55963	HTTP (3proxy)	NOA	Iran (Tehran)	5.56.134.237 (Abazarhaye Farsi Shabakeh (Persian Tools) Co.,LTD.)	5.655	
+131.161.53.49:999	HTTPS (Mikrotik)	NOA	Honduras (San Pedro Sula) !!!	network131-53-host-49.inethn.net (INET Communication)	1.002	
+12.239.213.215:8080	HTTPS (Mikrotik)	NOA	United States (Weatherford) !!!	12.239.213.215 (LINXUS1)	3.99	
+177.222.43.34:999	HTTPS (Mikrotik)	NOA	Bolivia (La Paz)	SCZ-177-222-43-00034.tigo.bo (Telefonica Celular de Bolivia S.A.)	4.455	
+1.0.205.87:8080	HTTPS (Mikrotik)	NOA	Thailand (Kapong)	node-f9z.pool-1-0.dynamic.totinternet.net (TOT Public Company Limited)	7.382	
+200.60.4.238:999	HTTP (Mikrotik)	NOA	Peru (Oxapampa)	200.60.4.238 (Telefonica del Peru S.A.A.)	10.037	
+140.227.32.79:6000	HTTP	HIA	Japan	140-227-32-79.vpscloud.static.arena.ne.jp (NTT PC Communications, Inc.)	4.066	
+201.149.100.2:8085	HTTPS (Mikrotik)	NOA	Brazil (Cruzeiro do Oeste)	201.149.100.2 (CRZNET TELECOM LTDA)	9.685	
+128.199.152.210:8080	HTTP (Squid)	NOA	Singapore (Singapore)	128.199.152.210 (DIGITALOCEAN-ASN)	1.738	
+190.124.30.145:999	HTTPS (Mikrotik)	NOA	Venezuela (Maracaibo)	host-pool3-145-dynamic.airteknet.com (Airtek Solutions C.A.)	1.633	
+123.253.97.6:8080	HTTP (Mikrotik)	NOA	Bangladesh (Satkhira) !!!	123.253.97.6 (KS Network Limited)	3.265	
+202.141.233.66:8080	HTTP (Mikrotik)	NOA	Pakistan	202-141-233-66.multi.net.pk (Multinet Pakistan Pvt. Ltd.)	14.112	
+5.9.250.11:3128	HTTP (Squid)	NOA	Germany	asistan7.atroks.com (Hetzner Online GmbH)	12.192	
+83.229.8.9:3128	HTTPS (Squid)	NOA	Italy (Omignano Scalo)	host9-8-229-83.convergenze.it (Convergenze S.p.A.)	0.331	
+41.184.178.247:8080	HTTP (Mikrotik)	NOA	Nigeria (Lagos)	41-184-178-247.rv.ipnxtelecoms.com (IPNXng)	4.186	
+185.83.197.154:8080	HTTP (Mikrotik)	NOA	Iran	185.83.197.154 (Pejvak Ertebatat Atiyeh Roshan Company (P.J.S.))	10.479	
+119.15.95.158:8080	HTTP (Mikrotik)	NOA	Cambodia (Phnom Penh)	119.15.95.158 (WiCAM Corporation Ltd.)	7.309	
+81.174.11.159:61743	HTTPS	HIA	Italy (Limido Comasco)	81-174-11-159.static.eolo.it (EOLO S.p.A.)	6.112	
+140.227.69.124:3128	HTTP (Squid)	NOA	Japan	140-227-69-124.vpscloud.static.arena.ne.jp (NTT PC Communications, Inc.)	8.026	
+190.90.83.201:999	HTTP (Mikrotik)	NOA	Colombia (Cúcuta) !!!	190.90.83.201 (INTERNEXA BRASIL OPERADORA DE TELECOMUNICACOES S.A)	5.223	
+198.13.46.142:3228	HTTP (Mikrotik)	NOA	Japan (Heiwajima)	198.13.46.142.vultr.com (AS-CHOOPA)	14.796	
+177.73.16.74:55443	HTTPS	HIA	Brazil (Ituiutaba)	grupomax.maxwifi.com.br (Max WIFI Telecom Ltda.)	1.305	
+72.50.34.150:999	HTTP (Mikrotik)	NOA	Puerto Rico (San Juan) !!!	adsl-72-50-34-150.prtc.net (COQUI-NET)	5.906	
+27.116.51.186:6666	HTTP	HIA	India (Ahmedabad)	27.116.51.186 (Gujarat Telelink Pvt Ltd)	3.205	
+194.187.30.199:8080	HTTP (Mikrotik)	NOA	Ukraine (Kakhovka)	194.187.30.199.smart.net.ua (Smart-m Solutions LLC)	5.937	
+1.20.217.221:8080	HTTP (Mikrotik)	NOA	Thailand (Sawi)	1.20.217.221 (TOT Public Company Limited)	9.849	
+77.247.126.158:44355	HTTP	HIA	United States (Los Angeles)	77.247.126.158 (Clouvider Limited)	9.588	
+186.97.156.130:999	HTTPS (Mikrotik)	NOA	Colombia (Medellín) !!!	Dinamic-Tigo186-97-156-130.tigo.com.co (Colombia Movil)	3.01	
+140.227.8.93:58888	HTTP (Squid)	NOA	Japan (Nagasaki)	140-227-8-93.vpscloud.static.arena.ne.jp (NTT PC Communications, Inc.)	8.099	
+78.159.157.89:8080	HTTPS (Mikrotik)	NOA	Bulgaria	89-157-159.78.evro.net (Telecom Aset Ltd)	8.297	
+140.227.62.219:3128	HTTP	HIA	Japan	140-227-62-219.vpscloud.static.arena.ne.jp (NTT PC Communications, Inc.)	8.023	
+140.227.67.135:6000	HTTP	HIA	Japan	140-227-67-135.vpscloud.static.arena.ne.jp (NTT PC Communications, Inc.)	4.03	
+45.118.132.67:4133	HTTP (Squid)	NOA	Singapore (Singapore) !!!	li1439-67.members.linode.com (Linode, LLC)	7.345	
+187.217.81.233:3128	HTTP	ANM	Mexico (Venustiano Carranza) !!!	customer-187-217-81-233.uninet-ide.com.mx (Uninet S.A. de C.V.)	1.694	
+79.143.87.138:9090	HTTPS (Squid)	ANM	United Kingdom (Manchester) !!!	79.143.87.138 (Hydra Communications Ltd)	1.792	
+181.129.241.20:999	HTTPS (Mikrotik)	NOA	Colombia (Santiago de Cali)	adsl-181-129-241-20.une.net.co (EPM Telecomunicaciones S.A. E.S.P.)	3.308	
+188.234.116.170:8080	HTTP (Mikrotik)	NOA	Russia (Novorossiysk)	188x234x116x170.dynamic.kursk.ertelecom.ru (JSC ER-Telecom Holding)	8.729	
+124.122.8.98:8213	HTTP (Squid)	ANM	Thailand (Bangkok) !!!	ppp-124-122-8-98.revip2.asianet.co.th (True Online)	9.942	
+150.129.148.99:35101	HTTP	HIA	India (Veraval)	150.129.148.99 (Gujarat Telelink Pvt Ltd)	9.753	
+1.20.99.122:8080	HTTP (Mikrotik)	NOA	Thailand (Nakhon Ratchasima)	1.20.99.122 (TOT Public Company Limited)	12.081	
+191.102.125.245:8080	HTTP (Mikrotik)	NOA	Colombia (Charala)	azteca-comunicaciones.com (TV AZTECA SUCURSAL COLOMBIA)	12.686	
+91.186.102.169:8082	HTTPS (Mikrotik)	NOA	Russia (Noril`sk)	host-91-186-102-169.bb.norilsk.mts.ru (MTS PJSC)	4.943	
+197.211.35.195:8080	HTTP (Mikrotik)	NOA	Nigeria (Lagos)	197.211.35.195 (globacom-as)	3.563	
+81.163.62.221:34011	HTTPS	HIA	Russia (Makhachkala)	81.163.62.221 (Subnet LLC)	4.173	
+168.228.195.90:999	HTTP (Mikrotik)	NOA	Honduras (San Pedro Sula)	168.228.195.90 (MULTICABLE DE HONDURAS)	6.892	
+176.227.188.66:53281	HTTP (Mikrotik)	NOA	Russia (Ryazan)	pavlov.rzn.ru (JSC Telephone Company Sotcom)	8.795	
+189.1.162.64:6666	HTTP	HIA	Brazil (São Paulo)	sociofarma.com.br (HOSTLOCATION LTDA)	10.046	
+45.76.156.143:8000	HTTPS	ANM	Singapore (Singapore)	45.76.156.143.vultr.com (AS-CHOOPA)	1.789	
+103.24.124.81:8080	HTTP (Mikrotik)	NOA	India (Suriapet) !!!	103.24.124.81 (CtrlS Datacenters Ltd.)	9.513	
+41.90.245.23:8080	HTTPS (Mikrotik)	NOA	Kenya (Machakos)	41.90.245.23 (SAFARICOM-LIMITED)	4.811	
+204.199.67.170:999	HTTP (Mikrotik)	NOA	Colombia (Sasaima)	204.199.67.170 (LVLT-3549)	3.924	
+177.46.148.142:3128	HTTPS (Mikrotik)	NOA	Brazil (São Paulo)	STC148-142.static.tesa.net.br (Telecom South America SA)	3.032	
+76.81.164.246:8080	HTTP (Mikrotik)	NOA	United States (Garden Grove)	rrcs-76-81-164-246.west.biz.rr.com (TWC-20001-PACWEST)	10.757	
+62.80.184.37:443	HTTP (Mikrotik)	NOA	Ukraine (Kyiv)	c.37.184.a528.ukr.adsl.cyfra.net (Inter-Telecom LLC)	1.795	
+165.227.173.87:37522	HTTPS	HIA	Germany (Frankfurt am Main) !!!	classifiedads-no.futudata.com (DIGITALOCEAN-ASN)	6.663	
+192.162.193.243:36910	HTTPS	HIA	Russia (Uglich)	192.162.193.243 (Sigma-Net Ltd.)	9.985	
+163.197.230.251:8118	HTTP	ANM	United States (Chicago)	ns1648.ztomy.com (PEGTECHINC)	2.454	
+103.87.170.121:55278	HTTP	HIA	India (Kishangarh)	103.87.170.121 (Tejays Dynamic Limited)	2.21	
+37.26.86.206:47464	HTTPS	HIA	Albania (Tirana)	37.26.86.206 (Albanian Telecommunications Union SH. P.K.)	4.07	
+138.118.200.10:999	HTTPS (Mikrotik)	NOA	Venezuela (San Francisco) !!!	138.118.200.10 (IGUANA NETWORK SERVICES C.A.)	1.481	
+36.89.229.97:59707	HTTPS	HIA	Indonesia (Jakarta)	36.89.229.97 (PT Telekomunikasi Indonesia)	3.822	
+117.252.254.81:80	HTTP	HIA	India (Port Blair)	117.252.254.81 (National Internet Backbone)	1.456	
+213.216.67.190:8080	HTTP (Mikrotik)	NOA	Poland (Poznan)	213-216-67-190.static.ip.netia.com.pl (Netia SA)	3.663	
+182.52.51.10:61124	HTTP	HIA	Thailand (Ratchaburi)	node-a2y.pool-182-52.dynamic.totinternet.net (TOT Public Company Limited)	5.81	
+136.228.141.154:8080	HTTPS	ANM	Cambodia	154.141.228.136.sinet.com.kh (SINET, Cambodias specialist Internet and Telecom Service Provider.)	3.509	
+140.227.68.113:6000	HTTPS	HIA	Japan	140-227-68-113.vpscloud.static.arena.ne.jp (NTT PC Communications, Inc.)	4.255	
+194.143.250.160:8080	HTTPS (Mikrotik)	NOA	Hungary (Nyiregyhaza)	194.143.250.160 (Invitech ICT Services Kft.)	0.559	
+61.29.96.146:8000	HTTP	ANM	Australia (Tarneit)	dsl-61-29-96-146.request.com.au (AAPT Limited)	3.739	
+78.45.30.184:8080	HTTPS	HIA	Czech Republic (Prague)	ip-78-45-30-184.net.upcbroadband.cz (Vodafone Czech Republic a.s.)	4.674	
+103.81.249.141:8080	HTTPS (Mikrotik)	ANM	Indonesia !!!	103.81.249.141 (PT Lawang Sewu Teknologi)	3.713	
+168.205.38.169:8080	HTTPS (Mikrotik)	NOA	Brazil (Petrolina)	168-205-38-169.wantel.net.br (WANTEL TECNOLOGIA LTDA. EPP)	1.425	
+94.199.2.234:8080	HTTPS (Mikrotik)	NOA	Russia !!!	94.199.2.234 (Bastion-Capital-telecom)	13.118	
+178.215.175.34:8081	HTTP (Mikrotik)	NOA	Ukraine (Dnipro)	178.215.175.34 (Telemost LLC)	7.279	
+177.66.52.89:8080	HTTP (Mikrotik)	NOA	Brazil (Lavras)	177.66.52.89	7.346	
+183.88.232.207:8080	HTTP (Mikrotik)	NOA	Thailand (Thanyaburi)	mx-ll-183.88.232-207.dynamic.3bb.in.th (JasTel Network International Gateway)	4.683	
+176.98.22.116:8181	HTTP (Mikrotik)	NOA	Ukraine (Yahotyn)	176.98.22.116 (Crystal Telecom Ltd)	8.316	
+177.73.52.252:8080	HTTP (Mikrotik)	NOA	Brazil (Vianopolis)	177-73-52-252.cyberinternet.net.br (CYBER INTERNET LTDA ME)	10.417	
+103.134.126.153:8080	HTTP (Mikrotik)	NOA	Bangladesh (Feni) !!!	103.134.126.153 (Orange Communication)	8.801	
+177.93.38.217:999	HTTP (Mikrotik)	NOA	Colombia (Algeciras) !!!	azteca-comunicaciones.com (TV AZTECA SUCURSAL COLOMBIA)	12.822	
+198.211.99.26:3128	HTTP	HIA	United States (North Bergen)	198.211.99.26 (DIGITALOCEAN-ASN)	4.846	
+91.192.2.168:53281	HTTP	HIA	Poland (Gliwice)	IP-91-192-2-168.techmedia.com.pl (TECH-MEDIA ISP sp. z o.o.)	6.214	
+41.254.44.253:8080	HTTP (Mikrotik)	NOA	Libyan Arab Jamahiriya (Tripoli) !!!	41.254.44.253 (General Post and Telecommunication Company)	3.393	
+182.176.164.41:8080	HTTPS (Mikrotik)	NOA	Pakistan (Lahore) !!!	182.176.164.41 (Pakistan Telecommunication Company Limited)	3.044	
+190.186.1.46:55830	HTTP	HIA	Bolivia (Santa Cruz)	static-ip-adsl-190.186.1.46.cotas.com.bo (COTAS LTDA.)	5.54	
+91.108.53.26:8080	HTTPS (Mikrotik)	NOA	Russia (Moscow)	91.108.53.26 (LLC Tsentralnaya Gorodskaya Set)	4.027	
+93.157.172.153:8080	HTTP (Mikrotik)	NOA	Russia (Dzerzhinskiy)	93-157-172-153.avk-wellcom.com (AVK-Wellcom Ltd.)	7.351	
+37.18.100.185:8080	HTTPS	HIA	Russia	37.18.100.185 (Cloud technology Limited (Ltd.))	8.268	
+89.36.195.238:35328	HTTP	HIA	Iran	89.36.195.238 (Parvaresh Dadeha Co. Private Joint Stock)	6.909	
+176.56.107.195:35371	HTTPS	HIA	Spain (La Puebla de los Infantes)	176.56.107.195 (ServiHosting Networks S.L.)	3.324	
+185.61.92.207:43947	HTTP	HIA	Russia (Moscow)	185.61.92.207 (Fortex Cjsc)	4.923	
+103.9.77.219:3128	HTTP (Squid)	NOA	VietNam	103.9.77.219 (VNPT Corp)	1.516	
+204.199.64.66:8080	HTTP (Mikrotik)	NOA	United States	204.199.64.66 (LVLT-3549)	8.385	
+181.189.225.203:3128	HTTPS (Mikrotik)	NOA	Honduras (Tegucigalpa)	181.189.225.203 (Columbus Networks de Honduras S. de R.L.)	8.106	
+188.187.193.143:8080	HTTPS (Mikrotik)	NOA	Russia (Yoshkar-Ola)	dynamicip-193-187-188-143.pppoe.yola.ertelecom.ru (JSC ER-Telecom Holding)	0.781	
+92.252.160.181:8080	HTTP (Mikrotik)	NOA	Russia (Ulyanovsk)	5cfca0b5.dynamic.mv.ru (Rostelecom)	7.315	
+49.231.140.122:8080	HTTP (Mikrotik)	NOA	Thailand	49.231.140.122 (SBN-ISPAWN-ISP and SBN-NIXAWN-NIX)	4.119	
+195.245.239.107:9999	HTTPS	HIA	Russia	gofrosnab.ru (LLC Baxet)	1.788	
+167.250.66.2:8080	HTTPS (Mikrotik)	NOA	Brazil (Ananindeua) !!!	167.250.66.2 (LINKFIRE TELECOM LTDA)	2.002	
+187.217.81.226:3128	HTTP	ANM	Mexico (Venustiano Carranza) !!!	customer-187-217-81-226.uninet-ide.com.mx (Uninet S.A. de C.V.)	7.506	
+185.78.72.204:8080	HTTP (Mikrotik)	NOA	Poland (Libiaz) !!!	komp-185-78-72-204.opticom.com.pl (Promarket Computers Sp. z o.o.)	6.622	
+5.16.0.174:8080	HTTP (Mikrotik)	NOA	Russia (St Petersburg)	5x16x0x174.static-business.spb.ertelecom.ru (JSC ER-Telecom Holding)	1.448	
+185.132.250.225:8080	HTTP (Mikrotik)	NOA	Palestinian Territory (Gaza)	185.132.250.225 (SpeedClick for Information Technology and Communication Ltd)	3.635	
+77.37.131.148:55443	HTTP	HIA	Russia (Moscow)	broadband-77-37-131-148.ip.moscow.rt.ru (Rostelecom)	2.792	
+109.232.106.236:49565	HTTPS	HIA	Russia	109.232.106.236 (Thyphone Communications LLC)	4.664	
+129.18.175.126:8080	HTTP (Mikrotik)	NOA	Nigeria (Lagos)	129.18.175.126 (SWIFTNG-ASN)	3.51	
+93.170.82.164:3128	HTTP (Mikrotik)	NOA	Russia (Belgorod)	93.170.82.164 (BTC Ltd.)	4.774	
+179.57.135.106:8080	HTTPS (Mikrotik)	NOA	Chile (Port Montt)	179.57.135.106 (Telefonica del Sur S.A.)	6.192	
+183.88.212.141:8080	HTTPS (Mikrotik)	NOA	Thailand (Bang Pakong)	mx-ll-183.88.212-141.dynamic.3bb.in.th (JasTel Network International Gateway)	6.53	
+195.238.71.53:53281	HTTP (Mikrotik)	NOA	Poland	195-238-71-53.armasan.eu (Arma-San Sp.J S.J Bartczuk W.I Kownaccy)	4.484	
+181.113.133.106:8080	HTTPS (Mikrotik)	NOA	Ecuador (Milagro)	106.133.113.181.static.anycast.cnt-grms.ec (CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP)	5.088	
+177.66.47.22:999	HTTPS (Mikrotik)	NOA	Brazil (Santo Cristo) !!!	47.66.177.22-rev.noroestenet.com (Magnos A. Both e Cia Ltda)	9.458	
+45.235.110.66:53281	HTTP	HIA	Brazil (Cabo Frio)	45.235.110.66 (PIENSCO MANUTENCAO E PROJETOS LTDA)	7.325	
+190.95.134.122:999	HTTPS (Mikrotik)	NOA	Ecuador !!!	190.95.134.122 (Telconet S.A)	1.483	
+155.93.96.210:8080	HTTP (Mikrotik)	NOA	Nigeria (Lagos)	155.93.96.210 (Inq-Digital-Nigeria-AS)	3.534	
+103.21.170.230:3128	HTTP (Squid)	NOA	Philippines (Makati City)	103.21.170.230 (Philippine Telegraph and Telephone Corporation)	3.688	
+222.252.156.61:62694	HTTP	HIA	VietNam (Hanoi)	static.vnpt.vn (VNPT Corp)	10.414	
+35.231.49.132:3128	HTTP (Squid)	NOA	United States (North Charleston)	132.49.231.35.bc.googleusercontent.com (GOOGLE)	7.705	
+93.157.163.66:35081	HTTP	HIA	Russia (Volzhskiy)	pool2.ahtuba.com (Powernet Ltd)	2.33	
+77.236.247.97:1256	HTTP (Mikrotik)	NOA	Russia (Moscow)	97.247.236.77.msk.enforta.com (JSC ER-Telecom Holding)	5.318	
+200.105.215.18:33630	HTTP	HIA	Bolivia (La Paz)	static-200-105-215-18.acelerate.net (AXS Bolivia S. A.)	8.361	
+181.37.179.193:3128	HTTP (Squid)	NOA	Dominican Republic !!!	181.37.179.193 (ALTICE DOMINICANA S.A.)	9.82	
+110.78.28.94:8080	HTTP (Mikrotik)	NOA	Thailand !!!	110.78.28.94 (The Communication Authoity of Thailand, CAT)	7.084	
+103.66.72.235:8080	HTTPS (Mikrotik)	NOA	India (Kanpur)	103.66.72.235 (RailTel Corporation of India Ltd)	8.096	
+190.108.95.162:8080	HTTP (Mikrotik)	NOA	Peru (Lima)	190.108.95.162 (INTERNEXA PERU S.A)	9.67	
+45.6.228.158:8080	HTTPS (Mikrotik)	NOA	Brazil (Vicentinopolis) !!!	45-6-228-158.speednetgoias.net.br (SPEED NET INFORMATICA LTDA-ME)	8.372	
+185.42.231.26:55443	HTTP	HIA	Russia (Ryazan)	185.42.231.26 (OnTelecom LLC)	8.676	
+45.174.251.8:999	HTTP (Mikrotik)	NOA	Mexico (Morelia) !!!	45.174.251.8 (Wifmax S.A de C.V.)	5.415	
+195.98.79.117:8080	HTTPS (Mikrotik)	NOA	Russia (Voronezh) !!!	195.98.79.117 (Ic-voronezh)	9.012	
+188.190.245.135:55443	HTTP	HIA	Ukraine (Kyiv)	unallocated.sta.lan.ua (LocalNet Ltd.)	11.789	
+116.0.54.30:8080	HTTP (Mikrotik)	NOA	Pakistan	116.0.54.30 (Supernet Limited Transit Autonomous System Number)	9.184	
+178.253.196.241:6666	HTTPS (Mikrotik)	NOA	Serbia (Belgrade) !!!	178-253-196-241.adsl-a-10.sezampro.rs (Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun)	4.729	
+176.236.223.156:9090	HTTP (Mikrotik)	NOA	Turkey !!!	176.236.223.156 (Tellcom Iletisim Hizmetleri A.s.)	9.778	
+181.209.82.154:23500	HTTP	HIA	Argentina (Caleta Olivia)	154.82.209.181.in-addr.arpa (Empresa Argentina de Soluciones Satelitales S.A.)	5.759	
+190.226.32.218:8090	HTTPS (Mikrotik)	NOA	Argentina (Nueve de Julio) !!!	host218.190-226-32.telecom.net.ar (XF Comunicaciones S.A.)	8.299	
+190.107.31.101:999	HTTP (Mikrotik)	NOA	Colombia (Santiago de Cali)	19010731101.mc.net.co (Media Commerce Partners S.A)	12.346	
+181.224.253.30:8090	HTTP (Mikrotik)	NOA	Peru (Lima) !!!	181.224.253.30 (ECONOCABLE MEDIA SAC)	5.887	
+190.103.86.254:8080	HTTP (Mikrotik)	NOA	Argentina (Totoras) !!!	host254.86.103.190.datalinksrl.com.ar (Datalink SRL)	5.864	
+109.194.47.93:9999	HTTP	HIA	Russia (Tomsk)	mail.mvb.tomsk.ru (JSC ER-Telecom Holding)	10.255	
+187.19.153.213:8080	HTTP (Mikrotik)	NOA	Brazil (Fortaleza)	187-19-153-213-temp-internal.static.brisanet.net.br (BRISANET SERVICOS DE TELECOMUNICACOES LTDA)	9.903	
+189.39.127.118:8080	HTTPS (Mikrotik)	NOA	Brazil (Mar de Espanha) !!!	118.127.39.189.smart.net.br (SMART TELECOMUNICACOES E SERVICOS EIRELLI EPP)	2.054	
+177.53.152.146:999	HTTPS (Mikrotik)	NOA	Peru (Ancon)	177-53-152-146.liber.com.pe (MORENO YANOC NEMIAS BERNARDO)	1.691	
+195.123.237.184:8080	HTTPS (Mikrotik)	NOA	Singapore (Singapore)	sg-33.surgainternetanaswaee.my.id (ITL-Bulgaria Ltd.)	8.932	
+186.65.82.18:8080	HTTP (Mikrotik)	NOA	Argentina (Neuquén)	host-186.65.82.18.after-wire.com.ar (SERVICIOS DE TECNOLOGIA APLICADA SRL)	6.714	
+88.255.65.117:999	HTTP (Mikrotik)	NOA	Turkey	88.255.65.117.static.ttnet.com.tr (Turk Telekom)	3.829	
+103.155.54.94:84	HTTP (Mikrotik)	NOA	India (Haldia) !!!	103.155.54.94 (Pegasuswave Private Limited)	22.637	
+95.157.75.216:8080	HTTP	HIA	Italy (Milan)	95.157.75.216 (Prometeus di Daniela Agro)	3.345	
+103.59.176.154:8080	HTTPS (Mikrotik)	NOA	Bangladesh (Dhaka)	103.59.176.154 (NATION COMMUNICATION)	3.769	
+103.251.225.16:6666	HTTP	HIA	India (Bharuch)	103.251.225.16 (Gujarat Telelink Pvt Ltd)	2.565	
+201.168.205.4:999	HTTP (Mikrotik)	NOA	Mexico (San Jose de la Paz) !!!	ip-201-168-205-4.marcatel.net.mx (Marcatel Com, S.A. de C.V.)	6.073	
+103.98.131.194:8081	HTTP (Mikrotik)	NOA	Nepal !!!	103.98.131.194 (TECHMINDS NETWORKS PVT. LTD.)	2.609	
+182.93.10.83:8090	HTTPS (Squid)	NOA	Macao (Macao) !!!	n18293z10l83.static.ctmip.net (Companhia de Telecomunicacoes de Macau SARL)	2.189	
+187.189.38.15:999	HTTP (Mikrotik)	NOA	Mexico (Irapuato)	fixed-187-189-38-15.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	9.547	
+103.214.156.187:8080	HTTPS (Mikrotik)	NOA	Bangladesh (Dhaka) !!!	103.214.156.187 (Fuad Muhammad Shorfuddin TA Fissa Communication)	7.149	
+190.211.81.210:3128	HTTPS (Mikrotik)	NOA	Argentina (Rivadavia)	210-81-211-190.patagoniagreen.com (Patagonia Green S.A.)	3.243	
+200.115.235.49:999	HTTPS (Mikrotik)	NOA	Argentina (Buenos Aires)	cpe-200-115-235-49.telecentro-reversos.com.ar (Telecentro S.A.)	5.318	
+103.216.147.45:8080	HTTP (Mikrotik)	NOA	India (Narsingpur) !!!	103.216.147.45 (Intech Online Private Limited)	3.232	
+41.190.147.158:54018	HTTP	HIA	Mauritius	41.190.147.158 (INFOCOM)	5.204	
+85.133.130.18:8080	HTTPS (Mikrotik)	NOA	Iran	85.133.130.18.pos-1-0.7tir.sepanta.net (Sepanta Communication Development Co. Ltd)	5.027	
+103.158.147.102:55443	HTTPS	HIA	India (Murbad)	103.158.147.102 (Netfox Networks Private Limited)	8.377	
+52.4.158.30:3128	HTTP	ANM	United States (Ashburn) !!!	ec2-52-4-158-30.compute-1.amazonaws.com (AMAZON-AES)	0.969	
+185.110.190.249:3128	HTTP	HIA	Germany (Frankfurt am Main)	185.110.190.249 (BitCommand)	12.344	
+77.68.113.87:3128	HTTP (Squid)	NOA	United Kingdom	pubvps.lwcnwltd.co.uk (1&1 Ionos Se)	5.074	
+8.210.88.234:3128	HTTPS (Squid)	NOA	Hong Kong (Central)	8.210.88.234 (Alibaba US Technology Co., Ltd.)	9.211	
+181.48.220.250:999	HTTP (Mikrotik)	NOA	Colombia (Yopal)	181.48.220.250 (Telmex Colombia S.A.)	4.833	
+190.111.203.179	8080	Argentina Buenos Aires	1440 ms HTTP	Average	30 minutes
+103.111.186.252	80	Indonesia	1800 ms HTTP	Average	30 minutes
+188.130.255.5	80	Russian Federation Komsomolsk-on-Amur	440 ms HTTP	Average	30 minutes
+45.174.248.36	999	Mexico Morelia	3300 ms HTTP	Average	30 minutes
+177.128.115.4	999	Chile Melipilla	4020 ms HTTP	Average	34 minutes
+201.220.112.106	999	Chile Coelemu	3240 ms HTTP	Average	34 minutes
+185.108.141.74	8080	Bulgaria Sofia	2860 ms HTTP	High	34 minutes
+140.227.76.44	6000	Japan	3840 ms HTTP	High	34 minutes
+103.250.166.12	6666	India Morvi	2460 ms HTTP, HTTPS	High	34 minutes
+150.109.32.166	80	Hong Kong	1140 ms HTTP	High	34 minutes
+200.29.111.215	999	Colombia Santiago de Cali	1100 ms HTTP	Average	35 minutes
+46.209.6.53	8080	Iran	2340 ms HTTP	Average	35 minutes
+185.47.51.243	3128	Iran Tehran	520 ms HTTPS	High	35 minutes
+102.67.19.132	8080	Nigeria Lagos	2700 ms HTTP	High	37 minutes
+193.150.117.31	8000	Russian Federation	620 ms HTTP	Average	38 minutes
+103.9.77.219	3128	Vietnam	1020 ms HTTP	Average	38 minutes
+95.168.96.42	34273	Croatia Zagreb	3860 ms HTTP	High	38 minutes
+135.181.243.216	8080	Finland Helsinki	1220 ms HTTP	Average	38 minutes
+109.167.141.137	8080	Russian Federation St Petersburg	4600 ms HTTP	Average	38 minutes
+178.217.140.70	443	Poland Debica	580 ms HTTP	Average	38 minutes
+83.136.186.193	9991	Spain L'Alcudia	2040 ms HTTP	Average	38 minutes
+5.252.161.48	3128	United Kingdom	200 ms HTTP	High	38 minutes
+176.9.63.62	3128	Germany	240 ms HTTP	Average	38 minutes
+222.74.202.240	9999	China	880 ms HTTP	Average	38 minutes
+119.81.189.194	8123	Hong Kong Central	1340 ms HTTPS	High	38 minutes
+103.195.72.41	84	India Sahebnagar	2460 ms HTTP	Average	38 minutes
+161.202.226.194	8123	Japan Tokyo	1260 ms HTTP, HTTPS	High	38 minutes
+128.199.214.87	3128	Singapore	1040 ms HTTP	Low	38 minutes
+96.95.164.41	3128	United States Bristol	700 ms HTTP	Average	38 minutes
+154.16.63.16	3128	United Kingdom Enfield	1460 ms HTTP	High	38 minutes
+176.9.75.42	3128	Germany	160 ms HTTP	High	38 minutes
+88.198.24.108	3128	Germany Nuremberg	160 ms HTTP	High	38 minutes
+161.35.70.249	8080	United States	220 ms HTTP	High	38 minutes
+165.22.251.224	8888	Singapore	1320 ms HTTPS	High	41 minutes
+181.225.70.13	999	Colombia Sutamarchan	5100 ms HTTP	Average	44 minutes
+165.16.58.35	8080	Libyan Arab Jamahiriya	1540 ms HTTP	Average	44 minutes
+43.224.8.12	6666	India Surendranagar	1540 ms HTTP	High	44 minutes
+134.209.29.120	3128	United Kingdom London	220 ms HTTP	High	45 minutes
+169.57.1.84	8123	Mexico Mexico City	2340 ms HTTP	High	45 minutes
+43.250.127.98	9001	Mongolia	700 ms HTTP	Average	45 minutes
+213.32.11.155	43567	France	1360 ms HTTPS	High	45 minutes
+198.50.163.192	3129	Canada	940 ms HTTP	High	45 minutes
+103.4.166.23	8080	Indonesia Jakarta	5100 ms HTTP	Average	45 minutes
+88.198.50.103	3128	Germany Nuremberg	180 ms HTTP	High	45 minutes
+154.16.63.16	8080	United Kingdom Enfield	1460 ms HTTP	High	45 minutes
+159.203.61.169	8080	Canada Toronto	520 ms HTTP	High	45 minutes
+188.166.162.1	3128	Germany Frankfurt am Main	920 ms HTTP, HTTPS	Average	46 minutes
+95.216.106.38	3128	Finland Helsinki	220 ms HTTP, HTTPS	Average	46 minutes
+176.9.119.170	8080	Germany	160 ms HTTP	High	46 minutes
+95.216.10.237	5008	Finland Helsinki	1000 ms HTTP	Average	46 minutes
+202.169.56.100	8080	Indonesia Jakarta	3900 ms HTTP	Average	46 minutes
+136.243.211.104	80	Germany	700 ms HTTP	High	46 minutes
+92.52.186.123	32329	Ukraine Dubno	3440 ms HTTP	High	46 minutes
+102.129.249.120	8080	United States Los Angeles	1220 ms HTTP	High	46 minutes
+58.176.147.14	80	Hong Kong Central	800 ms HTTP	High	47 minutes
+95.31.5.29	54651	Russian Federation Moscow	5100 ms HTTP	High	47 minutes
+200.155.139.242	3128	Brazil Porto Alegre	2900 ms HTTP	Average	47 minutes
+51.222.21.95	32768	Canada	2460 ms HTTP, HTTPS	High	47 minutes
+78.186.111.152	9090	Turkey Istanbul	1660 ms HTTP	High	47 minutes
+169.57.1.84	80	Mexico Mexico City	780 ms HTTP, HTTPS	High	47 minutes
+190.108.88.148	999	Peru Lima	1040 ms HTTP	Average	47 minutes
+41.223.119.156	3128	Zambia Lusaka	1460 ms HTTP	Average	47 minutes
+191.96.71.118	8080	Brazil São Paulo	1640 ms HTTP	High	47 minutes
+209.97.150.167	3128	United States Clifton	480 ms HTTP	High	47 minutes
+128.199.202.122	8080	Singapore	1100 ms HTTP	High	47 minutes
+191.96.71.118	3128	Brazil São Paulo	1620 ms HTTP	High	47 minutes
+203.75.190.21	80	Taiwan Taichung	1120 ms HTTP	Average	47 minutes
+138.68.60.8	8080	United States Santa Clara	740 ms HTTP	High	47 minutes
+109.121.59.226	6666	Serbia Belgrade	3620 ms HTTP	Average	49 minutes
+128.199.167.74	8080	Singapore	840 ms HTTP	Average	52 minutes
+46.237.255.6	8080	Germany Ettlingen	1920 ms HTTP	High	52 minutes
+46.4.96.137	3128	Germany	180 ms HTTP	High	52 minutes
+46.4.96.137	8080	Germany	200 ms HTTP	High	52 minutes
+176.9.119.170	3128	Germany	160 ms HTTP	High	52 minutes
+88.198.24.108	8080	Germany Nuremberg	160 ms HTTP	High	52 minutes
+134.122.93.93	8080	Germany Frankfurt am Main	220 ms HTTP	High	52 minutes
+185.48.149.60	8080	Kazakstan	840 ms HTTP	Average	53 minutes
+45.227.95.2	8085	Argentina Lomas de Zamora	2800 ms HTTP	Average	53 minutes
+160.202.9.53	8080	India Vadodara	2040 ms HTTP	Average	53 minutes
+109.254.171.21	9090	Ukraine Donetsk	340 ms HTTP	High	54 minutes
+190.110.99.210	999	Chile Quinta de Tilcoco	5100 ms HTTP	Average	54 minutes
+45.174.248.11	999	Mexico Morelia	3160 ms HTTP	Average	54 minutes
+200.125.168.130	999	Dominican Republic Mejia de Navarrete	2340 ms HTTP	Average	54 minutes
+202.212.123.44	80	Japan	2180 ms HTTP	High	54 minutes
+103.233.154.242	8080	Indonesia	4100 ms HTTP	Average	54 minutes
+82.64.183.22	8080	France	320 ms HTTP, HTTPS, SOCKS4, SOCKS5	High	54 minutes
+103.148.64.1	8080	India	1920 ms HTTP	Average	54 minutes
+103.68.68.125	3128	Vietnam	1960 ms HTTP	Average	54 minutes
+5.188.154.149	8080	Kazakstan Almaty	3940 ms HTTP	Average	54 minutes
+45.250.226.53	8080	India Pune	2780 ms HTTP	Average	56 minutes
+89.208.35.81	3128	Russian Federation Reutov	5100 ms HTTPS	High	56 minutes
+213.108.5.224	3128	Russian Federation	1980 ms HTTP	High	56 minutes
+181.188.166.82	8080	Bolivia La Paz	5100 ms HTTP	Average	56 minutes
+200.149.78.50	8080	Brazil	5100 ms HTTP	Average	56 minutes
+103.215.149.35	8060	India Mumbai	860 ms HTTP	Average	56 minutes
+125.62.192.97	83	India Visakhapatnam	5100 ms HTTP	Average	56 minutes
+96.90.234.245	80	United States Scotts Valley	3180 ms HTTP	Low	56 minutes
+144.217.101.245	3129	Canada Beauharnois	900 ms HTTP	High	57 minutes
+186.224.71.6	8080	Brazil Cascavel	2600 ms HTTP	Average	57 minutes
+51.222.21.93	32768	Canada	3880 ms HTTPS	High	57 minutes
+103.101.100.27	8080	India New Delhi	1080 ms HTTP	Average	58 minutes
+154.0.15.166	46547	South Africa Johannesburg	3540 ms HTTP	High	58 minutes
+59.103.138.123	8080	Pakistan Karachi	5100 ms HTTP	Average	58 minutes
+49.156.42.188	8080	Cambodia Phnom Penh	2460 ms HTTP	Average	58 minutes
+185.38.111.1	8080	Czech Republic Prague	280 ms HTTP	Average	58 minutes
+103.110.91.242	3128	Indonesia	4700 ms HTTP	High	58 minutes
+190.90.18.174	999	Colombia Bello	5100 ms HTTP	Average	58 minutes
+165.16.76.67	8080	Libyan Arab Jamahiriya	2760 ms HTTP	Average	58 minutes
+182.52.236.134	8080	Thailand Bangkok	5100 ms HTTP	High	58 minutes
+177.38.76.153	8080	Brazil Mogi das Cruzes	3800 ms HTTP	Average	59 minutes
+178.214.12.140	8080	Poland Turbia	2160 ms HTTP	Average	59 minutes
+140.227.69.124	3128	Japan	2160 ms HTTP, HTTPS	Average	59 minutes
+36.89.252.155	8080	Indonesia Pasuruan	5100 ms HTTP	Average	59 minutes
+41.220.114.154	8080	Kenya	3300 ms HTTP	Average	59 minutes
+62.69.212.197	8090	Poland Szczecin	940 ms HTTP	Average	59 minutes
+190.63.169.34	53281	Ecuador Guayaquil	5100 ms HTTP	High	59 minutes
+187.111.160.8	42579	Brazil Votorantim	2180 ms HTTP	High	59 minutes
+46.229.67.198	47437	Russian Federation Barnaul	4220 ms HTTP	High	59 minutes
+196.41.102.130	46004	South Africa Cape Town	3960 ms HTTP	High	59 minutes
+168.228.150.5	47507	Brazil Minacu	3160 ms HTTP	High	59 minutes
+125.62.213.18	83	India Visakhapatnam	2740 ms HTTP	Average	59 minutes
+103.42.254.194	46317	Indonesia	3780 ms HTTP	High	59 minutes
+103.102.14.8	3127	Indonesia	2260 ms HTTP	Average	59 minutes
+176.214.97.13	8081	Russian Federation Vidnoye	1460 ms HTTP	Average	59 minutes
+13.86.159.104	3128	United States San Jose	3160 ms HTTP	Average	59 minutes
+109.86.182.203	3128	Ukraine Kharkiv	4680 ms HTTP	High	1 h. 0 min.
+186.67.158.59	999	Chile	5100 ms HTTP	Average	1 h. 0 min.
+200.192.210.174	8080	Brazil Paranaguá	3120 ms HTTP	Average	1 h. 0 min.
+196.216.220.204	36739	Sierra Leone Freetown	2680 ms HTTP	High	1 h. 0 min.
+140.227.73.60	3128	Japan	2200 ms HTTP	Average	1 h. 0 min.
+195.110.7.195	3121	Ukraine Simferopol	1300 ms HTTP	High	1 h. 0 min.
+103.195.2.42	8080	Bangladesh Dhaka	4680 ms HTTP	Average	1 h. 0 min.
+103.25.155.201	83	India Latur	5100 ms HTTP	Average	1 h. 0 min.
+118.67.219.153	8080	Bangladesh Dhaka	3800 ms HTTP	Average	1 h. 0 min.
+150.129.207.84	30093	India Vadodara	740 ms HTTP	High	1 h. 0 min.
+51.91.157.66	80	France	200 ms HTTP	High	1 h. 0 min.
+37.49.127.235	8080	Germany Singen	4740 ms HTTP	High	1 h. 0 min.
+14.241.111.38	8080	Vietnam Haiphong	2520 ms HTTP	Average	1 h. 0 min.
+181.209.101.26	8081	Argentina Victoria	1200 ms HTTP	Average	1 h. 0 min.
+190.214.27.46	8080	Ecuador	5100 ms HTTP	Average	1 h. 0 min.
+46.8.247.3	50967	Russian Federation Khasavyurt	920 ms HTTP	High	1 h. 1 min.
+103.24.125.33	83	India Hyderabad	840 ms HTTP	Average	1 h. 1 min.
+187.95.112.36	6666	Brazil Curitiba	3480 ms HTTP	High	1 h. 1 min.
+62.205.169.74	53281	Russian Federation Moscow	4300 ms HTTP	High	1 h. 1 min.
+52.4.158.30	3128	United States Ashburn	2480 ms HTTP	Average	1 h. 1 min.
+85.216.127.186	3128	Germany Loerrach	3960 ms HTTP	High	1 h. 1 min.
+119.28.155.202	9999	Korea Seoul	1200 ms HTTP	High	1 h. 1 min.
+109.254.101.214	9090	Ukraine Donetsk	320 ms HTTP	High	1 h. 1 min.
+45.11.6.117	53281	Russian Federation	1700 ms HTTP	High	1 h. 1 min.
+202.165.47.26	8080	Indonesia Jakarta	5100 ms HTTP	Average	1 h. 1 min.
+103.199.84.122	8080	Bangladesh Dhaka	3740 ms HTTP	Average	1 h. 1 min.
+194.152.235.171	8080	Croatia Zagreb	3520 ms HTTP	Average	1 h. 1 min.
+179.57.11.183	999	Chile Temuco	5100 ms HTTP	Average	1 h. 1 min.
+140.227.58.238	3128	Japan	4500 ms HTTPS	High	1 h. 1 min.
+103.152.101.192	8080	Pakistan Lahore	1900 ms HTTP	Average	1 h. 1 min.
+101.53.158.48	9200	India	1560 ms HTTPS	High	1 h. 1 min.
+96.9.67.84	8080	Cambodia Phnom Penh	5100 ms HTTP	Average	1 h. 1 min.
+143.255.142.80	8080	Paraguay Ciudad del Este	3840 ms HTTP	Average	1 h. 1 min.
+101.51.106.70	49285	Thailand Sadao	1860 ms HTTP	High	1 h. 2 min.
+36.92.116.26	8080	Indonesia	3460 ms HTTP	Average	1 h. 3 min.
+46.229.187.169	53281	Russian Federation Yaroslavl	4200 ms HTTP	High	1 h. 3 min.
+46.238.230.4	8080	Poland Osielsko	3020 ms HTTP	Average	1 h. 3 min.
+37.187.1.59	9090	France	1920 ms HTTP	Average	1 h. 3 min.
+109.170.97.146	8085	Russian Federation Korolyov	1940 ms HTTP	Average	1 h. 3 min.
+84.214.150.146	8080	Norway Oslo	2760 ms HTTP	High	1 h. 3 min.
+103.226.168.10	83	India Pune	2500 ms HTTP	Average	1 h. 3 min.
+179.60.83.82	999	Chile Coronel	1040 ms HTTP	Average	1 h. 3 min.
+195.170.38.230	8080	Russian Federation Mytishchi	1160 ms HTTP	High	1 h. 3 min.
+221.125.138.189	8193	Hong Kong Central	1200 ms HTTP	High	1 h. 3 min.
+176.214.98.246	8080	Russian Federation Vidnoye	920 ms HTTP	Average	1 h. 18 min.
+103.56.208.89	8080	Bangladesh	1620 ms HTTP	High	1 h. 18 min.
+143.255.53.29	3128	Brazil Sao Raimundo Nonato	3280 ms HTTP	Average	1 h. 18 min.
+149.129.134.39	3128	India Chennai	1040 ms HTTP, HTTPS	Average	1 h. 18 min.
+201.62.56.49	35816	Brazil Araxá	3400 ms HTTP	High	1 h. 18 min.
+117.102.81.5	53281	Indonesia Jakarta	5100 ms HTTP	High	1 h. 18 min.
+87.98.254.191	3128	United Kingdom London	2200 ms HTTPS	High	1 h. 18 min.
+103.11.102.68	3128	Hong Kong	5100 ms HTTP	Average	1 h. 18 min.
+51.81.82.175	2003	United States	2120 ms HTTP	High	1 h. 18 min.
+37.1.25.69	53281	Russian Federation Podolsk	980 ms HTTP	High	1 h. 18 min.
+80.26.96.212	80	Spain Barcelona	4960 ms HTTP	High	1 h. 18 min.
+195.209.131.19	46372	Russian Federation	4240 ms HTTP	High	1 h. 18 min.
+80.106.247.145	53410	Greece Athens	2300 ms HTTP	High	1 h. 18 min.
+182.52.51.10	61124	Thailand Nonthaburi	1780 ms HTTP	High	1 h. 18 min.
+103.83.118.10	55443	Indonesia	3480 ms HTTP	High	1 h. 18 min.
+185.175.119.206	36442	Russian Federation Yablonovsky	2360 ms HTTP	High	1 h. 18 min.
+103.84.235.138	7777	Indonesia Bandung	880 ms HTTP	High	1 h. 18 min.
+114.110.21.54	50464	Indonesia Bandung	860 ms HTTP	High	1 h. 18 min.
+186.195.90.16	8080	Brazil Martinho Campos	4040 ms HTTP	High	1 h. 18 min.
+191.100.20.14	8080	Ecuador Cuenca	2560 ms HTTP	High	1 h. 18 min.
+113.160.37.152	53281	Vietnam Hanoi	4260 ms HTTP	High	1 h. 18 min.
+177.124.168.81	8080	Brazil Araripina	2100 ms HTTP	Average	1 h. 18 min.
+182.16.103.192	3128	Hong Kong	2620 ms HTTP	High	1 h. 19 min.
+178.47.141.85	2580	Russian Federation Perm	5100 ms HTTP	High	1 h. 19 min.
+8.210.239.163	8118	Hong Kong Central	2700 ms HTTPS	High	1 h. 19 min.
+170.238.255.90	31113	Mexico Apodaca	5100 ms HTTP	High	1 h. 19 min.
+18.235.220.172	8080	United States Ashburn	480 ms HTTP	High	1 h. 19 min.
+14.177.236.212	55443	Vietnam Hanoi	1420 ms HTTP	High	1 h. 19 min.
+190.108.93.87	999	Peru Lima	3080 ms HTTP	Average	1 h. 19 min.
+77.236.239.95	1256	Russian Federation Moscow	1900 ms HTTP	Average	1 h. 19 min.
+109.195.251.81	8080	Russian Federation Cheboksary	580 ms HTTP	Average	1 h. 20 min.
+42.201.134.22	3128	Pakistan Lahore	3960 ms HTTP	Average	1 h. 20 min.
+209.33.9.244	8080	United States	3720 ms HTTP	Average	1 h. 20 min.
+202.182.57.10	8080	Indonesia Jakarta	2320 ms HTTP	Average	1 h. 20 min.
+103.144.75.122	8080	Indonesia	3480 ms HTTP	Average	1 h. 20 min.
+91.227.2.218	8181	Poland Lusina	1800 ms HTTP	Average	1 h. 20 min.
+77.236.230.19	1256	Russian Federation Moscow	3220 ms HTTP	Average	1 h. 20 min.
+180.210.184.226	8080	Bangladesh Gunabati	3660 ms HTTP	Average	1 h. 20 min.
+222.124.193.113	8080	Indonesia	5100 ms HTTP	Average	1 h. 20 min.
+170.106.175.94	80	United States Santa Clara	860 ms HTTP	High	1 h. 20 min.
+200.35.56.161	35945	Colombia Planeta Rica	4400 ms HTTP	High	1 h. 20 min.
+138.68.60.8	3128	United States Santa Clara	1320 ms HTTP	High	1 h. 21 min.
+195.123.239.114	8080	Singapore Singapore	2300 ms HTTP	Average	1 h. 21 min.
+102.129.249.120	3128	United States Los Angeles	1200 ms HTTP	High	1 h. 21 min.
+103.14.198.178	84	India Bengaluru	2040 ms HTTP	Average	1 h. 21 min.
+124.217.246.133	3128	Malaysia	2980 ms HTTP, HTTPS	High	1 h. 21 min.
+94.180.249.187	38051	Russian Federation Kazan’	1500 ms HTTP	High	1 h. 21 min.
+103.121.41.165	8080	Pakistan Karachi	4880 ms HTTP	Average	1 h. 21 min.
+103.144.18.74	8080	Indonesia Jember	2160 ms HTTP	Average	1 h. 21 min.
+185.67.95.179	3128	Russian Federation	2340 ms HTTP	High	1 h. 21 min.
+195.239.217.102	8080	Russian Federation	220 ms HTTP	Average	1 h. 21 min.
+51.83.193.250	8081	France	3160 ms HTTP	High	1 h. 21 min.
+101.109.255.17	43501	Thailand Trang	5100 ms HTTP	High	1 h. 22 min.
+173.46.67.172	58517	United States Los Angeles	5100 ms HTTP	High	1 h. 22 min.
+109.105.205.232	59152	Bosnia and Herzegovina Novi Travnik	3140 ms HTTP	High	1 h. 22 min.
+103.243.82.198	37358	Bangladesh	3240 ms HTTP	High	1 h. 22 min.
+123.27.3.246	39915	Vietnam Hanoi	3400 ms HTTP	High	1 h. 22 min.
+185.189.199.75	23500	Bulgaria Bansko	1040 ms HTTP	High	1 h. 22 min.
+152.101.74.178	8080	Hong Kong	5100 ms HTTP	High	1 h. 23 min.
+222.252.156.61	62694	Vietnam Hanoi	2840 ms HTTP	High	1 h. 23 min.
+129.226.52.93	443	Hong Kong Central	5100 ms HTTP	High	1 h. 23 min.
+112.78.170.27	8080	Indonesia Jakarta	5000 ms HTTP	High	1 h. 23 min.
+110.50.84.231	42851	Indonesia Jakarta	5100 ms HTTP	High	1 h. 23 min.
+195.74.72.129	37213	Ukraine Kalush	2780 ms HTTP	High	1 h. 23 min.
+138.99.164.90	3128	Brazil Mossoro	3120 ms HTTP	High	1 h. 23 min.
+119.252.168.50	53281	Indonesia Central Java	2260 ms HTTP	High	1 h. 23 min.
+190.184.144.170	58975	Colombia Bucaramanga	5100 ms HTTP	High	1 h. 23 min.
+189.1.162.64	6666	Brazil São Paulo	2520 ms HTTP	High	1 h. 23 min.
+201.132.155.198	8080	Mexico Culiacán	1820 ms HTTP	High	1 h. 23 min.
+201.132.105.30	8080	Mexico Agua Prieta	2360 ms HTTP	High	1 h. 23 min.
+116.0.58.242	8080	Pakistan Karachi	2520 ms HTTP	High	1 h. 24 min.
+197.232.65.40	55443	Kenya Nairobi	1560 ms HTTP	High	1 h. 24 min.
+201.81.38.123	8080	Brazil São Paulo	1600 ms HTTP	High	1 h. 24 min.
+178.47.139.151	35102	Russian Federation Perm	640 ms HTTP	High	1 h. 24 min.
+111.118.138.151	8080	Cambodia Phnom Penh	1380 ms HTTP	High	1 h. 24 min.
+102.140.113.202	55443	South Africa Vredenburg	1240 ms HTTP	High	1 h. 24 min.
+43.229.252.28	53281	Indonesia Bangkinang	1140 ms HTTP	High	1 h. 24 min.
+119.28.68.91	8080	Hong Kong Central	1120 ms HTTP	High	1 h. 24 min.
+128.199.152.210	8080	Singapore	1100 ms HTTP	Average	1 h. 28 min.
+128.199.239.230	8080	Singapore	1160 ms HTTP	Average	1 h. 28 min.
+175.100.103.170	55443	Cambodia Phnom Penh	5100 ms HTTP	High	1 h. 32 min.
+140.227.67.141	58888	Japan	2420 ms HTTPS	High	1 h. 32 min.
+200.194.21.244	8080	Mexico Mexico City	5100 ms HTTP	Average	1 h. 32 min.
+202.131.234.194	8080	Mongolia Ulan Bator	5100 ms HTTP	Average	1 h. 32 min.
+222.124.168.213	8080	Indonesia	1100 ms HTTP	Average	1 h. 32 min.
+210.186.175.14	80	Malaysia Port Klang	3720 ms HTTP	Low	1 h. 32 min.
+177.67.145.130	8080	Brazil Ribeirao	4040 ms HTTP	Average	1 h. 33 min.
+51.79.144.52	8000	Singapore Singapore	4620 ms HTTP, HTTPS	Average	1 h. 33 min.
+140.227.67.135	6000	Japan	4440 ms HTTPS	High	1 h. 33 min.
+190.220.11.249	999	Argentina Buenos Aires	2440 ms HTTP	Average	1 h. 33 min.
+94.228.113.113	1328	Russian Federation	2380 ms HTTPS	High	1 h. 34 min.
+222.74.202.233	82	China	840 ms HTTP	Average	1 h. 34 min.
+36.92.189.66	8080	Indonesia South Tangerang	820 ms HTTP	Average	1 h. 34 min.
+192.71.249.199	8060	Belgium Oostkamp	240 ms HTTP	High	1 h. 34 min.
+169.57.1.85	8123	Mexico Mexico City	780 ms HTTP, HTTPS	High	1 h. 38 min.
+119.81.189.194	80	Hong Kong Central	1200 ms HTTPS	High	1 h. 38 min.
+103.83.116.202	55443	Indonesia	5100 ms HTTP	High	1 h. 41 min.
+84.22.195.194	8080	Russian Federation	620 ms HTTP	Average	1 h. 42 min.
+200.25.48.72	3128	United States Miami	4440 ms HTTPS	High	1 h. 42 min.
+102.68.134.130	6666	Libyan Arab Jamahiriya Tripoli	1040 ms HTTP	Average	1 h. 42 min.
+222.74.202.237	8080	China	880 ms HTTP	Average	1 h. 42 min.
+103.47.67.154	8080	India New Delhi	2140 ms HTTP	Average	1 h. 42 min.
+47.254.90.125	8888	United States	3180 ms HTTPS	High	1 h. 42 min.
+157.230.103.189	41362	Germany Frankfurt am Main	2460 ms HTTP	High	1 h. 42 min.
+102.130.192.251	8080	Angola	3820 ms HTTP	Average	1 h. 42 min.
+119.15.95.198	8080	Cambodia Phnom Penh	3340 ms HTTP	Average	1 h. 42 min.
+78.133.154.1	8080	Poland	680 ms HTTP	Average	1 h. 42 min.
+2.56.213.102	3128	Netherlands Dronten	1720 ms HTTP, HTTPS	High	1 h. 42 min.
+172.245.92.238	3128	United States Los Angeles	1200 ms HTTPS	High	1 h. 42 min.
+92.60.190.249	50335		2060 ms HTTP	High	1 h. 43 min.
+103.89.156.18	8080	Nepal	5100 ms HTTP	Average	1 h. 43 min.
+137.74.245.212	43567	France Villepinte	260 ms HTTP	High	1 h. 45 min.
+51.159.154.37	3128	France Paris	180 ms HTTP	Average	1 h. 45 min.
+217.8.51.197	8080	Germany Weilheim an der Teck	4980 ms HTTP	High	1 h. 45 min.
+167.71.5.83	3128	Netherlands Amsterdam	140 ms HTTP	High	1 h. 45 min.
+103.195.74.194	84	India Debagram	900 ms HTTP	Average	1 h. 46 min.
+51.79.144.52	8080	Canada	3000 ms HTTP, HTTPS	Average	1 h. 48 min.
+35.206.150.95	3128	Belgium Brussels	5100 ms HTTP	High	1 h. 48 min.
+103.227.252.231	3128	Indonesia Jakarta	4000 ms HTTP, HTTPS	Average	1 h. 48 min.
+103.152.5.70	8080	Indonesia	3160 ms HTTP, HTTPS	Average	1 h. 48 min.
+8.210.88.234	3128	Singapore	2660 ms HTTP, HTTPS	Average	1 h. 48 min.
+149.129.55.14	3128	Singapore	2860 ms HTTP, HTTPS	Average	1 h. 48 min.
+51.79.144.52	3128	Canada	3940 ms HTTP, HTTPS	Average	1 h. 48 min.
+203.26.189.27	3127	Mongolia	2560 ms HTTP, HTTPS	Average	1 h. 48 min.
+68.183.20.239	8888	United States North Bergen	620 ms HTTPS	High	1 h. 48 min.
+169.57.157.148	80	Brazil São Paulo	1160 ms HTTPS	High	1 h. 48 min.
+122.181.157.3	3128	India	980 ms HTTPS	High	1 h. 48 min.
+161.202.226.194	80	Japan Tokyo	800 ms HTTP, HTTPS	High	1 h. 48 min.
+82.208.133.138	8080	Romania Bucharest	1540 ms HTTPS	High	1 h. 48 min.
+169.57.157.148	25	Brazil São Paulo	1200 ms HTTPS	High	1 h. 48 min.
+165.22.246.54	8888	Singapore	1340 ms HTTPS	High	1 h. 48 min.
+185.216.231.207	8888	United States Los Angeles	860 ms HTTPS	High	1 h. 48 min.
+185.216.231.135	8888	United States Los Angeles	860 ms HTTPS	High	1 h. 48 min.
+164.90.159.147	8888	United States Santa Clara	900 ms HTTPS	High	1 h. 48 min.
+185.216.231.13	8888	United States Los Angeles	1060 ms HTTPS	High	1 h. 48 min.
+209.45.53.53	3128	Peru Huaral	1180 ms HTTPS	High	1 h. 48 min.
+169.57.157.148	8123	Brazil São Paulo	1160 ms HTTPS	High	1 h. 48 min.
+177.54.225.98	3128	Brazil Bandeirantes Do Tocantins	1140 ms HTTPS	High	1 h. 48 min.
+174.138.21.9	8888	Singapore	1360 ms HTTPS	High	1 h. 48 min.
+159.89.195.108	8888	Singapore	1400 ms HTTPS	High	1 h. 48 min.
+159.203.84.241	3128	United States Clifton	620 ms HTTPS	High	1 h. 48 min.
+51.68.152.229	3128	France	100 ms HTTPS	High	1 h. 48 min.
+89.43.31.134	3128	Turkey	500 ms HTTPS	High	1 h. 48 min.
+162.214.3.183	3128	United States	860 ms HTTPS	High	1 h. 48 min.
+169.204.52.13	8080	United States Ridgefield	880 ms HTTPS	High	1 h. 48 min.
+206.81.15.71	8888	United States North Bergen	620 ms HTTPS	High	1 h. 48 min.
+165.232.151.104	8888	United States Santa Clara	900 ms HTTPS	High	1 h. 48 min.
+143.110.229.117	8888	United States Santa Clara	900 ms HTTPS	High	1 h. 48 min.
+51.68.207.81	80	United Kingdom	260 ms HTTPS	High	1 h. 48 min.
+51.68.207.81	443	United Kingdom Hailsham	240 ms HTTPS	High	1 h. 48 min.
+160.19.232.85	3128	South Africa Cape Town	1400 ms HTTPS	High	1 h. 48 min.
+179.1.80.17	999	Colombia Barbacoas	980 ms HTTP	Average	1 h. 49 min.
+50.235.149.74	8080	United States Mercer Island	3120 ms HTTP	Average	1 h. 50 min.
+140.174.0.17	80	United States	680 ms HTTP	High	1 h. 50 min.
+209.97.150.167	8080	United States Clifton	1300 ms HTTP	High	1 h. 50 min.
+198.199.86.11	3128	United States North Bergen	500 ms HTTP	High	1 h. 50 min.
+113.176.94.186	8080	Vietnam Ho Chi Minh City	1320 ms HTTP	Average	1 h. 52 min.
+150.129.148.88	35101	India Veraval	1520 ms HTTP	High	1 h. 52 min.
+119.82.239.37	8080	Indonesia Jakarta	2040 ms HTTP	Average	1 h. 52 min.
+139.162.78.109	3128	Japan Tokyo	1120 ms HTTP	High	1 h. 53 min.
+37.230.147.206	8080	Russian Federation Moscow	1280 ms HTTP	Average	1 h. 53 min.
+200.115.235.49	999	Argentina Buenos Aires	1900 ms HTTP	Average	1 h. 53 min.
+45.190.148.46	8080	Brazil Fatima do Sul	5100 ms HTTP	Average	1 h. 53 min.
+103.76.241.34	3127	Bangladesh Dhaka	4120 ms HTTP	Average	1 h. 53 min.
+187.111.160.6	8080	Brazil Sorocaba	3640 ms HTTP	High	1 h. 53 min.
+201.217.12.212	8080	Paraguay	3980 ms HTTP	Average	1 h. 53 min.
+36.37.81.135	8080	Indonesia Jakarta	860 ms HTTP	Average	1 h. 53 min.
+45.179.200.129	999	Colombia Riosucio	3160 ms HTTP	Average	1 h. 53 min.
+36.67.27.189	39674	Indonesia	2540 ms HTTP	High	1 h. 53 min.
+118.174.146.131	80	Thailand Ratchaburi	2080 ms HTTP	Low	1 h. 53 min.
+187.109.40.193	20183	Brazil Taboao da Serra	2260 ms HTTP	Average	1 h. 53 min.
+46.223.255.13	3128	Germany Aalen	4520 ms HTTP	High	1 h. 53 min.
+186.86.247.169	39168	Colombia	2160 ms HTTP	High	1 h. 53 min.
+103.216.147.73	8080	India Latur	2240 ms HTTP	Average	1 h. 53 min.
+103.110.11.138	8080	Indonesia	1500 ms HTTP	Average	1 h. 53 min.
+45.174.251.6	999	Mexico Morelia	3240 ms HTTP	Average	1 h. 56 min.
+45.184.155.5	999	Argentina	3540 ms HTTP	Average	1 h. 58 min.
+202.141.233.66	8080	Pakistan Karachi	3260 ms HTTP	Average	1 h. 58 min.
+124.40.252.182	8080	Indonesia Kudus	3460 ms HTTP	High	1 h. 58 min.
+179.57.135.106	8080	Chile Port Montt	5100 ms HTTP	Average	1 h. 58 min.
+177.75.193.217	53281	Brazil Três Corações	5100 ms HTTP	Average	1 h. 58 min.
+103.151.226.36	8080	Indonesia Bandung	4920 ms HTTP	Average	1 h. 58 min.
+45.189.86.137	8080	Brazil Viana	4640 ms HTTP	Average	1 h. 58 min.
+103.14.198.178	82	India Bengaluru	2280 ms HTTP	Average	1 h. 58 min.
+45.189.252.40	999	Mexico Veracruz	5100 ms HTTP	Average	1 h. 58 min.
+78.186.111.17	9090	Turkey Istanbul	2980 ms HTTP	High	1 h. 58 min.
+177.73.148.97	9999	Brazil Sapopema	5060 ms HTTP	Average	1 h. 58 min.
+103.26.54.94	8080	India Thane	5100 ms HTTP	Average	1 h. 58 min.
+51.195.203.3	8080	France	360 ms HTTP	Average	1 h. 58 min.
+179.107.25.14	8080	Brazil Ponta Grossa	2840 ms HTTP	Average	1 h. 58 min.
+134.3.255.5	8080	Germany Ludwigsburg	3980 ms HTTP	High	1 h. 58 min.
+77.236.248.237	8080	Russian Federation Obninsk	2080 ms HTTP	Average	1 h. 58 min.
+176.98.75.229	54256	Ukraine Uman	2260 ms HTTP	High	1 h. 58 min.
+103.76.243.180	3127	Bangladesh Dhamura	2660 ms HTTP	Average	1 h. 58 min.
+103.121.199.142	8080	Indonesia Jakarta	2520 ms HTTP	Average	1 h. 58 min.
+103.107.92.1	52827	India New Delhi	4380 ms HTTP	High	1 h. 59 min.
+177.91.74.147	8080	Brazil Belo Horizonte	5100 ms HTTP	Average	1 h. 59 min.
+170.0.233.58	999	Peru	4360 ms HTTP	Average	1 h. 59 min.
+115.74.213.139	8080	Vietnam Ho Chi Minh City	5100 ms HTTP	Average	1 h. 59 min.
+200.58.170.65	999	Bolivia Santa Cruz	4600 ms HTTP	Average	1 h. 59 min.
+79.122.215.82	8080	Russian Federation	640 ms HTTP	Average	1 h. 59 min.
+46.223.255.9	8080	Germany Aalen	2840 ms HTTP	High	1 h. 59 min.
+80.244.226.92	8080	Russian Federation Lyubertsy	5100 ms HTTP	Average	1 h. 59 min.
+103.160.178.31	8181	Indonesia	3980 ms HTTP	Average	1 h. 59 min.
+161.117.189.66	83	Singapore Singapore	1960 ms HTTP	High	1 h. 59 min.
+82.212.62.28	8080	Germany	4100 ms HTTP	High	1 h. 59 min.
+190.14.249.119	999	Colombia Bucaramanga	1040 ms HTTP	Average	1 h. 59 min.
+103.158.147.121	55443	India Shahapur	2000 ms HTTP	High	2 h. 0 min.
+192.236.160.186	80	United States	2760 ms HTTP	High	2 h. 0 min.
+118.172.177.168	8080	Thailand Bangkok	2560 ms HTTP	High	2 h. 0 min.
+81.196.173.125	80	Romania Focşani	2500 ms HTTP	Average	2 h. 0 min.
+95.47.234.1	8080	Czech Republic	4760 ms HTTP	Average	2 h. 0 min.
+187.8.25.5	8080	Brazil Indaiatuba	4720 ms HTTP	Average	2 h. 1 min.
+95.67.65.18	53281	Ukraine Kyiv	1360 ms HTTP	High	2 h. 1 min.
+187.188.189.19	9991	Mexico Mineral de la Reforma	3240 ms HTTP	Average	2 h. 1 min.
+180.180.170.188	8080	Thailand	3580 ms HTTP	Average	2 h. 1 min.
+138.201.114.61	8080	Germany	3240 ms HTTP	Average	2 h. 1 min.
+12.239.213.215	8080	United States Weatherford	1020 ms HTTP	Average	2 h. 1 min.
+200.36.153.101	999	Venezuela	2580 ms HTTP	Average	2 h. 1 min.
+177.137.195.11	3128	Brazil Porto Seguro	4220 ms HTTP	Average	2 h. 2 min.
+200.119.218.89	999	Bolivia	3300 ms HTTP	Average	2 h. 3 min.
+204.199.101.6	8085	Colombia Cajamarca	4780 ms HTTP	Average	2 h. 3 min.
+36.94.199.131	8080	Indonesia Tangerang	5060 ms HTTP	Average	2 h. 4 min.
+41.138.166.6	8080	Nigeria Nigeria	5100 ms HTTP	Average	2 h. 4 min.
+181.37.179.193	3128	Dominican Republic Santo Domingo Este	1080 ms HTTP	Average	2 h. 5 min.
+85.15.69.150	36652	Russian Federation Khabarovsk	4380 ms HTTP	High	2 h. 5 min.
+140.227.69.170	6000	Japan	4160 ms HTTP	High	2 h. 5 min.
+176.12.124.68	8080	Czech Republic Cheb	5100 ms HTTP	Average	2 h. 5 min.
+103.250.166.17	6666	India Morvi	2680 ms HTTP	High	2 h. 5 min.
+78.36.157.25	6000	Russian Federation Veliky Novgorod	4860 ms HTTP	Average	2 h. 5 min.
+36.94.232.177	999	Indonesia	5100 ms HTTP	Average	2 h. 5 min.
+178.217.216.184	49086	Poland Mysłowice	2160 ms HTTP	High	2 h. 5 min.
+103.125.105.117	8080	Indonesia Pasuruan	780 ms HTTP	Average	2 h. 5 min.
+114.5.199.197	8182	Indonesia Jakarta	5100 ms HTTP	Average	2 h. 6 min.
+36.95.27.209	80	Indonesia	2800 ms HTTP	Average	2 h. 6 min.
+152.169.106.145	8080	Argentina Neuquén	5100 ms HTTP	Average	2 h. 6 min.
+203.112.209.10	8080	Bangladesh Nalchiti	3500 ms HTTP	Average	2 h. 6 min.
+89.28.53.42	8080	Moldova Bălţi	5100 ms HTTP	Average	2 h. 6 min.
+103.212.93.193	34184	India Mumbai	3260 ms HTTP	High	2 h. 6 min.
+114.7.27.98	8080		2580 ms HTTP	High	2 h. 6 min.
+200.69.88.5	999	Colombia	3960 ms HTTP	Average	2 h. 6 min.
+188.17.158.225	2580	Russian Federation Kungur	1960 ms HTTP	Average	2 h. 6 min.
+43.249.224.172	84	India Hyderabad	2220 ms HTTP	Average	2 h. 6 min.
+143.255.147.251	8080	Brazil Sombrio	2140 ms HTTP	Average	2 h. 6 min.
+89.109.252.129	8080	Russian Federation Balashikha	1740 ms HTTP	Average	2 h. 6 min.
+197.211.35.195	8080	Nigeria Owerri	3220 ms HTTP	Average	2 h. 7 min.
+46.237.255.13	3128	Germany Ettlingen	3960 ms HTTP	High	2 h. 7 min.
+139.59.1.14	3128	India Bengaluru	740 ms HTTP	High	2 h. 7 min.
+172.67.181.122	80	United States	160 ms HTTP	Average	2 h. 8 min.
+172.67.255.214	80	United States	20 ms HTTP	Average	2 h. 8 min.
+203.23.104.29	80	Cyprus	20 ms HTTP	Average	2 h. 8 min.
+172.67.181.207	80	United States	120 ms HTTP	Average	2 h. 8 min.
+172.67.182.45	80	United States	160 ms HTTP	Average	2 h. 8 min.
+190.108.95.162	8080	Peru Lima	3700 ms HTTP	Average	2 h. 8 min.
+172.67.181.108	80	United States	120 ms HTTP	Average	2 h. 8 min.
+172.67.181.222	80	United States	120 ms HTTP	Average	2 h. 8 min.
+91.226.97.113	80	Ukraine	20 ms HTTP	Average	2 h. 8 min.
+173.245.49.8	80	France Paris	20 ms HTTP	Average	2 h. 8 min.
+141.101.123.25	80		20 ms HTTP	Average	2 h. 8 min.
+173.245.49.6	80	France Paris	20 ms HTTP	Average	2 h. 8 min.
+172.67.182.99	80	United States	160 ms HTTP	Average	2 h. 8 min.
+172.67.162.127	80	United States	160 ms HTTP	Average	2 h. 8 min.
+172.67.181.206	80	United States	160 ms HTTP	Average	2 h. 8 min.
+190.93.244.171	80		20 ms HTTP	Average	2 h. 9 min.
+172.67.254.164	80	United States	20 ms HTTP	Average	2 h. 9 min.
+172.67.255.224	80	United States	20 ms HTTP	Average	2 h. 9 min.
+172.67.70.10	80	United States	20 ms HTTP	Average	2 h. 9 min.
+172.67.181.199	80	United States	160 ms HTTP	Average	2 h. 9 min.
+172.67.254.134	80	United States	20 ms HTTP	Average	2 h. 9 min.
+172.67.254.241	80	United States	20 ms HTTP	Average	2 h. 9 min.
+173.245.49.42	80	France Paris	20 ms HTTP	Average	2 h. 9 min.
+172.67.70.20	80	United States	20 ms HTTP	Average	2 h. 9 min.
+172.67.181.150	80	United States	160 ms HTTP	Average	2 h. 9 min.
+172.67.208.171	80	United States	180 ms HTTP	Average	2 h. 9 min.
+172.67.70.131	80	United States	20 ms HTTP	Average	2 h. 9 min.
+172.67.182.52	80	United States	160 ms HTTP	Average	2 h. 9 min.
+173.245.49.14	80	France Paris	20 ms HTTP	Average	2 h. 9 min.
+141.101.123.221	80		20 ms HTTP	Average	2 h. 9 min.
+173.245.49.49	80	France Paris	20 ms HTTP	Average	2 h. 9 min.
+172.67.182.76	80	United States	160 ms HTTP	Average	2 h. 9 min.
+173.245.49.53	80	France Paris	20 ms HTTP	Average	2 h. 9 min.
+172.67.181.176	80	United States	120 ms HTTP	Average	2 h. 9 min.
+172.67.181.82	80	United States	160 ms HTTP	Average	2 h. 9 min.
+172.67.182.153	80	United States	160 ms HTTP	Average	2 h. 9 min.
+172.67.201.154	80	United States	180 ms HTTP	Average	2 h. 9 min.
+172.67.200.220	80	United States	160 ms HTTP	Average	2 h. 9 min.
+172.67.181.215	80	United States	180 ms HTTP	Average	2 h. 9 min.
+172.67.70.164	80	United States	20 ms HTTP	Average	2 h. 9 min.
+173.245.49.20	80	France Paris	20 ms HTTP	Average	2 h. 9 min.
+141.101.123.10	80		20 ms HTTP	Average	2 h. 9 min.
+172.67.70.14	80	United States	20 ms HTTP	Average	2 h. 9 min.
+172.67.182.88	80	United States	160 ms HTTP	Average	2 h. 9 min.
+172.67.181.135	80	United States	120 ms HTTP	Average	2 h. 9 min.
+172.67.34.6	80	United States	20 ms HTTP	Average	2 h. 9 min.
+141.101.123.230	80		40 ms HTTP	Average	2 h. 9 min.
+204.199.67.170	999	Colombia Bogotá	4880 ms HTTP	Average	2 h. 9 min.
+172.67.242.194	80	United States	20 ms HTTP	Average	2 h. 9 min.
+172.67.0.12	80	United States	20 ms HTTP	Average	2 h. 9 min.
+172.67.254.157	80	United States	20 ms HTTP	Average	2 h. 9 min.
+141.101.123.12	80		20 ms HTTP	Average	2 h. 9 min.
+172.67.70.90	80	United States	20 ms HTTP	Average	2 h. 9 min.
+172.67.70.135	80	United States	20 ms HTTP	Average	2 h. 9 min.
+173.245.49.35	80	France Paris	20 ms HTTP	Average	2 h. 9 min.
+172.67.70.155	80	United States	20 ms HTTP	Average	2 h. 9 min.
+172.67.187.199	80	United States	180 ms HTTP	Average	2 h. 9 min.
+172.67.254.145	80	United States	20 ms HTTP	Average	2 h. 9 min.
+172.67.182.3	80	United States	160 ms HTTP	Average	2 h. 9 min.
+172.67.255.219	80	United States	20 ms HTTP	Average	2 h. 9 min.
+172.67.181.189	80	United States	160 ms HTTP	Average	2 h. 9 min.
+172.67.181.21	80	United States	120 ms HTTP	Average	2 h. 9 min.
+172.67.223.190	80	United States	160 ms HTTP	Average	2 h. 9 min.
+141.101.123.9	80		20 ms HTTP	Average	2 h. 9 min.
+172.67.70.255	80	United States	20 ms HTTP	Average	2 h. 9 min.
+172.67.182.41	80	United States	160 ms HTTP	Average	2 h. 9 min.
+172.67.181.17	80	United States	120 ms HTTP	Average	2 h. 9 min.
+172.67.182.158	80	United States	180 ms HTTP	Average	2 h. 9 min.
+172.67.181.146	80	United States	160 ms HTTP	Average	2 h. 9 min.
+199.60.103.28	80	United States	20 ms HTTP	Average	2 h. 9 min.
+173.245.49.22	80	France Paris	40 ms HTTP	Average	2 h. 9 min.
+172.67.181.60	80	United States	160 ms HTTP	Average	2 h. 9 min.
+172.67.181.62	80	United States	160 ms HTTP	Average	2 h. 9 min.
+172.67.181.61	80	United States	180 ms HTTP	Average	2 h. 9 min.
+172.67.182.60	80	United States	180 ms HTTP	Average	2 h. 9 min.
+172.67.181.202	80	United States	160 ms HTTP	Average	2 h. 9 min.
+172.67.181.183	80	United States	180 ms HTTP	Average	2 h. 9 min.
+172.67.181.217	80	United States	140 ms HTTP	Average	2 h. 9 min.
+176.126.207.17	80	Netherlands	20 ms HTTP	Average	2 h. 9 min.
+190.93.247.5	80		20 ms HTTP	Average	2 h. 9 min.
+203.34.28.156	80	Virgin Islands, British	20 ms HTTP	Average	2 h. 9 min.
+141.101.123.222	80		20 ms HTTP	Average	2 h. 9 min.
+172.67.0.16	80	United States	20 ms HTTP	Average	2 h. 9 min.
+172.67.254.152	80	United States	20 ms HTTP	Average	2 h. 9 min.
+141.101.123.23	80		40 ms HTTP	Average	2 h. 9 min.
+172.67.26.7	80	United States	20 ms HTTP	Average	2 h. 9 min.
+172.67.181.116	80	United States	160 ms HTTP	Average	2 h. 9 min.
+210.212.227.69	3128	India Trivandrum	1100 ms HTTP	Average	2 h. 9 min.
+190.93.246.26	80		20 ms HTTP	Average	2 h. 9 min.
+103.114.104.106	3128	Vietnam	4860 ms HTTP	High	2 h. 9 min.
+172.67.182.136	80	United States	160 ms HTTP	Average	2 h. 10 min.
+172.67.182.105	80	United States	160 ms HTTP	Average	2 h. 10 min.
+172.67.181.212	80	United States	160 ms HTTP	Average	2 h. 10 min.
+141.101.121.217	80		20 ms HTTP	Average	2 h. 10 min.
+172.67.70.163	80	United States	20 ms HTTP	Average	2 h. 10 min.
+172.67.181.217	80	United States	140 ms HTTP	Average	2 h. 10 min.
+176.126.207.17	80	Netherlands	20 ms HTTP	Average	2 h. 10 min.
+190.93.247.5	80		20 ms HTTP	Average	2 h. 10 min.
+203.34.28.156	80	Virgin Islands, British	20 ms HTTP	Average	2 h. 10 min.
+141.101.123.222	80		20 ms HTTP	Average	2 h. 10 min.
+172.67.0.16	80	United States	20 ms HTTP	Average	2 h. 10 min.
+172.67.254.152	80	United States	20 ms HTTP	Average	2 h. 10 min.
+141.101.123.23	80		40 ms HTTP	Average	2 h. 10 min.
+172.67.26.7	80	United States	20 ms HTTP	Average	2 h. 10 min.
+172.67.181.116	80	United States	160 ms HTTP	Average	2 h. 10 min.
+190.93.246.26	80		20 ms HTTP	Average	2 h. 10 min.
+103.114.104.106	3128	Vietnam	4860 ms HTTP	High	2 h. 10 min.
+172.67.182.136	80	United States	160 ms HTTP	Average	2 h. 10 min.
+172.67.182.105	80	United States	160 ms HTTP	Average	2 h. 10 min.
+172.67.181.212	80	United States	160 ms HTTP	Average	2 h. 10 min.
+141.101.121.217	80		20 ms HTTP	Average	2 h. 10 min.
+172.67.70.163	80	United States	20 ms HTTP	Average	2 h. 10 min.
+172.67.70.172	80	United States	20 ms HTTP	Average	2 h. 10 min.
+172.67.181.181	80	United States	160 ms HTTP	Average	2 h. 10 min.
+103.160.54.86	8181	Indonesia	1740 ms HTTP	Average	2 h. 10 min.
+172.67.182.93	80	United States	160 ms HTTP	Average	2 h. 10 min.
+172.67.182.157	80	United States	120 ms HTTP	Average	2 h. 10 min.
+172.67.182.155	80	United States	120 ms HTTP	Average	2 h. 10 min.
+172.67.181.6	80	United States	160 ms HTTP	Average	2 h. 10 min.
+172.67.181.124	80	United States	160 ms HTTP	Average	2 h. 10 min.
+172.67.181.209	80	United States	160 ms HTTP	Average	2 h. 10 min.
+172.67.181.194	80	United States	160 ms HTTP	Average	2 h. 10 min.
+203.30.189.46	80	Belize	20 ms HTTP	Average	2 h. 10 min.
+141.101.123.219	80		20 ms HTTP	Average	2 h. 10 min.
+172.67.0.18	80	United States	20 ms HTTP	Average	2 h. 10 min.
+172.67.254.127	80	United States	20 ms HTTP	Average	2 h. 10 min.
+199.60.103.59	80	United States	20 ms HTTP	Average	2 h. 10 min.
+173.245.49.43	80	France Paris	20 ms HTTP	Average	2 h. 10 min.
+45.8.106.59	80	Germany	20 ms HTTP	Average	2 h. 10 min.
+173.245.49.2	80	France Paris	20 ms HTTP	Average	2 h. 10 min.
+172.67.70.100	80	United States	20 ms HTTP	Average	2 h. 10 min.
+172.67.182.56	80	United States	160 ms HTTP	Average	2 h. 10 min.
+172.67.181.182	80	United States	120 ms HTTP	Average	2 h. 10 min.
+173.245.49.15	80	France Paris	20 ms HTTP	Average	2 h. 10 min.
+172.67.254.137	80	United States	20 ms HTTP	Average	2 h. 10 min.
+172.67.181.221	80	United States	160 ms HTTP	Average	2 h. 10 min.
+172.67.181.120	80	United States	160 ms HTTP	Average	2 h. 10 min.
+172.67.254.139	80	United States	20 ms HTTP	Average	2 h. 10 min.
+172.67.70.37	80	United States	20 ms HTTP	Average	2 h. 10 min.
+172.67.182.96	80	United States	160 ms HTTP	Average	2 h. 10 min.
+146.59.15.27	8080	France	140 ms HTTP	Average	2 h. 10 min.
+172.67.182.174	80	United States	160 ms HTTP	Average	2 h. 10 min.
+172.67.182.142	80	United States	160 ms HTTP	Average	2 h. 10 min.
+172.67.182.9	80	United States	160 ms HTTP	Average	2 h. 10 min.
+172.67.181.107	80	United States	160 ms HTTP	Average	2 h. 10 min.
+172.67.181.180	80	United States	160 ms HTTP	Average	2 h. 10 min.
+172.67.181.15	80	United States	160 ms HTTP	Average	2 h. 10 min.
+203.13.32.156	80	Cyprus	20 ms HTTP	Average	2 h. 10 min.
+173.245.49.29	80	France Paris	20 ms HTTP	Average	2 h. 10 min.
+172.67.254.133	80	United States	20 ms HTTP	Average	2 h. 10 min.
+172.67.254.146	80	United States	20 ms HTTP	Average	2 h. 10 min.
+172.67.255.225	80	United States	20 ms HTTP	Average	2 h. 10 min.
+173.245.49.52	80	France Paris	20 ms HTTP	Average	2 h. 10 min.
+172.67.182.2	80	United States	160 ms HTTP	Average	2 h. 10 min.
+172.67.161.166	80	United States	160 ms HTTP	Average	2 h. 10 min.
+172.67.180.6	80	United States	160 ms HTTP	Average	2 h. 10 min.
+172.67.75.154	80	United States	20 ms HTTP	Average	2 h. 10 min.
+172.67.0.10	80	United States	20 ms HTTP	Average	2 h. 10 min.
+173.245.49.32	80	France Paris	20 ms HTTP	Average	2 h. 10 min.
+172.67.224.246	80	United States	40 ms HTTP	Average	2 h. 11 min.
+172.67.70.73	80	United States	20 ms HTTP	Average	2 h. 11 min.
+203.34.28.155	80	Virgin Islands, British	20 ms HTTP	Average	2 h. 11 min.
+172.67.182.37	80	United States	160 ms HTTP	Average	2 h. 11 min.
+172.67.182.35	80	United States	200 ms HTTP	Average	2 h. 11 min.
+172.67.182.92	80	United States	180 ms HTTP	Average	2 h. 11 min.
+172.67.181.110	80	United States	160 ms HTTP	Average	2 h. 11 min.
+172.67.181.123	80	United States	160 ms HTTP	Average	2 h. 11 min.
+172.67.168.132	80	United States	160 ms HTTP	Average	2 h. 11 min.
+172.67.181.184	80	United States	160 ms HTTP	Average	2 h. 11 min.
+190.93.244.24	80		20 ms HTTP	Average	2 h. 11 min.
+173.245.49.5	80	France Paris	20 ms HTTP	Average	2 h. 11 min.
+173.245.49.27	80	France Paris	20 ms HTTP	Average	2 h. 11 min.
+172.67.80.190	80	United States	20 ms HTTP	Average	2 h. 11 min.
+172.67.75.236	80	United States	20 ms HTTP	Average	2 h. 11 min.
+141.101.122.235	80		20 ms HTTP	Average	2 h. 11 min.
+172.67.254.130	80	United States	20 ms HTTP	Average	2 h. 11 min.
+172.67.255.216	80	United States	20 ms HTTP	Average	2 h. 11 min.
+172.67.255.223	80	United States	20 ms HTTP	Average	2 h. 11 min.
+172.67.70.236	80	United States	20 ms HTTP	Average	2 h. 11 min.
+172.67.70.89	80	United States	20 ms HTTP	Average	2 h. 11 min.
+172.67.70.62	80	United States	20 ms HTTP	Average	2 h. 11 min.
+172.67.70.11	80	United States	40 ms HTTP	Average	2 h. 11 min.
+172.67.181.171	80	United States	120 ms HTTP	Average	2 h. 11 min.
+172.67.181.156	80	United States	160 ms HTTP	Average	2 h. 11 min.
+172.67.181.152	80	United States	160 ms HTTP	Average	2 h. 11 min.
+172.67.181.97	80	United States	160 ms HTTP	Average	2 h. 11 min.
+172.67.181.57	80	United States	160 ms HTTP	Average	2 h. 11 min.
+172.67.212.157	80	United States	200 ms HTTP	Average	2 h. 11 min.
+141.101.122.238	80		20 ms HTTP	Average	2 h. 11 min.
+172.67.0.4	80	United States	20 ms HTTP	Average	2 h. 11 min.
+172.67.0.8	80	United States	20 ms HTTP	Average	2 h. 11 min.
+172.67.254.174	80	United States	20 ms HTTP	Average	2 h. 11 min.
+172.67.255.222	80	United States	20 ms HTTP	Average	2 h. 11 min.
+172.67.70.72	80	United States	20 ms HTTP	Average	2 h. 11 min.
+172.67.70.66	80	United States	20 ms HTTP	Average	2 h. 11 min.
+172.67.70.184	80	United States	20 ms HTTP	Average	2 h. 11 min.
+172.67.182.144	80	United States	180 ms HTTP	Average	2 h. 11 min.
+172.67.181.1	80	United States	180 ms HTTP	Average	2 h. 11 min.
+172.67.181.158	80	United States	160 ms HTTP	Average	2 h. 11 min.
+172.67.181.5	80	United States	160 ms HTTP	Average	2 h. 11 min.
+172.67.181.164	80	United States	200 ms HTTP	Average	2 h. 11 min.
+172.67.181.155	80	United States	160 ms HTTP	Average	2 h. 11 min.
+172.67.182.6	80	United States	160 ms HTTP	Average	2 h. 11 min.
+172.67.181.9	80	United States	160 ms HTTP	Average	2 h. 11 min.
+172.67.130.251	80	United States	160 ms HTTP	Average	2 h. 11 min.
+190.93.247.58	80		40 ms HTTP	Average	2 h. 11 min.
+185.162.231.166	80	Armenia	20 ms HTTP	Average	2 h. 11 min.
+199.60.103.228	80	United States	20 ms HTTP	Average	2 h. 11 min.
+172.67.254.138	80	United States	20 ms HTTP	Average	2 h. 11 min.
+172.67.254.154	80	United States	20 ms HTTP	Average	2 h. 11 min.
+172.67.254.62	80	United States	20 ms HTTP	Average	2 h. 11 min.
+172.67.253.181	80	United States	40 ms HTTP	Average	2 h. 11 min.
+91.132.150.111	80	Ukraine	40 ms HTTP	Average	2 h. 11 min.
+199.60.103.158	80	United States	20 ms HTTP	Average	2 h. 11 min.
+173.245.49.46	80	France Paris	20 ms HTTP	Average	2 h. 11 min.
+173.245.49.51	80	France Paris	20 ms HTTP	Average	2 h. 11 min.
+172.67.70.109	80	United States	20 ms HTTP	Average	2 h. 11 min.
+172.67.70.52	80	United States	20 ms HTTP	Average	2 h. 11 min.
+36.67.152.213	11111	Indonesia Kediri	1020 ms HTTP	Average	2 h. 13 min.
+13.52.63.181	80	United States San Jose	1820 ms HTTP	High	2 h. 13 min.
+103.231.80.202	55443	Indonesia Tanjung Balai	4720 ms HTTP	High	2 h. 14 min.
+186.67.158.58	999	Chile	3920 ms HTTP	Average	2 h. 19 min.
+27.123.1.46	3128	Indonesia Bekasi	1340 ms HTTP	High	2 h. 19 min.
+124.41.240.203	55948	Nepal Kathmandu	5100 ms HTTP	High	2 h. 19 min.
+118.173.242.189	8080	Thailand Bangkok	1300 ms HTTP	Average	2 h. 19 min.
+188.133.173.21	8080	Russian Federation Nizhniy Novgorod	1620 ms HTTP	Average	2 h. 19 min.
+103.251.225.18	35101	India	5100 ms HTTP	High	2 h. 20 min.
+213.230.97.169	3128	Uzbekistan Tashkent	740 ms HTTP	High	2 h. 20 min.
+79.143.87.136	9090	United Kingdom Manchester	480 ms HTTP	Low	2 h. 20 min.
+188.133.192.164	8081	Russian Federation Barnaul	1660 ms HTTP	Average	2 h. 20 min.
+191.103.65.170	999	Honduras Ciudad Choluteca	2760 ms HTTP	Average	2 h. 20 min.
+203.135.25.182	8080	Pakistan Bhalwal	4240 ms HTTP	Average	2 h. 20 min.
+31.170.1.69	8080	Ireland Dundalk	3320 ms HTTP	Average	2 h. 20 min.
+46.237.255.3	8080	Germany Ettlingen	5100 ms HTTP	High	2 h. 20 min.
+187.191.25.148	999	Mexico Mexicali Municipality	780 ms HTTP	Average	2 h. 20 min.
+23.132.48.1	999	Puerto Rico Caguas	2640 ms HTTP	Average	2 h. 20 min.
+91.93.48.33	9090	Turkey Bursa	820 ms HTTP	Average	2 h. 20 min.
+161.35.70.249	3128	United States	220 ms HTTP	High	2 h. 21 min.
+175.103.42.37	63123	Indonesia Jakarta	1080 ms HTTP	Average	2 h. 21 min.
+195.235.90.29	80	Spain Barcelona	360 ms HTTP	Low	2 h. 21 min.
+46.5.252.50	3128	Germany	280 ms HTTP	High	2 h. 21 min.
+82.137.244.74	8080	Syrian Arab Republic	3140 ms HTTP	Average	2 h. 22 min.
+187.95.34.135	8080	Brazil Nova Friburgo	4800 ms HTTP	Average	2 h. 22 min.
+37.59.165.235	8080	France	2420 ms HTTP	Average	2 h. 22 min.
+91.142.12.1	8081	Latvia Riga	4900 ms HTTP	Average	2 h. 22 min.
+41.180.68.195	8080	South Africa Brakpan	3240 ms HTTP	Average	2 h. 22 min.
+138.122.8.74	8080	Brazil Redencao	3700 ms HTTP	Average	2 h. 22 min.
+88.85.97.150	3150	Macedonia Skopje	2980 ms HTTP	Average	2 h. 23 min.
+51.195.203.3	8080	Germany Frankfurt am Main	1700 ms HTTP	Average	2 h. 26 min.
+51.81.80.170	8080	United States North Bergen	520 ms HTTP	Average	2 h. 26 min.
+51.79.156.47	8080	Singapore Singapore	580 ms HTTP	Average	2 h. 26 min.
+51.81.80.170	8080	United States Santa Clara	380 ms HTTP	Average	2 h. 26 min.
+51.79.156.47	8080	Singapore	620 ms HTTP	Average	2 h. 26 min.
+91.206.148.243	61410	Russian Federation	5100 ms HTTP	High	2 h. 26 min.
+103.131.16.105	8080	Indonesia Tangerang	4140 ms HTTP	Average	2 h. 26 min.
+91.233.111.49	1080	Ukraine Berdychiv	1480 ms HTTP	Average	2 h. 26 min.
+186.211.177.161	8082	Brazil Jaboatao dos Guararapes	5020 ms HTTP	Average	2 h. 26 min.
+125.62.192.97	82	India Visakhapatnam	5100 ms HTTP	Average	2 h. 26 min.
+187.109.36.251	20183	Brazil Barra Mansa	3260 ms HTTP	Average	2 h. 26 min.
+184.82.128.211	8080	Thailand	5100 ms HTTP	Average	2 h. 26 min.
+103.199.99.82	8080	India Jalgaon	3940 ms HTTP	Average	2 h. 26 min.
+85.172.39.174	47326	Russian Federation Krasnodar	2040 ms HTTP	High	2 h. 26 min.
+45.180.62.246	8080	Argentina Mariano Moreno	2000 ms HTTP	Average	2 h. 26 min.
+175.143.37.162	80	Malaysia Petaling Jaya	980 ms HTTP	Low	2 h. 27 min.
+185.44.232.30	53281	Spain Alora	5100 ms HTTP	High	2 h. 28 min.
+103.101.100.26	8080	India Delhi	3920 ms HTTP	Average	2 h. 28 min.
+139.5.16.174	59933	India Kashipur	1800 ms HTTP	High	2 h. 28 min.
+103.250.166.4	6666	India Morvi	3460 ms HTTP	High	2 h. 28 min.
+116.206.58.157	8181	Bangladesh Dhaka	3480 ms HTTP	Average	2 h. 28 min.
+194.150.255.142	80	Russian Federation Krasnodar	200 ms HTTP	High	2 h. 28 min.
+23.105.191.105	8080	United States Falls Church	5100 ms HTTP	Average	2 h. 33 min.
+78.42.42.42	8080	Germany Ohringen	3740 ms HTTP	High	2 h. 33 min.
+182.253.191.132	8080	Indonesia Bandung	2320 ms HTTP	Average	2 h. 33 min.
+105.112.142.210	8080	Nigeria Lagos	1420 ms HTTP	Average	2 h. 33 min.
+41.78.212.62	8080	South Africa Sandton	2920 ms HTTP	High	2 h. 33 min.
+185.42.231.26	55443	Russian Federation Ryazan	4080 ms HTTP	High	2 h. 33 min.
+135.148.41.254	8080	United States	1380 ms HTTP	Average	2 h. 37 min.
+132.226.36.165	3128	United States Ashburn	480 ms HTTP	Low	2 h. 38 min.
+172.67.182.72	80	United States	160 ms HTTP	Average	2 h. 38 min.
+172.67.182.84	80	United States	160 ms HTTP	Average	2 h. 38 min.
+172.67.181.33	80	United States	120 ms HTTP	Average	2 h. 38 min.
+172.67.182.90	80	United States	160 ms HTTP	Average	2 h. 38 min.
+172.67.181.129	80	United States	160 ms HTTP	Average	2 h. 38 min.
+172.67.182.1	80	United States	120 ms HTTP	Average	2 h. 38 min.
+172.67.182.94	80	United States	140 ms HTTP	Average	2 h. 38 min.
+172.67.182.118	80	United States	180 ms HTTP	Average	2 h. 38 min.
+172.67.181.47	80	United States	160 ms HTTP	Average	2 h. 38 min.
+172.67.181.126	80	United States	120 ms HTTP	Average	2 h. 38 min.
+172.67.182.120	80	United States	160 ms HTTP	Average	2 h. 38 min.
+172.67.181.118	80	United States	160 ms HTTP	Average	2 h. 38 min.
+172.67.181.2	80	United States	180 ms HTTP	Average	2 h. 38 min.
+172.67.181.44	80	United States	140 ms HTTP	Average	2 h. 38 min.
+172.67.182.16	80	United States	160 ms HTTP	Average	2 h. 38 min.
+172.67.182.22	80	United States	160 ms HTTP	Average	2 h. 38 min.
+172.67.181.18	80	United States	160 ms HTTP	Average	2 h. 38 min.
+172.67.182.69	80	United States	160 ms HTTP	Average	2 h. 38 min.
+172.67.181.142	80	United States	160 ms HTTP	Average	2 h. 38 min.
+172.67.181.19	80	United States	160 ms HTTP	Average	2 h. 38 min.
+172.67.182.130	80	United States	180 ms HTTP	Average	2 h. 38 min.
+172.67.182.111	80	United States	160 ms HTTP	Average	2 h. 38 min.
+172.67.182.159	80	United States	140 ms HTTP	Average	2 h. 38 min.
+172.64.141.11	80	United States	20 ms HTTP	Average	2 h. 38 min.
+103.21.244.22	80	United States Ashburn	60 ms HTTP	Average	2 h. 38 min.
+172.67.181.195	80	United States	160 ms HTTP	Average	2 h. 38 min.
+172.67.181.197	80	United States	160 ms HTTP	Average	2 h. 38 min.
+172.67.181.190	80	United States	160 ms HTTP	Average	2 h. 38 min.
+172.67.181.192	80	United States	180 ms HTTP	Average	2 h. 38 min.
+172.67.181.193	80	United States	120 ms HTTP	Average	2 h. 38 min.
+172.67.181.175	80	United States	160 ms HTTP	Average	2 h. 38 min.
+172.67.181.204	80	United States	120 ms HTTP	Average	2 h. 38 min.
+172.67.242.195	80	United States	20 ms HTTP	Average	2 h. 38 min.
+172.67.126.178	80	United States	20 ms HTTP	Average	2 h. 38 min.
+172.67.254.144	80	United States	20 ms HTTP	Average	2 h. 38 min.
+172.67.255.218	80	United States	60 ms HTTP	Average	2 h. 38 min.
+172.67.253.207	80	United States	20 ms HTTP	Average	2 h. 38 min.
+199.60.103.39	80	United States	20 ms HTTP	Average	2 h. 38 min.
+172.67.70.152	80	United States	20 ms HTTP	Average	2 h. 38 min.
+172.67.70.50	80	United States	20 ms HTTP	Average	2 h. 38 min.
+172.67.182.149	80	United States	160 ms HTTP	Average	2 h. 38 min.
+172.67.182.49	80	United States	160 ms HTTP	Average	2 h. 38 min.
+172.67.182.5	80	United States	160 ms HTTP	Average	2 h. 38 min.
+172.67.181.162	80	United States	160 ms HTTP	Average	2 h. 38 min.
+172.67.182.39	80	United States	160 ms HTTP	Average	2 h. 38 min.
+172.67.181.76	80	United States	180 ms HTTP	Average	2 h. 38 min.
+172.67.182.0	80	United States	160 ms HTTP	Average	2 h. 38 min.
+172.67.181.201	80	United States	160 ms HTTP	Average	2 h. 38 min.
+172.67.199.44	80	United States	160 ms HTTP	Average	2 h. 38 min.
+172.64.71.45	80	United States	20 ms HTTP	Average	2 h. 38 min.
+172.67.34.7	80	United States	20 ms HTTP	Average	2 h. 38 min.
+45.70.201.179	999	Ecuador Urcuqui	5100 ms HTTP	Average	2 h. 39 min.
+37.26.136.181	52271	Moldova Tiraspol	2300 ms HTTP	High	2 h. 39 min.
+46.5.252.55	3128	Germany	3980 ms HTTP	High	2 h. 39 min.
+103.124.136.14	80	Indonesia	2220 ms HTTP	High	2 h. 39 min.
+140.238.151.217	3128	Canada Toronto	700 ms HTTP	Low	2 h. 40 min.
+175.111.114.10	8080	Indonesia Tandjunguban	5100 ms HTTP	Average	2 h. 42 min.
+139.255.58.94	8080	Indonesia Buniwangi	5100 ms HTTP	Average	2 h. 42 min.
+36.94.229.237	8080	Indonesia	5020 ms HTTP	Average	2 h. 42 min.
+103.105.76.6	8080	Indonesia Jombang	2900 ms HTTP	Average	2 h. 42 min.
+36.92.134.71	999	Indonesia Bekasi	4640 ms HTTP	Average	2 h. 42 min.
+116.68.170.218	8080	Indonesia Batam	3760 ms HTTP	Average	2 h. 42 min.
+202.145.13.109	8080	Indonesia	4580 ms HTTP	Average	2 h. 42 min.
+115.124.92.42	8080	Indonesia Jakarta	5100 ms HTTP	Average	2 h. 42 min.
+36.66.171.243	8080	Indonesia Tegal	2960 ms HTTP	Average	2 h. 42 min.
+103.89.156.1	8080	Nepal	1520 ms HTTP	Average	2 h. 42 min.
+134.19.254.2	21231	Georgia K'alak'i T'bilisi	4500 ms HTTP	High	2 h. 42 min.
+43.225.67.35	53905	Indonesia	1920 ms HTTP	High	2 h. 43 min.
+83.242.123.248	8080	Poland Konin	4920 ms HTTP	Average	2 h. 43 min.
+95.161.188.246	38302	Russian Federation	5100 ms HTTP	High	2 h. 43 min.
+202.43.183.210	80	Indonesia	5100 ms HTTP	Average	2 h. 43 min.
+103.78.216.181	8080	Indonesia Bandung	4100 ms HTTP	Average	2 h. 43 min.
+118.67.221.82	8080	Bangladesh Dhaka	4860 ms HTTP	Average	2 h. 43 min.
+181.209.97.42	999	Argentina	5100 ms HTTP	Average	2 h. 47 min.
+217.113.30.218	8080	Armenia Yerevan	4020 ms HTTP	Average	2 h. 47 min.
+45.71.187.34	999	Ecuador Quevedo	4280 ms HTTP	Average	2 h. 47 min.
+212.156.55.34	8080	Turkey Istanbul	1720 ms HTTP	Average	2 h. 47 min.
+103.21.170.230	3128	Philippines Makati City	1300 ms HTTP	Average	2 h. 47 min.
+85.84.14.9	80	Spain Bilbao	600 ms HTTP	High	2 h. 52 min.
+170.83.60.125	55443	Brazil Nova Ponte	2740 ms HTTP	High	2 h. 53 min.
+192.162.193.243	36910	Russian Federation Uglich	4100 ms HTTP	High	2 h. 53 min.
+79.173.64.46	3128	Russian Federation Slantsy	5100 ms HTTP	Average	2 h. 53 min.
+219.92.40.123	8080	Malaysia Semenyih	1580 ms HTTP	Average	2 h. 53 min.
+176.28.64.225	3128	Russian Federation Orenburg	220 ms HTTP	High	2 h. 53 min.
+202.169.244.178	8181	Indonesia	4360 ms HTTP	Average	2 h. 54 min.
+103.101.17.172	8080	Myanmar Yangon	5100 ms HTTP	Average	2 h. 54 min.
+181.52.85.249	36107	Colombia Medellín	3900 ms HTTP	High	2 h. 54 min.
+195.162.71.112	8080	Ukraine Ternopil	4400 ms HTTP	Average	2 h. 54 min.
+109.86.219.179	53438	Ukraine Kharkiv	1420 ms HTTP	High	2 h. 54 min.
+177.46.148.142	3128	Brazil São Paulo	3080 ms HTTP	Average	2 h. 54 min.
+213.21.57.110	55443	Russian Federation St Petersburg	2620 ms HTTP	High	2 h. 54 min.
+197.255.209.34	8080	Nigeria Nigeria	1680 ms HTTP	Average	2 h. 54 min.
+95.208.208.233	8080	Germany Konstanz	4480 ms HTTP	High	2 h. 54 min.
+200.54.194.12	53281	Chile	5100 ms HTTP	High	2 h. 54 min.
+194.44.15.222	8081	Ukraine Lviv	5100 ms HTTP	Average	2 h. 58 min.
+185.171.230.195	80	Netherlands	20 ms HTTP	Average	2 h. 58 min.
+141.101.123.227	80		20 ms HTTP	Average	2 h. 58 min.
+181.129.138.114	30838	Colombia Belen de Umbria	1840 ms HTTP	High	2 h. 59 min.
+212.174.242.114	8080	Turkey Adana	3880 ms HTTP	Average	3 h. 1 min.
+45.242.130.62	55443	Egypt Alexandria	1580 ms HTTP	Average	3 h. 1 min.
+219.95.129.8	80	Malaysia Petaling Jaya	5100 ms HTTP	Low	3 h. 2 min.
+115.42.8.15	53281	Australia Sydney	2440 ms HTTP	High	3 h. 2 min.
+196.3.97.71	23500	Mozambique Maputo	2380 ms HTTP	High	3 h. 2 min.
+177.222.43.34	999	Bolivia La Paz	1140 ms HTTP	Average	3 h. 2 min.
+95.104.54.227	42119	Georgia Tbilisi	2340 ms HTTP	High	3 h. 3 min.
+45.140.90.106	10809	Canada	2860 ms HTTP	Average	3 h. 3 min.
+187.44.1.172	8080	Brazil Montes Claros	2560 ms HTTP	Average	3 h. 3 min.
+182.160.124.26	8081	Bangladesh Dhaka	4400 ms HTTP	High	3 h. 3 min.
+201.76.8.36	8080	Brazil Tubarao	1020 ms HTTP	Average	3 h. 5 min.
+177.71.92.134	8080	Brazil Petrolina	5100 ms HTTP	Average	3 h. 5 min.
+91.207.136.212	8080	Russian Federation Stavropol	5100 ms HTTP	Average	3 h. 5 min.
+200.122.86.177	8080	Argentina Pergamino	1100 ms HTTP	Average	3 h. 5 min.
+36.67.248.129	8080	Indonesia Jakarta	920 ms HTTP	Average	3 h. 5 min.
+177.73.70.132	3127	Brazil Brasília	3000 ms HTTP	Average	3 h. 6 min.
+186.97.156.130	999	Colombia Medellín	5100 ms HTTP	Average	3 h. 7 min.
+123.253.96.206	8080	Bangladesh Satkhira	4320 ms HTTP	Average	3 h. 7 min.
+14.139.242.242	3128	India Patiala	3200 ms HTTP	Average	3 h. 7 min.
+91.217.42.2	8080	Russian Federation Verkhniy Ufaley	320 ms HTTP	Average	3 h. 7 min.
+103.105.197.22	80	Indonesia Bekasi	2660 ms HTTP	High	3 h. 9 min.
+176.227.188.66	53281	Russian Federation	1140 ms HTTP	Average	3 h. 9 min.
+62.33.207.196	80	Russian Federation Novosibirsk	2080 ms HTTP	Average	3 h. 9 min.
+172.67.0.15	80	United States	20 ms HTTP	Average	3 h. 12 min.
+172.67.254.143	80	United States	20 ms HTTP	Average	3 h. 12 min.
+172.67.254.147	80	United States	20 ms HTTP	Average	3 h. 12 min.
+199.60.103.54	80	United States	20 ms HTTP	Average	3 h. 12 min.
+199.60.103.156	80	United States	20 ms HTTP	Average	3 h. 12 min.
+199.60.103.160	80	United States	20 ms HTTP	Average	3 h. 12 min.
+199.60.103.32	80	United States	20 ms HTTP	Average	3 h. 12 min.
+172.67.70.232	80	United States	20 ms HTTP	Average	3 h. 12 min.
+172.67.70.28	80	United States	20 ms HTTP	Average	3 h. 12 min.
+172.67.70.77	80	United States	20 ms HTTP	Average	3 h. 12 min.
+172.67.70.168	80	United States	20 ms HTTP	Average	3 h. 12 min.
+172.67.70.108	80	United States	20 ms HTTP	Average	3 h. 12 min.
+45.172.110.87	999	Argentina San Juan	1680 ms HTTP	Average	3 h. 13 min.
+185.195.254.194	3128	Turkey	640 ms HTTP	Average	3 h. 14 min.
+182.23.103.6	3137	Indonesia Surabaya	800 ms HTTP	Average	3 h. 14 min.
+23.227.38.16	80	Canada	20 ms HTTP	Average	3 h. 14 min.
+51.68.152.229	3128	France	1020 мс HTTPS	Высокая	5 минут
+217.79.181.109	443	Germany	680 мс HTTP, HTTPS	Высокая	40 минут
+188.170.233.107	3128	Russian Federation Gorno-Altaysk	600 мс HTTPS	Высокая	49 минут
+188.170.233.100	3128	Russian Federation Gorno-Altaysk	600 мс HTTPS	Высокая	51 минута
+82.64.183.22	8080	France	3380 мс HTTP, HTTPS, SOCKS4, SOCKS5	Высокая	52 минуты
+95.216.106.38	3128	Finland Helsinki	4220 мс HTTP, HTTPS	Средняя	52 минуты
+51.15.79.99	8080	Netherlands Amsterdam	180 мс HTTP, HTTPS	Высокая	53 минуты
+188.170.233.103	3128	Russian Federation Gorno-Altaysk	600 мс HTTPS	Высокая	59 минут
+94.228.118.147	1329	Russian Federation	5100 мс HTTPS	Высокая	1 ч. 38 мин.
+213.32.11.155	43567	France	1360 мс HTTPS	Высокая	2 ч. 38 мин.
+188.166.162.1	3128	Germany Frankfurt am Main	920 мс HTTP, HTTPS	Средняя	2 ч. 39 мин.
+89.208.35.81	3128	Russian Federation Reutov	5100 мс HTTPS	Высокая	2 ч. 49 мин.
+94.228.113.113	1328	Russian Federation	2380 мс HTTPS	Высокая	3 ч. 27 мин.
+2.56.213.102	3128	Netherlands Dronten	1720 мс HTTP, HTTPS	Высокая	3 ч. 35 мин.

@@ -1,1 +1,0 @@
-0 * * * * docker start fetch_cars

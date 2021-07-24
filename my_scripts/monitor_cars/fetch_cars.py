@@ -5,32 +5,36 @@ from bs4 import BeautifulSoup, Tag
 from typing import List, Dict
 import hashlib
 import time
+from proxy_list import proxy_list
+import random
 
 
 chat_id = -510251579
+avito_notified = False
 
 sources = [
     {
         'type': 'avito',
-        'url': 'https://www.avito.ru/nizhniy_novgorod/avtomobili?f=ASgBAQECA0TyCrCKAeC2DYyZKOK2DfCjKAJA7rYNFOa3KPC2DRTstygCRfgCF3siZnJvbSI6Mjg0NCwidG8iOm51bGx9xpoMFnsiZnJvbSI6MCwidG8iOjU1MDAwMH0&radius=100&user=1',
+        'url': 'https://www.avito.ru/nizhniy_novgorod/avtomobili?f=ASgBAQECA0TyCrCKAeC2DYyZKOK2DfCjKAJA7rYNFOa3KPC2DRTstygCRfgCF3siZnJvbSI6Mjg0NCwidG8iOm51bGx9xpoMFnsiZnJvbSI6MCwidG8iOjU1MDAwMH0&radius=200&user=1',
         'info': 'рено дастер'
     },
     {
         'type': 'avito',
-        'url': 'https://www.avito.ru/nizhniy_novgorod/avtomobili?f=ASgBAQECA0TyCrCKAeC2DaiZKOK2DcyxKAJA7rYNFOa3KPC2DRTstygCRfgCF3siZnJvbSI6Mjg0NCwidG8iOm51bGx9xpoMFnsiZnJvbSI6MCwidG8iOjU1MDAwMH0&radius=100&user=1',
+        'url': 'https://www.avito.ru/nizhniy_novgorod/avtomobili?f=ASgBAQECA0TyCrCKAeC2DaiZKOK2DcyxKAJA7rYNFOa3KPC2DRTstygCRfgCF3siZnJvbSI6Mjg0NCwidG8iOm51bGx9xpoMFnsiZnJvbSI6MCwidG8iOjU1MDAwMH0&radius=200&user=1',
         'info': 'сузуки свифт до 550'
     },
     {
         'type': 'avito',
-        'url': 'https://www.avito.ru/nizhniy_novgorod/avtomobili?f=ASgBAQECA0TyCrCKAeC2DZ6ZKOK2DYilKAJA7rYNFOa3KPC2DRTstygCRfgCF3siZnJvbSI6Mjg0NCwidG8iOm51bGx9xpoMFnsiZnJvbSI6MCwidG8iOjU1MDAwMH0&radius=100&user=1',
+        'url': 'https://www.avito.ru/nizhniy_novgorod/avtomobili?f=ASgBAQECA0TyCrCKAeC2DZ6ZKOK2DYilKAJA7rYNFOa3KPC2DRTstygCRfgCF3siZnJvbSI6Mjg0NCwidG8iOm51bGx9xpoMFnsiZnJvbSI6MCwidG8iOjU1MDAwMH0&radius=200&user=1',
         'info': 'шкода фабий'
     },
     {
         'type': 'avito',
-        'url': 'https://www.avito.ru/nizhniy_novgorod/avtomobili?f=ASgBAQECA0TyCrCKAeC2DcqYKOK2DaqhKAJA7rYNFOa3KPC2DRTstygCRfgCF3siZnJvbSI6Mjg0NCwidG8iOm51bGx9xpoMFnsiZnJvbSI6MCwidG8iOjU1MDAwMH0&radius=100&user=1',
+        'url': 'https://www.avito.ru/nizhniy_novgorod/avtomobili?f=ASgBAQECA0TyCrCKAeC2DcqYKOK2DaqhKAJA7rYNFOa3KPC2DRTstygCRfgCF3siZnJvbSI6Mjg0NCwidG8iOm51bGx9xpoMFnsiZnJvbSI6MCwidG8iOjU1MDAwMH0&radius=200&user=1',
         'info': 'киа серато'
     },
     {
+
         'type': 'avito',
         'url': 'https://www.avito.ru/nizhniy_novgorod/avtomobili?f=ASgBAQECA0TyCrCKAeC2DcqYKOK2DZShKAJA7rYNFOa3KPC2DRTstygCRfgCF3siZnJvbSI6Mjg0NCwidG8iOm51bGx9xpoMFnsiZnJvbSI6MCwidG8iOjU1MDAwMH0&radius=200&user=1',
         'info': 'киа сид'
@@ -48,40 +52,46 @@ sources = [
     # autoru -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     {
         'type': 'autoru',
-        'url': 'https://auto.ru/nizhniy_novgorod/cars/suzuki/swift/used/?year_from=2010&price_from=350000&price_to=550000&transmission=MECHANICAL&geo_radius=100&sort=cr_date-desc',
+        'url': 'https://auto.ru/nizhniy_novgorod/cars/suzuki/swift/used/?year_from=2010&price_from=350000&price_to=550000&transmission=MECHANICAL&geo_radius=200&sort=cr_date-desc',
         'info': 'сузуки свифт'
     },
     {
         'type': 'autoru',
-        'url': 'https://auto.ru/nizhniy_novgorod/cars/kia/cerato/used/?year_from=2010&price_to=550000&sort=cr_date-desc&geo_radius=100&transmission=MECHANICAL',
+        'url': 'https://auto.ru/nizhniy_novgorod/cars/kia/cerato/used/?year_from=2010&price_to=550000&sort=cr_date-desc&geo_radius=200&transmission=MECHANICAL',
         'info': 'киа серато'
     },
     {
         'type': 'autoru',
-        'url': 'https://auto.ru/nizhniy_novgorod/cars/skoda/octavia/used/?year_from=2010&price_to=550000&transmission=MECHANICAL&transmission=ROBOT&geo_radius=100&sort=cr_date-desc',
+        'url': 'https://auto.ru/nizhniy_novgorod/cars/skoda/octavia/used/?year_from=2010&price_to=550000&transmission=MECHANICAL&transmission=ROBOT&geo_radius=200&sort=cr_date-desc',
         'info': 'октавиа механника и робот'
     },
     {
         'type': 'autoru',
-        'url': 'https://auto.ru/nizhniy_novgorod/cars/skoda/fabia/used/?year_from=2010&displacement_from=1400&transmission=MECHANICAL&sort=cr_date-desc&price_to=550000',
+        'url': 'https://auto.ru/nizhniy_novgorod/cars/skoda/fabia/used/?year_from=2010&displacement_from=1400&transmission=MECHANICAL&geo_radius=200&sort=cr_date-desc&price_to=550000',
         'info': 'шкода фабий'
     },
     {
         'type': 'autoru',
-        'url': 'https://auto.ru/nizhniy_novgorod/cars/kia/ceed/used/?geo_radius=100&year_from=2010&price_from=400000&price_to=550000&displacement_from=1400&transmission=MECHANICAL',
+        'url': 'https://auto.ru/nizhniy_novgorod/cars/kia/ceed/used/?geo_radius=200&year_from=2010&price_from=400000&price_to=550000&displacement_from=1400&transmission=MECHANICAL',
         'info': 'киа сид'
     },
     {
         'type': 'autoru',
-        'url': 'https://auto.ru/nizhniy_novgorod/cars/renault/duster/used/?year_from=2010&price_from=300000&price_to=550000&transmission=MECHANICAL&geo_radius=100&sort=cr_date-desc',
+        'url': 'https://auto.ru/nizhniy_novgorod/cars/renault/duster/used/?year_from=2010&price_from=300000&price_to=550000&transmission=MECHANICAL&geo_radius=200&sort=cr_date-desc',
         'info': 'сузуки свифт'
     },
     {
         'type': 'autoru',
-        'url': 'https://auto.ru/nizhniy_novgorod/cars/nissan/note/used/?year_from=2010&price_from=300000&price_to=550000&sort=cr_date-desc&geo_radius=100&transmission=MECHANICAL',
+        'url': 'https://auto.ru/nizhniy_novgorod/cars/nissan/note/used/?year_from=2010&price_from=300000&price_to=550000&sort=cr_date-desc&geo_radius=200&transmission=MECHANICAL',
         'info': 'ниссан ноут'
     },
+    {
+        'type': 'autoru',
+        'url': 'https://auto.ru/nizhniy_novgorod/cars/vendor-foreign/all/?year_from=2018&price_from=500000&price_to=600000&sort=cr_date-desc&transmission=MECHANICAL',
+        'info': 'foreign cars > 2018 year'
+    },
 ]
+
 
 
 class hashabledict(dict):
@@ -117,6 +127,28 @@ def parse_autoru(url) -> List[Dict]:
 
 
 def parse_avito(url) -> List[Dict]:
+    user_as = [
+        'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FSL 7.0.6.01001)',
+        'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FSL 7.0.7.01001)',
+        'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FSL 7.0.5.01003)',
+        'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0',
+        'Mozilla/5.0 (X11; U; Linux x86_64; de; rv:1.9.2.8) Gecko/20100723 Ubuntu/10.04 (lucid) Firefox/3.6.8',
+        'Mozilla/5.0 (Windows NT 5.1; rv:13.0) Gecko/20100101 Firefox/13.0.1',
+        'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:11.0) Gecko/20100101 Firefox/11.0',
+        'Mozilla/5.0 (X11; U; Linux x86_64; de; rv:1.9.2.8) Gecko/20100723 Ubuntu/10.04 (lucid) Firefox/3.6.8',
+        'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.0.3705)',
+        'Mozilla/5.0 (Windows NT 5.1; rv:13.0) Gecko/20100101 Firefox/13.0.1',
+        'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:13.0) Gecko/20100101 Firefox/13.0.1',
+        'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+        'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)',
+        'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)',
+        'Opera/9.80 (Windows NT 5.1; U; en) Presto/2.10.289 Version/12.01',
+        'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)',
+        'Mozilla/5.0 (Windows NT 5.1; rv:5.0.1) Gecko/20100101 Firefox/5.0.1',
+        'Mozilla/5.0 (Windows NT 6.1; rv:5.0) Gecko/20100101 Firefox/5.02',
+        'Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1',
+        'Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.0) Opera 7.02 Bork-edition [en]',
+    ]
     def is_a_item(tag):
         return tag.parent.has_attr('data-marker') and tag.parent['data-marker'] == 'catalog-serp' and \
                tag.has_attr('data-marker') and tag['data-marker'] == 'item'
@@ -124,7 +156,32 @@ def parse_avito(url) -> List[Dict]:
     def is_a_time_marker(tag):
         return tag.has_attr('data-marker') and tag['data-marker'] == 'item-date'
 
-    page = requests.get(url)
+    random.shuffle(proxy_list)
+    page = False
+    for proxy in proxy_list:
+        random.shuffle(user_as)
+        proxy_dict = {
+            "https": f'http://{proxy[0]}:{proxy[1]}',
+        }
+        headers = {'User-Agent': user_as[0]}
+        try:
+            page = requests.get(url, proxies=proxy_dict, timeout=10, headers=headers)
+        except Exception as e:
+            continue
+        if page.status_code != 200:
+            continue
+        else:
+            break
+    if not page:
+        global avito_notified
+        if not avito_notified:
+            avito_notified = True
+            requests.post('https://api.telegram.org/bot1868613248:AAGnE3Z3zj1H75z6KI6Nfr3kuzW-3LwIAUQ/sendMessage', json={
+                'chat_id': chat_id,
+                'text': f'cannot load avito page'
+            })
+        raise Exception(f'cant load page from avito {str(page)[:50]}')
+
     soup = BeautifulSoup(page.text, 'html.parser')
     items = list(soup.find_all(is_a_item))
 
@@ -204,7 +261,11 @@ if __name__ == '__main__':
         id_ = str(id_)
         if source['type'] in fun_mapping:
             old_items = old_records[id_] if id_ in old_records else []
-            actual_items = fun_mapping[source['type']](source['url'])
+            try:
+                actual_items = fun_mapping[source['type']](source['url'])
+            except Exception as e:
+                print(f'cant load actual records from {source["info"]}')
+                continue
             new_items = extract_new_records(old_items, actual_items)
             print(f'{source["type"]} {source["info"]} old: {len(old_items)}, actual: {len(actual_items)}, new: {len(new_items)}')
             if len(new_items) == len(actual_items) and (len(actual_items) > 5 or id_ not in old_records):
