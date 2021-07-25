@@ -7,5 +7,5 @@ docker build -t fetch_cars .
 
 docker rm fetch_cars
 
-docker run -d --name fetch_cars --restart no -v $(pwd)/old_records.json:/app/old_records.json fetch_cars
+docker run -d --name fetch_cars --restart no -v $(pwd)/old_records.json:/app/old_records.json -v $(pwd)/proxy_list.json:/app/proxy_list.json fetch_cars
 
