@@ -11,7 +11,7 @@ import random
 chat_id = -510251579
 avito_notified = False
 
-with open('proxy_list.json', 'wr') as f:
+with open('proxy_list.json', 'r') as f:
     proxy_list = json.load(f)
 
 sources = [
