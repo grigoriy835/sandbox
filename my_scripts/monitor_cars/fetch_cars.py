@@ -172,7 +172,7 @@ def parse_avito(url) -> List[Dict]:
             continue
         else:
             break
-    if not page:
+    if not page or page.status_code != 200:
         global avito_notified
         if not avito_notified:
             avito_notified = True
@@ -186,7 +186,7 @@ def parse_avito(url) -> List[Dict]:
     items = list(soup.find_all(is_a_item))
 
     def map_func(item: Tag) -> dict:
-        res = hashabledict(id=item['data-item-id'])
+        res = hashabledict(id=int(item['data-item-id'].strip()))
         link = item.find('a')['href']
         res['link'] = f'https://www.avito.ru{link}'
         res['time'] = item.find(is_a_time_marker).contents.pop()
