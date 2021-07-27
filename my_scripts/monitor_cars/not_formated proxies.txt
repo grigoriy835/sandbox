@@ -1,0 +1,651 @@
+177.136.84.75	999	AR	Argentina	anonymous	no	yes	25 minutes ago
+200.32.51.179	8080	AR	Argentina	elite proxy	no	yes	25 minutes ago
+103.250.68.10	8080	BD	Bangladesh	elite proxy	no	yes	1 minute ago
+103.92.212.242	43399	BD	Bangladesh	elite proxy	no	yes	25 minutes ago
+23.251.138.105	8080	BE	Belgium	anonymous	no	yes	25 minutes ago
+143.255.145.129	8080	BR	Brazil	elite proxy	no	yes	1 minute ago
+200.148.169.234	8080	BR	Brazil	anonymous	no	yes	25 minutes ago
+92.247.142.182	42367	BG	Bulgaria	elite proxy	no	yes	21 minutes ago
+140.238.151.217	3128	CA	Canada	anonymous	yes	yes	1 minute ago
+198.50.163.192	3129	CA	Canada	elite proxy	no	yes	2 minutes ago
+144.217.101.245	3129	CA	Canada	elite proxy	no	yes	2 minutes ago
+185.131.62.250	53281	CZ	Czech Republic	elite proxy	no	yes	25 minutes ago
+41.234.66.33	3128	EG	Egypt	elite proxy	no	yes	11 minutes ago
+82.64.183.22	8080	FR	France	elite proxy	no	yes	1 minute ago
+195.154.84.106	5566	FR	France	elite proxy	no	yes	21 minutes ago
+51.38.95.10	3128	FR	France	elite proxy	no	yes	23 minutes ago
+51.159.24.172	3163	FR	France	elite proxy	no	yes	23 minutes ago
+68.183.221.156	45302	DE	Germany	elite proxy	no	yes	1 minute ago
+157.230.103.189	36366	DE	Germany	elite proxy	no	yes	1 minute ago
+217.79.181.109	443	DE	Germany	elite proxy		yes	2 minutes ago
+165.22.81.30	44608	DE	Germany	elite proxy	no	yes	11 minutes ago
+150.109.79.70	3306	HK	Hong Kong	anonymous	no	yes	2 minutes ago
+65.52.162.159	80	HK	Hong Kong	anonymous	no	yes	2 minutes ago
+47.56.69.11	8000	HK	Hong Kong	anonymous	no	yes	11 minutes ago
+101.53.158.48	9300	IN	India	elite proxy	no	yes	2 minutes ago
+116.73.14.16	8080	IN	India	elite proxy	no	yes	23 minutes ago
+103.83.116.122	55443	ID	Indonesia	elite proxy	no	yes	1 minute ago
+103.121.199.142	8080	ID	Indonesia	anonymous	no	yes	1 minute ago
+118.99.100.222	8080	ID	Indonesia	elite proxy	no	yes	1 minute ago
+103.119.144.4	55443	ID	Indonesia	elite proxy	no	yes	2 minutes ago
+103.102.14.8	3127	ID	Indonesia	anonymous	no	yes	2 minutes ago
+111.92.164.242	50249	ID	Indonesia	elite proxy	yes	yes	11 minutes ago
+219.83.34.178	8080	ID	Indonesia	anonymous	no	yes	22 minutes ago
+202.147.198.115	8080	ID	Indonesia	anonymous	yes	yes	22 minutes ago
+202.75.97.82	47009	ID	Indonesia	elite proxy	no	yes	23 minutes ago
+103.148.79.97	8080	ID	Indonesia	elite proxy	no	yes	23 minutes ago
+175.106.18.201	38708	ID	Indonesia	elite proxy	no	yes	25 minutes ago
+82.99.232.18	58689	IR	Iran	elite proxy	no	yes	1 minute ago
+185.14.160.26	7890	IR	Iran	elite proxy	yes	yes	11 minutes ago
+37.152.176.47	8118	IR	Iran	elite proxy	no	yes	23 minutes ago
+8.211.129.194	3128	JP	Japan	anonymous	no	yes	11 minutes ago
+160.16.126.232	3128	JP	Japan	elite proxy	no	yes	21 minutes ago
+154.79.244.62	58792	KE	Kenya	elite proxy	no	yes	11 minutes ago
+61.37.223.152	8080	KR	Korea	elite proxy	yes	yes	22 minutes ago
+154.127.79.182	8080	LY	Libya	elite proxy	no	yes	1 minute ago
+124.217.246.133	3128	MY	Malaysia	elite proxy	no	yes	25 minutes ago
+169.57.1.85	80	MX	Mexico	elite proxy	no	yes	2 minutes ago
+189.199.126.94	8080	MX	Mexico	elite proxy	no	yes	23 minutes ago
+163.172.221.209	443	NL	Netherlands	elite proxy	no	yes	1 minute ago
+213.6.227.38	45730	PS	Palestinian Territory	elite proxy	no	yes	21 minutes ago
+46.146.239.100	3128	RU	Russian Federation	elite proxy	no	yes	2 minutes ago
+109.195.194.79	60992	RU	Russian Federation	elite proxy	no	yes	22 minutes ago
+91.107.6.115	53281	RU	Russian Federation	elite proxy	no	yes	23 minutes ago
+194.233.69.38	443	SG	Singapore	elite proxy	no	yes	1 minute ago
+128.199.214.87	3128	SG	Singapore	anonymous	no	yes	11 minutes ago
+172.107.159.202	443	SG	Singapore	elite proxy	no	yes	11 minutes ago
+114.32.84.229	80	TW	Taiwan	anonymous	yes	yes	1 minute ago
+103.20.204.104	80	TH	Thailand	elite proxy		yes	2 minutes ago
+149.36.2.247	41002	GB	United Kingdom	elite proxy	no	yes	1 minute ago
+62.182.97.2	12333	GB	United Kingdom	elite proxy	no	yes	1 minute ago
+103.219.22.229	22142	GB	United Kingdom	elite proxy	no	yes	1 minute ago
+79.143.87.136	9090	GB	United Kingdom	anonymous	no	yes	2 minutes ago
+185.169.232.222	12000	GB	United Kingdom	elite proxy	yes	yes	2 minutes ago
+5.253.113.99	12229	GB	United Kingdom	elite proxy	yes	yes	2 minutes ago
+149.36.2.239	41002	GB	United Kingdom	elite proxy	no	yes	2 minutes ago
+185.141.58.205	19596	GB	United Kingdom	elite proxy	yes	yes	11 minutes ago
+185.174.108.153	2333	GB	United Kingdom	elite proxy	yes	yes	11 minutes ago
+185.195.104.156	12333	GB	United Kingdom	elite proxy	yes	yes	11 minutes ago
+149.36.0.238	2333	GB	United Kingdom	elite proxy	no	yes	11 minutes ago
+185.174.108.147	2333	GB	United Kingdom	elite proxy	no	yes	11 minutes ago
+185.245.81.203	12444	GB	United Kingdom	elite proxy	yes	yes	11 minutes ago
+185.245.81.169	12444	GB	United Kingdom	elite proxy	yes	yes	11 minutes ago
+185.245.81.165	12444	GB	United Kingdom	elite proxy	yes	yes	11 minutes ago
+185.195.107.4	23445	GB	United Kingdom	elite proxy	yes	yes	11 minutes ago
+185.245.81.154	12444	GB	United Kingdom	elite proxy	yes	yes	11 minutes ago
+185.195.107.19	23445	GB	United Kingdom	elite proxy	yes	yes	11 minutes ago
+149.36.0.169	2333	GB	United Kingdom	elite proxy	yes	yes	11 minutes ago
+185.245.81.173	12444	GB	United Kingdom	elite proxy	yes	yes	11 minutes ago
+185.174.108.94	2333	GB	United Kingdom	elite proxy	yes	yes	11 minutes ago
+144.48.60.111	12444	GB	United Kingdom	elite proxy	yes	yes	11 minutes ago
+185.245.81.213	12444	GB	United Kingdom	elite proxy	yes	yes	11 minutes ago
+185.174.108.54	2333	GB	United Kingdom	elite proxy	yes	yes	11 minutes ago
+5.253.113.195	12229	GB	United Kingdom	elite proxy	yes	yes	11 minutes ago
+185.174.108.58	2333	GB	United Kingdom	elite proxy	yes	yes	11 minutes ago
+149.36.2.169	41002	GB	United Kingdom	elite proxy	yes	yes	11 minutes ago
+103.214.47.43	12334	GB	United Kingdom	elite proxy	no	yes	11 minutes ago
+144.48.62.80	12000	GB	United Kingdom	elite proxy	yes	yes	11 minutes ago
+103.214.46.4	12334	GB	United Kingdom	elite proxy	no	yes	11 minutes ago
+62.182.97.240	12333	GB	United Kingdom	elite proxy	no	yes	24 minutes ago
+79.143.87.138	9090	GB	United Kingdom	anonymous	no	yes	25 minutes ago
+52.4.158.30	3128	US	United States	anonymous	no	yes	1 minute ago
+132.226.36.165	3128	US	United States	anonymous	yes	yes	1 minute ago
+20.97.28.47	8080	US	United States	anonymous	no	yes	1 minute ago
+208.80.28.208	8080	US	United States	elite proxy	no	yes	2 minutes ago
+47.254.75.151	8181	US	United States	anonymous	no	yes	22 minutes ago
+51.81.82.175	80	US	United States	anonymous	no	yes	23 minutes ago
+213.230.97.169	3128	UZ	Uzbekistan	elite proxy	no	yes	1 minute ago
+87.237.234.187	3128	UZ	Uzbekistan	elite proxy	yes	yes	22 minutes ago
+103.207.38.11	3128	VN	Vietnam	elite proxy	no	yes	1 minute ago
+115.75.1.184	8118	VN	Vietnam	anonymous	yes	yes	1 minute ago
+
+49.156.42.188	8080	HTTPS	None	Cambodia Proxy Cambodia			23.5%
+74.208.18.187	80	HTTPS	None	United States Proxy United States	Pennsylvania	Wayne	29.2%
+140.227.65.129	58888	HTTPS	None	United States Proxy United States	Florida	Palm Bay	95.5%
+41.161.92.138	8080	HTTPS	None	South Africa Proxy South Africa			35.1%
+146.59.15.27	8080	HTTPS	None	Norway Proxy Norway	Oslo	Oslo	49.2%
+103.11.106.219	8181	HTTPS	None	Indonesia Proxy Indonesia			31.9%
+49.231.140.122	8080	HTTPS	None	Thailand Proxy Thailand			22.0%
+220.135.165.38	8080	HTTPS	High Anonymous	Taiwan Proxy Taiwan	T'ai-pei	Taipei	40.2%
+85.214.244.174	3128	HTTPS	None	Germany Proxy Germany	Berlin	Berlin	74.4%
+204.199.101.6	8085	HTTPS	None	United States Proxy United States			24.4%
+101.109.255.17	43501	HTTPS	High Anonymous	Thailand Proxy Thailand			26.2%
+125.163.121.168	82	HTTPS	None	Indonesia Proxy Indonesia	Jakarta Raya	Jakarta	52.8%
+128.199.244.63	3228	HTTPS	None	United Kingdom Proxy United Kingdom			68.6%
+173.46.67.172	58517	HTTPS	High Anonymous	United States Proxy United States	Ohio	Maumee	14.3%
+140.227.68.230	58888	HTTPS	None	United States Proxy United States	Florida	Palm Bay	95.6%
+194.233.69.90	443	HTTPS	High Anonymous	Germany Proxy Germany			80.1%
+36.66.19.10	8080	HTTPS	None	Indonesia Proxy Indonesia	Jakarta Raya	Jakarta	17.4%
+175.101.31.163	83	HTTPS	None	India Proxy India	Andhra Pradesh	Hyderabad	42.7%
+158.140.169.101	10000	HTTPS	None	United States Proxy United States	California	San Jose	21.9%
+202.152.12.202	8080	HTTPS	None	Indonesia Proxy Indonesia	Jakarta Raya	Jakarta	35.2%
+95.216.106.38	3128	HTTPS	None	Ukraine Proxy Ukraine			63.2%
+79.122.215.82	8080	HTTPS	None	Russia Proxy Russia	Perm'	Perm	30.6%
+202.191.108.42	8080	HTTPS	None	Australia Proxy Australia	South Australia	Adelaide	44.9%
+187.190.226.104	999	HTTPS	None	Mexico Proxy Mexico			34.4%
+116.73.14.16	8080	HTTPS	High Anonymous	India Proxy India	Maharashtra	Mumbai	51.1%
+190.95.134.120	999	HTTPS	None	Ecuador Proxy Ecuador	Guayas	Guayaquil	98.1%
+190.52.129.39	8080	HTTPS	None	Paraguay Proxy Paraguay	Central	Asuncion	52.7%
+91.186.102.169	8082	HTTPS	None	Russia Proxy Russia			43.4%
+61.8.75.186	3128	HTTPS	None	Indonesia Proxy Indonesia	Jakarta Raya	Jakarta	29.5%
+139.255.25.85	3128	HTTPS	None	Indonesia Proxy Indonesia			14.0%
+140.227.25.235	6000	HTTPS	High Anonymous	United States Proxy United States	Florida	Palm Bay	92.8%
+47.254.90.125	8000	HTTPS	None	Canada Proxy Canada	Ontario	Ottawa	30.8%
+222.252.156.61	62694	HTTPS	High Anonymous	Viet Nam Proxy Viet Nam	Dac Lac	Hanoi	18.0%
+182.253.93.166	8080	HTTPS	None	Indonesia Proxy Indonesia			18.9%
+201.168.205.44	999	HTTPS	None	Mexico Proxy Mexico	Jalisco	Guadalajara	34.7%
+175.106.10.227	7878	HTTPS	None	Indonesia Proxy Indonesia			22.1%
+14.241.225.167	80	HTTPS	None	Viet Nam Proxy Viet Nam			31.3%
+159.89.221.73	3128	HTTPS	Anonymous	Canada Proxy Canada	British Columbia	Vancouver	49.1%
+106.51.19.98	3127	HTTPS	None	India Proxy India			30.1%
+111.92.164.242	50249	HTTPS	High Anonymous	Indonesia Proxy Indonesia			35.4%
+96.95.164.41	3128	HTTPS	None	United States Proxy United States	New Jersey	Mount Laurel	83.4%
+182.93.10.83	8090	HTTPS	None	Macao Proxy Macao			77.1%
+136.233.136.41	48976	HTTPS	High Anonymous	United States Proxy United States	California	Palo Alto	12.6%
+140.227.211.47	8080	HTTPS	Anonymous	United States Proxy United States	Florida	Palm Bay	95.6%
+94.130.219.212	3128	HTTPS	High Anonymous	Ukraine Proxy Ukraine			21.5%
+51.81.80.170	8080	HTTPS	None	United Kingdom Proxy United Kingdom			47.9%
+201.62.56.49	35816	HTTPS	High Anonymous	Brazil Proxy Brazil			17.8%
+140.227.67.200	3128	HTTPS	High Anonymous	United States Proxy United States	Florida	Palm Bay	83.6%
+140.227.118.184	6000	HTTPS	High Anonymous	United States Proxy United States	Florida	Palm Bay	95.7%
+140.227.80.43	3128	HTTPS	High Anonymous	United States Proxy United States	Florida	Palm Bay	95.3%
+122.3.41.154:8090	HTTPS (Mikrotik)	NOA	Philippines (Cabuyao)	mail.transcom.com.ph (Philippine Long Distance Telephone Company)	6.624	 76% (32) +	27-jul-2021 23:41 (5 mins ago)
+186.67.67.10:8080	HTTPS (Mikrotik)	NOA	Chile	186.67.67.10 (ENTEL CHILE S.A.)	3.351	 17% (93) +	27-jul-2021 23:41 (5 mins ago)
+213.207.254.57:8080	HTTPS (Mikrotik)	NOA	Iran	213.207.254.57 (DATAK Internet Engineering, Inc)	2.899	 56% (15) +	27-jul-2021 23:40 (5 mins ago)
+217.6.236.35:3128	HTTPS (Squid)	NOA	Germany (Roemerstein)	217.6.236.35 (Deutsche Telekom AG)	0.207	 40% (8) +	27-jul-2021 23:39 (6 mins ago)
+85.187.195.177:8080	HTTPS (Mikrotik)	NOA	Bulgaria	85.187.195.177 (Netroniks EOOD)	8.119	 28% (21) +	27-jul-2021 23:38 (7 mins ago)
+202.191.108.42:8080	HTTPS (Mikrotik)	NOA	Myanmar	202.191.108.42 (Telecom International Myanmar Co., Ltd)	5.407	 52% (15) -	27-jul-2021 23:37 (8 mins ago)
+86.123.166.109:8080	HTTPS	HIA	Romania (Brasov)	86-123-166-109.static.brasov.rdsnet.ro (RCS & RDS)	0.459	 33% (355) +	27-jul-2021 23:37 (9 mins ago)
+42.201.134.22:3128	HTTPS (Mikrotik)	NOA	Pakistan (Lahore) !!!	22.134.201.42-static-fiberlink.net.pk (Fiberlink Pvt.Ltd)	5.613	 24% (48) -	27-jul-2021 23:35 (10 mins ago)
+41.164.68.194:8080	HTTPS	HIA	South Africa (Cape Town)	41.164.68.194 (Neotel)	5.018	 24% (94) +	27-jul-2021 23:34 (11 mins ago)
+91.93.48.250:9090	HTTPS (Mikrotik)	NOA	Turkey (Bursa)	host-91-93-48-250.reverse.superonline.net (Tellcom Iletisim Hizmetleri A.s.)	2.557	 33% (1) -	27-jul-2021 23:32 (13 mins ago)
+125.25.40.37:8080	HTTPS (Mikrotik)	NOA	Thailand (Bangkok)	node-7xh.pool-125-25.dynamic.totinternet.net (TOT Public Company Limited)	2.7	 26% (254) -	27-jul-2021 23:31 (14 mins ago)
+103.239.147.129:54623	HTTPS	HIA	India (Baola)	103.239.147.129.static.fiberpipe.in (Fiberpipe communications pvt. ltd)	5.404	 14% (31) -	27-jul-2021 23:30 (15 mins ago)
+110.37.228.212:3128	HTTPS (Mikrotik)	NOA	Pakistan (Karachi)	WGPON-37228-212.wateen.net (National WiMAXIMS environment)	5.767	 18% (5) -	27-jul-2021 23:27 (18 mins ago)
+121.139.218.165:31409	HTTPS	HIA	South Korea (Ansan-si)	121.139.218.165 (Korea Telecom)	13.554	 33% (223) -	27-jul-2021 23:26 (19 mins ago)
+181.36.225.129:999	HTTPS (Mikrotik)	NOA	Dominican Republic (Santo Domingo Este)	ip-225-129.tricom.net (ALTICE DOMINICANA S.A.)	3.185	 41% (9) +	27-jul-2021 23:26 (19 mins ago)
+180.211.192.60:8080	HTTPS	HIA	Bangladesh (Bagerhat)	180.211.192.60 (Bangladesh Telecommunications Company Limited BTCL, Nationwide PSTN Operator and Data and In)	8.843	 43% (13) +	27-jul-2021 23:24 (21 mins ago)
+103.215.149.46:8060	HTTPS (Mikrotik)	NOA	India (Navi Mumbai) !!!	103.215.149.46 (Cloudnet Communications Pvt Ltd)	4.583	 57% (8) -	27-jul-2021 23:17 (29 mins ago)
+45.175.238.32:999	HTTPS (Mikrotik)	NOA	Mexico (Actopan) !!!	host238-32.hulux.mx (HULUX TELECOMUNICACIONES)	4.656	 29% (37) +	27-jul-2021 23:15 (30 mins ago)
+190.226.32.218:8090	HTTPS (Mikrotik)	NOA	Argentina (Nueve de Julio) !!!	host218.190-226-32.telecom.net.ar (XF Comunicaciones S.A.)	5.534	 60% (9) -	27-jul-2021 23:13 (32 mins ago)
+170.0.233.59:999	HTTPS (Mikrotik)	NOA	Peru (Lima) !!!	170.0.233.59 (OPTICAL TECHNOLOGIES S.A.C.)	6.543	 24% (5) -	27-jul-2021 23:09 (36 mins ago)
+45.177.147.157:999	HTTPS (Mikrotik)	NOA	Argentina (General Rodriguez) !!!	Static-aacc157.netlatin.net.ar (NETLATIN S.R.L.)	4.755	 38% (25) +	27-jul-2021 23:08 (37 mins ago)
+190.110.204.194:999	HTTPS (Mikrotik)	NOA	Ecuador (Quito) !!!	corp-190-110-204-194.gye.puntonet.ec (PUNTONET S.A.)	8.143	 44% (8) +	27-jul-2021 23:07 (38 mins ago)
+160.16.126.232:3128	HTTPS	HIA	Japan (Tokyo)	tk2-239-29228.vs.sakura.ne.jp (SAKURA Internet Inc.)	3.911	 21% (13) -	27-jul-2021 22:58 (47 mins ago)
+103.196.234.209:8080	HTTPS (Mikrotik)	NOA	Bangladesh (Tejgaon)	103.196.234.209 (Dhaka Fiber Net Limited)	8.508	 14% (40) -	27-jul-2021 22:56 (49 mins ago)
+180.150.205.162:8080	HTTPS	HIA	South Korea (Gangseo-gu)	180.150.205.162 (SK Broadband Co Ltd)	2.391	 22% (15) -	27-jul-2021 22:53 (52 mins ago)
+183.88.194.224:8080	HTTPS (Mikrotik)	NOA	Thailand (Chachoengsao)	mx-ll-183.88.194-224.dynamic.3bb.in.th (JasTel Network International Gateway)	1.27	 60% (3) +	27-jul-2021 22:49 (56 mins ago)
+8.210.157.49:17309	HTTPS	ANM	Hong Kong (Central) !!!	8.210.157.49 (Alibaba US Technology Co., Ltd.)	1.614	 63% (45) -	27-jul-2021 22:46 (59 mins ago)
+186.3.213.151:999	HTTPS (Mikrotik)	NOA	Ecuador (Babahoyo) !!!	host-186-3-213-151.netlife.ec (Telconet S.A)	4.224	 63% (15) -	27-jul-2021 22:44 (1 hours ago)
+200.122.240.179:999	HTTPS (Mikrotik)	NOA	Colombia (Bogotá) !!!	static-dedicado-200-122-240-179.une.net.co (EPM Telecomunicaciones S.A. E.S.P.)	10.604	 new +	27-jul-2021 22:40 (1 hours ago)
+104.129.196.158:8800	HTTPS	ANM	United States (North Olmsted)	104.129.196.158 (ZSCALER-SJC1)	0.955	 100% (7) +	27-jul-2021 22:39 (1 hours ago)
+138.36.151.18:8090	HTTPS (Mikrotik)	NOA	Argentina (Mariano Moreno) !!!	138.36.151.18 (Pedraza Luis Eduardo DANEZ)	6.373	 25% (1) -	27-jul-2021 22:38 (1 hours ago)
+190.124.30.145:999	HTTPS (Mikrotik)	NOA	Venezuela (Maracaibo)	host-pool3-145-dynamic.airteknet.com (Airtek Solutions C.A.)	0.989	 84% (47) -	27-jul-2021 22:37 (1 hours ago)
+45.174.240.93:999	HTTPS (Mikrotik)	NOA	Mexico (Campeche) !!!	host240-93.mayaconnection.com.mx (SISTEMAS Y SOLUCIONES DE CAMPECHE SAS DE CV)	1.129	 86% (6) +	27-jul-2021 22:36 (1 hours ago)
+210.212.128.246:8080	HTTPS (Squid)	NOA	India (Vadodara)	210.212.128.246 (National Internet Backbone)	1.236	 65% (15) +	27-jul-2021 22:36 (1 hours ago)
+197.155.83.17:8080	HTTPS (Mikrotik)	NOA	Kenya (Nairobi) !!!	197.155.83.17.liquidtelecom.net (Liquid Telecommunications Ltd)	2.145	 20% (135) -	27-jul-2021 22:35 (1 hours ago)
+45.174.78.33:999	HTTPS (Mikrotik)	NOA	Mexico (Ciudad Juárez) !!!	host-45-174-78-33.nidix.mx (RAUL DUARTE URITA)	10.625	 26% (33) -	27-jul-2021 22:34 (1 hours ago)
+185.32.6.129:8090	HTTPS (Mikrotik)	NOA	Poland (Recz) !!!	185.32.6.129 (AS Consulting Sp. z o. o.)	0.502	 44% (7) +	27-jul-2021 22:32 (1 hours ago)
+45.70.198.231:8080	HTTPS (Mikrotik)	NOA	Ecuador (Ambato)	host-45-70-198-231.nedetel.net (NEDETEL S.A.)	13.542	 45% (10) -	27-jul-2021 22:31 (1 hours ago)
+190.95.134.124:999	HTTPS (Mikrotik)	NOA	Ecuador !!!	190.95.134.124 (Telconet S.A)	1.48	 100% (12) +	27-jul-2021 22:28 (1 hours ago)
+190.2.215.210:999	HTTPS (Mikrotik)	NOA	Colombia (Giron)	azteca-comunicaciones.com (TV AZTECA SUCURSAL COLOMBIA)	5.173	 31% (5) -	27-jul-2021 22:26 (1 hours ago)
+103.35.134.30:83	HTTPS (Mikrotik)	NOA	India (Pune)	103.35.134.30 (Shah Infinite Solutions Pvt. Ltd.)	2.519	 33% (4) -	27-jul-2021 22:24 (1 hours ago)
+45.173.6.145:999	HTTPS (Mikrotik)	NOA	Colombia (Ibague) !!!	45-173-6-145.ims-ipv4.com (COLUMBUS NETWORKS COLOMBIA)	4.827	 18% (22) +	27-jul-2021 22:22 (1 hours ago)
+91.186.102.169:8082	HTTPS (Mikrotik)	NOA	Russia (Noril`sk)	host-91-186-102-169.bb.norilsk.mts.ru (MTS PJSC)	2.002	 48% (10) -	27-jul-2021 22:11 (1 hours ago)
+177.37.161.4:41819	HTTPS	HIA	Brazil (Acopiara)	177.37.161.4 (BRISANET SERVICOS DE TELECOMUNICACOES LTDA)	4.027	 4% (6) -	27-jul-2021 22:08 (1 hours ago)
+195.154.106.59:5566	HTTPS	HIA	France (Ivry-sur-Seine) !!!	195-154-106-59.rev.poneytelecom.eu (Online S.a.s.)	6.513	 67% (16) +	27-jul-2021 21:52 (1 hours ago)
+194.233.69.90:443	HTTPS	HIA	Singapore (Singapore)	vmi619921.contaboserver.net (Contabo Asia Private Limited)	2.869	 44% (4) +	27-jul-2021 21:52 (1 hours ago)
+79.143.87.136:9090	HTTPS (Squid)	ANM	United Kingdom (Manchester) !!!	79.143.87.136 (Hydra Communications Ltd)	7.945	 44% (33) -	27-jul-2021 21:49 (1 hours ago)
+188.158.220.170:8080	HTTPS (Mikrotik)	NOA	Iran	adsl-188-158-220-170.sabanet.ir (Parvaresh Dadeha Co. Private Joint Stock)	1.473	 45% (13) -	27-jul-2021 21:48 (1 hours ago)
+41.254.48.29:8080	HTTPS (Mikrotik)	ANM	Libyan Arab Jamahiriya (Tripoli)	41.254.48.29 (General Post and Telecommunication Company)	2.621	 27% (4) +	27-jul-2021 21:48 (1 hours ago)
+91.197.56.2:3128	HTTPS	HIA	Ukraine	91.197.56.2 (Prikarpat Zakhid Trans LLC)	2.367	 31% (4) -	27-jul-2021 21:40 (2 hours ago)
+104.129.196.154:8800	HTTPS	ANM	United States (North Olmsted)	104.129.196.154 (ZSCALER-SJC1)	0.457	 67% (2) +	27-jul-2021 21:20 (2 hours ago)
+177.53.155.10:999	HTTPS (Mikrotik)	NOA	Peru !!!	177-53-155-10.liber.com.pe (MORENO YANOC NEMIAS BERNARDO)	1.384	 67% (2) +	27-jul-2021 21:19 (2 hours ago)
+181.129.235.182:999	HTTPS (Mikrotik)	NOA	Colombia (Ibague) !!!	adsl-181-129-235-182.une.net.co (EPM Telecomunicaciones S.A. E.S.P.)	1.571	 22% (23) -	27-jul-2021 21:12 (2 hours ago)
+139.59.225.4:3128	HTTPS (Squid)	NOA	Singapore (Singapore)	139.59.225.4 (DIGITALOCEAN-ASN)	0.941	 36% (5) +	27-jul-2021 21:04 (2 hours ago)
+68.183.221.156:43490	HTTPS	HIA	Germany (Frankfurt am Main) !!!	classifiedads-dk-crawler.futudata.com (DIGITALOCEAN-ASN)	1.693	 new	27-jul-2021 20:56 (2 hours ago)
+182.93.10.83:8090	HTTPS (Squid)	NOA	Macao (Macao) !!!	n18293z10l83.static.ctmip.net (Companhia de Telecomunicacoes de Macau SARL)	1.454	 89% (16) +	27-jul-2021 20:48 (2 hours ago)
+195.7.9.141:8080	HTTPS	HIA	Iraq (Mosul)	195.7.9.141 (Softlink LTD)	5.365	 15% (80) -	27-jul-2021 20:40 (3 hours ago)
+50.192.195.69:52018	HTTPS	HIA	United States (Midvale)	50-192-195-69-static.hfc.comcastbusiness.net (COMCAST-7922)	9.371	 20% (241) -	27-jul-2021 20:39 (3 hours ago)
+68.208.51.61:8080	HTTPS (Mikrotik)	NOA	United States !!!	68.208.51.61 (UPTEL)	9.571	 42% (27) -	27-jul-2021 20:37 (3 hours ago)
+173.212.220.96:3128	HTTPS (Squid)	NOA	Germany (Nuremberg)	vmi139051.contaboserver.net (Contabo GmbH)	11.074	 71% (42) +	27-jul-2021 20:29 (3 hours ago)
+103.199.99.82:8080	HTTPS (Mikrotik)	NOA	India (Nashik)	103.199.99.82 (Maxtech Broadband Pvt Ltd)	9.683	 18% (18) +	27-jul-2021 20:27 (3 hours ago)
+40.91.94.165:3128	HTTPS (Squid)	NOA	United States	40.91.94.165 (MICROSOFT-CORP-MSN-AS-BLOCK)	1.587	 70% (80) +	27-jul-2021 20:20 (3 hours ago)
+187.49.83.153:8080	HTTPS (Mikrotik)	NOA	Brazil (Matelandia) !!!	153.83.49.187.dipelnet.com.br (DIGITAL DESIGN SERVICOS DE TELECOMUNICACOES EIRELI)	11.992	 23% (28) -	27-jul-2021 20:18 (3 hours ago)
+91.93.156.130:8080	HTTPS (Mikrotik)	NOA	Turkey (Istanbul)	ankara.earth.com.tr (Tellcom Iletisim Hizmetleri A.s.)	0.523	 15% (86) -	27-jul-2021 20:16 (3 hours ago)
+185.82.176.34:8080	HTTPS (Mikrotik)	NOA	Russia (Domodedovo)	185.82.176.34 (ZagorodTelecom LLC)	1.195	 25% (18) +	27-jul-2021 20:16 (3 hours ago)
+149.126.98.162:9090	HTTPS	HIA	Russia (Moscow)	149-126-98-162.in-addr.netone.ru (NetOne Rus JSC)	10.556	 27% (11) -	27-jul-2021 20:12 (3 hours ago)
+109.195.194.79:60992	HTTPS	HIA	Russia (Ulyanovsk)	109.195.194.79.in-addr.arpa (JSC ER-Telecom Holding)	6.159	 16% (59) -	27-jul-2021 20:12 (3 hours ago)
+46.229.67.198:47437	HTTPS	HIA	Russia (Barnaul)	host-46-229-67-198.avantel.ru (JSC Avantel)	5.235	 32% (124) +	27-jul-2021 20:08 (3 hours ago)
+185.100.196.56:8080	HTTPS (Mikrotik)	NOA	Czech Republic (Ricany) !!!	56-196-100-185.interconnect.cz (pragmatel s.r.o.)	8.731	 23% (50) -	27-jul-2021 19:42 (4 hours ago)
+5.188.114.54:8081	HTTPS (Mikrotik)	NOA	Russia	5.188.114.54 (OOO Network of data-centers Selectel)	4.761	 72% (58) +	27-jul-2021 19:38 (4 hours ago)
+179.49.114.95:999	HTTPS (Mikrotik)	NOA	Honduras (Santa Barbara)	block1-114-static-95.asinetwork.hn (ASOCIACION DE SERVICIO DE INTERNET S. DE RL.)	6.028	 59% (13) -	27-jul-2021 19:22 (4 hours ago)
+183.89.83.113:8080	HTTPS (Mikrotik)	NOA	Thailand (Kantharalak)	mx-ll-183.89.83-113.dynamic.3bb.co.th (JasTel Network International Gateway)	7.638	 25% (1) -	27-jul-2021 19:09 (4 hours ago)
+138.122.8.74:8080	HTTPS (Mikrotik)	NOA	Brazil (Redencao)	8-122-138-74.grupojcc.com.br (JC TELECOM SERVICOS DE TELECOMUNICACOES LTDA EPP)	1.572	 56% (27) +	27-jul-2021 18:41 (5 hours ago)
+27.72.149.205:8080	HTTPS (Mikrotik)	NOA	VietNam (Hanoi)	27.72.149.205 (Viettel Group)	5.718	 12% (36) -	27-jul-2021 18:34 (5 hours ago)
+202.134.144.239:8080	HTTPS (Mikrotik)	NOA	India (Mumbai)	202.134.144.239.customer.7starnet.com (Seven Star Internet Service Provider)	3.986	 53% (8) -	27-jul-2021 18:32 (5 hours ago)
+190.95.134.121:999	HTTPS (Mikrotik)	NOA	Ecuador !!!	190.95.134.121 (Telconet S.A)	1.463	 100% (5) +	27-jul-2021 18:29 (5 hours ago)
+89.208.35.81:3128	HTTPS (Squid)	NOA	Russia (Reutov)	89.208.35.81 (LLC Digital Network)	6.25	 28% (177) +	27-jul-2021 18:27 (5 hours ago)
+197.211.51.28:8080	HTTPS (Mikrotik)	NOA	Nigeria (Suleja)	197.211.51.28 (globacom-as)	0.78	 33% (1) +	27-jul-2021 18:27 (5 hours ago)
+141.0.180.242:8080	HTTPS (Mikrotik)	NOA	Russia (Samara)	141.0.180.242.samara.svrv.ru (JSC Avantel)	6.842	 19% (149) +	27-jul-2021 18:26 (5 hours ago)
+94.140.208.226:8080	HTTPS (Mikrotik)	NOA	Russia (St Petersburg)	94.140.208.226.ptspb.ru (Prometey LLC)	2.259	 32% (337) -	27-jul-2021 18:25 (5 hours ago)
+62.152.75.110:50287	HTTPS	HIA	Russia (St Petersburg)	ctpress.ru (MTS PJSC)	7.371	 31% (145) +	27-jul-2021 18:24 (5 hours ago)
+177.73.151.33:9999	HTTPS (Mikrotik)	NOA	Brazil (Figueira) !!!	177-73-151-33.franet.com.br (FRANET TELECOM)	5.253	 44% (4) +	27-jul-2021 18:21 (5 hours ago)
+191.176.43.57:8080	HTTPS	ANM	Brazil (Brasília)	bfb02b39.virtua.com.br (CLARO S.A.)	9.029	 33% (1) +	27-jul-2021 18:16 (5 hours ago)
+31.145.30.44:9090	HTTPS (Mikrotik)	NOA	Turkey (Istanbul) !!!	31.145.30.44 (Vodafone Net Iletisim Hizmetleri Anonim Sirketi)	4.609	 67% (2) -	27-jul-2021 18:14 (5 hours ago)
+103.155.54.94:84	HTTPS (Mikrotik)	NOA	India (Haldia) !!!	103.155.54.94 (Pegasuswave Private Limited)	1.752	 80% (8) +	27-jul-2021 18:11 (5 hours ago)
+131.0.4.246:8080	HTTPS (Mikrotik)	NOA	Brazil (Guarei)	131-0-4-246.dynamic.nvtel.com.br (NOVA NET TECNOLOGIA LTDA - ME)	2.191	 25% (1) +	27-jul-2021 18:10 (5 hours ago)
+27.116.51.115:8080	HTTPS	HIA	India (Ahmedabad)	27.116.51.115 (Gujarat Telelink Pvt Ltd)	1.597	 44% (194) -	27-jul-2021 18:09 (5 hours ago)
+201.220.112.106:999	HTTPS (Mikrotik)	NOA	Chile (Lautaro) !!!	201.220.112.106 (Telefonica del Sur S.A.)	2.855	 45% (10) +	27-jul-2021 18:08 (5 hours ago)
+103.110.109.139:3127	HTTPS (Mikrotik)	NOA	Maldives !!!	103.110.109.139 (SatLink Pvt Ltd)	4.904	 55% (6) +	27-jul-2021 17:58 (5 hours ago)
+176.214.35.58:1256	HTTPS (Mikrotik)	NOA	Russia (Pushkino)	176x214x35x58.dynamic.tula.ertelecom.ru (JSC ER-Telecom Holding)	1.142	 29% (15) -	27-jul-2021 17:54 (5 hours ago)
+77.242.98.241:53281	HTTPS	HIA	Russia (Tyumen)	77.242.98.241 (Russian company LLC)	3.225	 25% (9) -	27-jul-2021 17:52 (5 hours ago)
+143.255.53.29:3128	HTTPS (Mikrotik)	NOA	Brazil (Sao Raimundo Nonato)	143.255.53.29.oxentenet.com.br (OXENTE NET EMPREENDIMENTOS LTDA - EPP)	3.972	 30% (46) -	27-jul-2021 17:51 (5 hours ago)
+206.189.15.249:3128	HTTPS (Squid)	NOA	Netherlands (Amsterdam)	206.189.15.249 (DIGITALOCEAN-ASN)	6.067	 44% (7) +	27-jul-2021 17:50 (5 hours ago)
+14.170.154.10:8080	HTTPS (Mikrotik)	NOA	VietNam (Thai Nguyen)	static.vnpt.vn (VNPT Corp)	5.629	 24% (71) +	27-jul-2021 17:49 (5 hours ago)
+181.209.101.26:8081	HTTPS (Mikrotik)	NOA	Argentina (Victoria)	26.101.209.181.in-addr.arpa (Empresa Argentina de Soluciones Satelitales S.A.)	2.779	 22% (51) -	27-jul-2021 17:49 (5 hours ago)
+45.189.252.10:999	HTTPS (Mikrotik)	NOA	Mexico (Alvarado)	45.189.252.10 (TRACERED SA DE CV)	3.825	 50% (4) -	27-jul-2021 17:49 (5 hours ago)
+176.214.97.55:1256	HTTPS (Mikrotik)	NOA	Russia (Vidnoye)	176x214x97x55.msk.enforta.com (JSC ER-Telecom Holding)	3.845	 10% (5) -	27-jul-2021 17:48 (5 hours ago)
+212.175.191.92:8080	HTTPS	HIA	Turkey (Ankara) !!!	212.175.191.92.static.ttnet.com.tr (Turk Telekom)	5.854	 25% (63) -	27-jul-2021 17:45 (6 hours ago)
+179.1.80.17:999	HTTPS (Mikrotik)	NOA	Colombia (Pasto) !!!	179.1.80.17 (INTERNEXA BRASIL OPERADORA DE TELECOMUNICACOES S.A)	7.498	 14% (3) -	27-jul-2021 17:45 (6 hours ago)
+45.226.226.109:8080	HTTPS (Mikrotik)	NOA	Argentina (Pocito) !!!	45.226.226.109 (CORTEZ RAUL OMAR ZETRO INTERNET)	1.879	 45% (10) +	27-jul-2021 17:45 (6 hours ago)
+165.16.34.1:8080	HTTPS (Mikrotik)	NOA	Libyan Arab Jamahiriya !!!	165.16.34.1 (Aljeel-net)	1.558	 15% (71) -	27-jul-2021 17:43 (6 hours ago)
+192.162.192.148:55443	HTTPS	HIA	Russia (Uglich)	192.162.192.148 (Sigma-Net Ltd.)	2.031	 18% (81) +	27-jul-2021 17:43 (6 hours ago)
+143.255.52.102:31158	HTTPS	HIA	Brazil (Casa Nova) !!!	143.255.52.102.oxentenet.com.br (OXENTE NET EMPREENDIMENTOS LTDA - EPP)	11.745	 19% (22) +	27-jul-2021 17:41 (6 hours ago)
+85.133.130.18:8080	HTTPS	ANM	Iran	85.133.130.18.pos-1-0.7tir.sepanta.net (Sepanta Communication Development Co. Ltd)	3.48	 23% (56) -	27-jul-2021 17:40 (6 hours ago)
+154.0.15.166:46547	HTTPS	HIA	South Africa (Pretoria)	u33a-cust.coolideas.co.za (COOL-IDEAS)	2.742	 28% (173) -	27-jul-2021 17:39 (6 hours ago)
+103.109.58.54:8080	HTTPS	HIA	Bangladesh (Noakhali)	103.109.58.54 (SKYNET CHOWMUHANI)	9.389	 21% (92) -	27-jul-2021 17:39 (6 hours ago)
+152.101.74.178:8080	HTTPS	HIA	Hong Kong	152-101-74-178.static.hk.net (CITIC Telecom International CPC Limited)	4.529	 43% (20) +	27-jul-2021 17:38 (6 hours ago)
+168.195.228.171:8080	HTTPS (Mikrotik)	NOA	Brazil (Joinville)	168-195-228-171.otinternet.com.br (O T Tecnologia Em Informatica Ltda)	1.523	 29% (5) +	27-jul-2021 17:37 (6 hours ago)
+95.154.104.147:44393	HTTPS	HIA	Russia (Vladivostok)	95.154.104.147 (Octopusnet LTD)	5.839	 15% (39) -	27-jul-2021 17:37 (6 hours ago)
+93.170.82.164:3128	HTTPS (Mikrotik)	NOA	Russia (Belgorod)	93.170.82.164 (BTC Ltd.)	7.696	 10% (5) -	27-jul-2021 17:37 (6 hours ago)
+180.94.86.252:8080	HTTPS (Mikrotik)	NOA	Afghanistan	180.94.86.252 (AFGHANTELECOM GOVERNMENT COMMUNICATION NETWORK)	3.825	 44% (4) +	27-jul-2021 17:35 (6 hours ago)
+77.236.239.95:1256	HTTPS (Mikrotik)	NOA	Russia (Moscow)	95.239.236.77.msk.enforta.com (JSC ER-Telecom Holding)	2.376	 25% (33) +	27-jul-2021 17:35 (6 hours ago)
+135.181.243.216:8080	HTTPS (Mikrotik)	NOA	Finland (Helsinki)	ficus.hddbit.com (Hetzner Online GmbH)	1.918	 36% (16) -	27-jul-2021 17:30 (6 hours ago)
+202.69.38.82:8080	HTTPS (Mikrotik)	NOA	Pakistan (Lahore)	202.69.38.82 (GERRYS INFORMATION TECHNOLOGY PVT LTD.)	6.789	 32% (611) -	27-jul-2021 17:29 (6 hours ago)
+37.29.99.242:8088	HTTPS (Mikrotik)	NOA	Russia	37.29.99.242 (PJSC MegaFon)	2.063	 31% (4) +	27-jul-2021 17:29 (6 hours ago)
+80.244.230.86:8080	HTTPS (Mikrotik)	NOA	Russia (Moscow)	86.230.244.80.msk.enforta.com (JSC ER-Telecom Holding)	8.775	 20% (43) -	27-jul-2021 17:28 (6 hours ago)
+103.79.216.241:8080	HTTPS (Mikrotik)	NOA	Bangladesh !!!	103.79.216.241 (Geotel Bangladesh IT Ltd.)	3.919	 15% (71) -	27-jul-2021 17:27 (6 hours ago)
+200.29.111.233:999	HTTPS (Mikrotik)	NOA	Colombia (Santiago de Cali)	dsl-emcali-200.29.111.233.emcali.net.co (EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P.)	1.236	 50% (2) +	27-jul-2021 17:26 (6 hours ago)
+111.118.218.126:8080	HTTPS (Mikrotik)	NOA	Australia (Richmond)	126-218-118-111.static.broadbandsolutions.com.au (Broadband Solutions Pty Ltd)	2.346	 31% (5) -	27-jul-2021 17:24 (6 hours ago)
+94.180.249.187:38051	HTTPS	HIA	Russia (Kazan’)	94x180x249x187.static-business.kzn.ertelecom.ru (JSC ER-Telecom Holding)	2.527	 34% (166) -	27-jul-2021 17:24 (6 hours ago)
+201.222.5.193:999	HTTPS (Mikrotik)	NOA	Venezuela !!!	201.222.5.193 (RED DOT TECHNOLOGIES, C.A.)	9.028	 63% (5) -	27-jul-2021 17:22 (6 hours ago)
+76.80.19.107:8080	HTTPS (Mikrotik)	NOA	United States (San Bernardino)	rrcs-76-80-19-107.west.biz.rr.com (TWC-20001-PACWEST)	4.048	 35% (34) -	27-jul-2021 17:19 (6 hours ago)
+45.195.56.117:808	HTTPS	HIA	Hong Kong !!!	45.195.56.117 (HK AISI CLOUD COMPUTING LIMITED)	1.213	 17% (1) -	27-jul-2021 17:17 (6 hours ago)
+200.37.187.186:999	HTTPS (Mikrotik)	NOA	Peru (Huánuco) !!!	200.37.187.186 (Telefonica del Peru S.A.A.)	2.87	 32% (29) -	27-jul-2021 17:09 (6 hours ago)
+209.40.237.43:8080	HTTPS (Mikrotik)	NOA	United States (Potosi)	209.40.237.43 (BDN)	14.186	 24% (139) -	27-jul-2021 17:00 (6 hours ago)
+157.230.103.189:35173	HTTPS	HIA	Germany (Frankfurt am Main) !!!	classifiedads-se-crawler-2.futudata.com (DIGITALOCEAN-ASN)	2.399	 100% (2) +	27-jul-2021 16:44 (7 hours ago)
+103.104.214.26:3127	HTTPS (Mikrotik)	NOA	Pakistan (Lahore) !!!	103.104.214.26 (Netze Technology Private Limited)	0.925	 22% (71) +	27-jul-2021 16:41 (7 hours ago)
+64.56.218.185:8080	HTTPS (Mikrotik)	NOA	United States (Greenwood) !!!	64.56.218.185 (UPTEL)	4.177	 22% (2) -	27-jul-2021 16:21 (7 hours ago)
+103.195.72.1:84	HTTPS (Mikrotik)	NOA	India (Murshidabad) !!!	103.195.72.1 (cloudsky superfast broadband and services Pvt Ltd)	3.397	 40% (2) -	27-jul-2021 16:21 (7 hours ago)
+34.126.181.202:3128	HTTPS (Squid)	NOA	Singapore (Singapore)	202.181.126.34.bc.googleusercontent.com (GOOGLE)	2.897	 34% (30) +	27-jul-2021 16:18 (7 hours ago)
+79.127.56.147:8080	HTTPS (Mikrotik)	NOA	Iran	79.127.56.147 (Asiatech Data Transmission company)	4.032	 28% (77) -	27-jul-2021 16:10 (7 hours ago)
+138.201.114.61:8080	HTTPS (Mikrotik)	NOA	Germany	static.61.114.201.138.clients.your-server.de (Hetzner Online GmbH)	4.417	 39% (37) -	27-jul-2021 16:01 (7 hours ago)
+140.227.31.223:6000	HTTPS	HIA	Japan (Nagasaki)	140-227-31-223.vpscloud.static.arena.ne.jp (NTT PC Communications, Inc.)	4.063	 31% (34) -	27-jul-2021 15:48 (7 hours ago)
+195.78.112.235:42549	HTTPS	HIA	Ukraine (Kyiv)	195.78.112.235 (PrJSC Valex)	3.359	 13% (42) -	27-jul-2021 15:45 (8 hours ago)
+91.218.244.153:8080	HTTPS	HIA	Russia	91.218.244.153 (Hostkey B.v.)	4.599	 19% (60) -	27-jul-2021 15:44 (8 hours ago)
+185.67.95.179:3128	HTTPS	HIA	Russia (St Petersburg)	relay2.meter.ru (Elitel Telecom Group Ltd)	1.849	 17% (149) -	27-jul-2021 15:41 (8 hours ago)
+190.216.234.201:999	HTTPS (Mikrotik)	NOA	Venezuela !!!	190.216.234.201 (LVLT-3549)	4.818	 30% (3) -	27-jul-2021 15:40 (8 hours ago)
+81.95.33.54:8090	HTTPS	HIA	Russia (Khimki)	sugarcrm.bsh.ru (Scientific-Production Enterprise Business Sviaz Holding LLC)	7.933	 32% (6) -	27-jul-2021 15:34 (8 hours ago)
+104.129.196.170:8800	HTTPS	ANM	United States (North Olmsted)	104.129.196.170 (ZSCALER-SJC1)	0.462	 100% (6) +	27-jul-2021 15:31 (8 hours ago)
+200.124.228.225:8080	HTTPS (Mikrotik)	NOA	Ecuador (Quito)	200.124.228.225 (Ecuadortelecom S.A.)	5.419	 40% (4) -	27-jul-2021 15:20 (8 hours ago)
+190.121.13.138:999	HTTPS (Mikrotik)	NOA	Chile (Temuco) !!!	190.121.13.138 (Telefonica del Sur S.A.)	5.312	 39% (32) +	27-jul-2021 15:19 (8 hours ago)
+45.167.125.129:9991	HTTPS (Mikrotik)	NOA	Colombia (Popayán)	45.167.125.129 (SEPCOM COMUNICACIONES SAS)	1.845	 56% (75) -	27-jul-2021 15:18 (8 hours ago)
+190.103.86.254:8080	HTTPS (Mikrotik)	NOA	Argentina (Totoras) !!!	host254.86.103.190.datalinksrl.com.ar (Datalink SRL)	5.914	 33% (4) -	27-jul-2021 15:17 (8 hours ago)
+115.74.254.226:8080	HTTPS (Squid)	NOA	VietNam (Bien Hoa)	115.74.254.226 (Viettel Group)	4.012	 79% (23) +	27-jul-2021 15:12 (8 hours ago)
+201.159.176.57:999	HTTPS (Mikrotik)	NOA	Mexico (Tijuana) !!!	201.159.176.57 (Bajanet Comunicaciones, S.A. de C.V.)	4.312	 69% (9) -	27-jul-2021 15:04 (8 hours ago)
+195.224.212.226:8080	HTTPS (Mikrotik)	NOA	United Kingdom (Melton Mowbray)	195.224.212.226 (Daisy Corporate Services Trading Ltd)	1.019	 29% (28) -	27-jul-2021 14:53 (8 hours ago)
+3.96.119.90:8081	HTTPS	HIA	Canada (Montreal)	ec2-3-96-119-90.ca-central-1.compute.amazonaws.com (AMAZON-02)	1.88	 71% (47) +	27-jul-2021 14:51 (8 hours ago)
+195.46.124.94:4444	HTTPS (Mikrotik)	NOA	Russia (Angarsk)	94-124-46-195.pppoe.irtel.ru (Rostelecom)	2.506	 25% (127) +	27-jul-2021 14:50 (8 hours ago)
+102.182.233.112:8080	HTTPS (Mikrotik)	NOA	South Africa (Johannesburg)	102-182-233-112.ip.afrihost.joburg (Afrihost)	3.031	 71% (15) -	27-jul-2021 13:30 (10 hours ago)
+200.25.48.72:3128	HTTPS (Squid)	NOA	United States (Miami)	200.25.48.72 (EDGEUNO SAS)	10.912	 36% (49) +	27-jul-2021 12:52 (10 hours ago)
+46.8.247.3:50967	HTTPS	HIA	Russia (Khasavyurt)	46.8.247.3 (Saypudinov Ayatula)	6.102	 18% (68) -	27-jul-2021 12:45 (11 hours ago)
+83.136.186.193:9991	HTTPS (Mikrotik)	NOA	Spain (Valencia) !!!	83.136.186.193 (Prored Comunicaciones, S.L.)	3.045	 55% (29) -	27-jul-2021 12:42 (11 hours ago)
+81.134.57.82:3128	HTTPS (Squid)	NOA	United Kingdom (Paignton)	host81-134-57-82.in-addr.btopenworld.com (British Telecommunications PLC)	2.684	 36% (232) -	27-jul-2021 12:37 (11 hours ago)
+65.182.5.212:8080	HTTPS (Mikrotik)	NOA	United States	65.182.5.212 (METRORED S.A. DE C.V.)	9.715	 27% (373) -	27-jul-2021 12:35 (11 hours ago)
+84.236.196.2:18080	HTTPS (Mikrotik)	NOA	Spain (Nijar) !!!	84.236.196.2 (ServiHosting Networks S.L.)	4.333	 44% (15) -	27-jul-2021 12:35 (11 hours ago)
+163.172.221.209:443	HTTPS	HIA	Netherlands (Amsterdam)	163-172-221-209.rev.poneytelecom.eu (Online S.a.s.)	0.864	 35% (79) -	27-jul-2021 12:32 (11 hours ago)
+190.90.252.201:999	HTTPS (Mikrotik)	NOA	Colombia (Ocaña) !!!	190.90.252.201 (INTERNEXA BRASIL OPERADORA DE TELECOMUNICACOES S.A)	11.499	 28% (59) -	27-jul-2021 12:31 (11 hours ago)
+85.234.38.166:3128	HTTPS	NOA	Russia (Penza)	static-85-234-38-166.ptcomm.ru (MTS PJSC)	3.204	 11% (38) -	27-jul-2021 12:20 (11 hours ago)
+201.49.84.17:92	HTTPS (Mikrotik)	NOA	Brazil (Potirendaba) !!!	201.49.84.17 (Ensite Brasil Telecomunicacoes Ltda - ME)	1.504	 37% (7) -	27-jul-2021 12:18 (11 hours ago)
+88.255.108.4:8080	HTTPS (Mikrotik)	NOA	Turkey (Istanbul) !!!	88.255.108.4.static.ttnet.com.tr (Turk Telekom)	3.01	 23% (3) -	27-jul-2021 12:18 (11 hours ago)
+213.6.98.169:8080	HTTPS (Mikrotik)	NOA	Palestinian Territory (Bethlehem) !!!	213.6.98.169 (Palestine Telecommunications Company (PALTEL))	3.977	 14% (24) -	27-jul-2021 12:15 (11 hours ago)
+78.186.140.195:9090	HTTPS (Mikrotik)	NOA	Turkey (Izmir)	78.186.140.195.static.ttnet.com.tr (Turk Telekom)	0.757	 45% (5) -	27-jul-2021 12:06 (11 hours ago)
+43.241.135.150:8080	HTTPS (Mikrotik)	NOA	India (Parbhani) !!!	150-135-241-43.intechonline.net (Intech Online Private Limited)	0.786	 10% (27) -	27-jul-2021 12:06 (11 hours ago)
+91.93.118.3:8090	HTTPS (Mikrotik)	NOA	Turkey (Istanbul) !!!	host-91-93-118-3.reverse.superonline.net (Tellcom Iletisim Hizmetleri A.s.)	2.172	 63% (5) +	27-jul-2021 12:01 (11 hours ago)
+45.229.33.34:999	HTTPS (Mikrotik)	NOA	Dominican Republic (Santo Domingo Este)	45.229.33.34 (Gold Data C.A.)	1.115	 50% (1) +	27-jul-2021 12:00 (11 hours ago)
+121.134.38.140:8080	HTTPS	HIA	South Korea (Gangnam-gu)	121.134.38.140 (Korea Telecom)	1.484	 43% (3) +	27-jul-2021 11:47 (11 hours ago)
+150.129.171.35:30093	HTTPS	HIA	India (Nadiad)	150.129.171.35 (Gujarat Telelink Pvt Ltd)	3.717	 25% (27) -	27-jul-2021 11:39 (12 hours ago)
+185.190.38.150:8080	HTTPS (Mikrotik)	NOA	Albania !!!	185.190.38.150 (Kadri Haxhiaj B.I.)	7.201	 56% (19) +	27-jul-2021 11:35 (12 hours ago)
+78.108.108.9:8080	HTTPS (Mikrotik)	NOA	Czech Republic (Pilsen)	router-halkova.pilsfree.net (FreeTel, s.r.o.)	7.358	 47% (283) -	27-jul-2021 11:34 (12 hours ago)
+185.56.209.114:52342	HTTPS	HIA	Poland (Mnichowice)	185-56-209-114.ip4.greenlan.pl (GreenLan Fiber Sp. z o.o. Sp.k.)	2.5	 13% (38) -	27-jul-2021 11:29 (12 hours ago)
+203.76.114.197:8080	HTTPS (Mikrotik)	NOA	Bangladesh	114.197.nuclear.link3.net (Link3 Technologies Ltd.)	12.59	 18% (92) -	27-jul-2021 11:20 (12 hours ago)
+101.109.255.18:50538	HTTPS	HIA	Thailand (Bang Phlat)	node-1edu.pool-101-109.dynamic.totinternet.net (TOT Public Company Limited)	2.615	 18% (44) -	27-jul-2021 11:18 (12 hours ago)
+213.6.227.38:45730	HTTPS	HIA	Palestinian Territory (Ramallah)	213.6.227.38 (Palestine Telecommunications Company (PALTEL))	9.542	 16% (35) -	27-jul-2021 11:09 (12 hours ago)
+79.108.192.142:999	HTTPS (Mikrotik)	NOA	Spain (Gandia)	79.108.192.142.dyn.user.ono.com (Vodafone Ono, S.A.)	2.729	 29% (11) -	27-jul-2021 11:03 (12 hours ago)
+177.66.47.22:999	HTTPS (Mikrotik)	NOA	Brazil (Santo Cristo) !!!	47.66.177.22-rev.noroestenet.com (Magnos A. Both e Cia Ltda)	1.626	 57% (4) +	27-jul-2021 10:59 (12 hours ago)
+45.6.225.190:999	HTTPS (Mikrotik)	NOA	Ecuador !!!	45.6.225.190 (Teneda Corporacion CIA. LTDA)	1.206	 57% (4) +	27-jul-2021 10:58 (12 hours ago)
+79.143.87.117:9090	HTTPS (Squid)	ANM	United Kingdom (Manchester)	79.143.87.117 (Hydra Communications Ltd)	2.042	 50% (35) -	27-jul-2021 10:55 (12 hours ago)
+103.7.27.186:8080	HTTPS (Mikrotik)	NOA	Cambodia (Phnom Penh)	ppp-103.7.27.186.revip.NTT.COM.KH (NTTCTNET)	3.913	 37% (298) -	27-jul-2021 10:54 (12 hours ago)
+203.150.113.30:8080	HTTPS (Mikrotik)	NOA	Thailand (Bangkok)	30.113.150.203.sta.inet.co.th (Internet Thailand Company Limited)	1.459	 29% (5) +	27-jul-2021 10:49 (12 hours ago)
+103.28.84.81:8080	HTTPS (Mikrotik)	NOA	Nepal	103.28.84.81 (TECHMINDS NETWORKS PVT. LTD.)	8.688	 17% (15) -	27-jul-2021 10:35 (13 hours ago)
+89.218.18.102:8080	HTTPS (Mikrotik)	NOA	Kazakhstan (Almaty)	89.218.18.102 (JSC Kazakhtelecom)	1.067	 29% (5) -	27-jul-2021 10:32 (13 hours ago)
+181.40.80.177:999	HTTPS (Mikrotik)	NOA	Paraguay !!!	pool-177-80-40-181.telecel.com.py (Telecel S.A.)	12.239	 40% (8) -	27-jul-2021 10:27 (13 hours ago)
+181.129.74.58:40667	HTTPS	HIA	Colombia (Medellín)	static-181-129-74-58.une.net.co (EPM Telecomunicaciones S.A. E.S.P.)	14.957	 22% (72) -	27-jul-2021 10:27 (13 hours ago)
+103.124.87.1:8080	HTTPS (Mikrotik)	NOA	India (Ranchi) !!!	103.124.87.1 (Streamonn Internet Services Private Limited)	7.905	 38% (26) +	27-jul-2021 10:10 (13 hours ago)
+177.37.176.230:8800	HTTPS	HIA	Brazil (Morada Nova)	177.37.176.230 (BRISANET SERVICOS DE TELECOMUNICACOES LTDA)	11.593	 26% (29) -	27-jul-2021 09:57 (13 hours ago)
+221.155.163.113:8080	HTTPS	HIA	South Korea (Goyang-si)	221.155.163.113 (Korea Telecom)	13.375	 31% (17) -	27-jul-2021 09:55 (13 hours ago)
+181.224.253.30:8090	HTTPS (Mikrotik)	NOA	Peru (Lima) !!!	181.224.253.30 (ECONOCABLE MEDIA SAC)	4.457	 41% (14) +	27-jul-2021 09:45 (14 hours ago)
+62.87.151.132:38615	HTTPS	HIA	Poland (Sepolno Krajenskie)	CLIENT-tvkgaj-1-900.wroclaw.dialog.net.pl (Netia SA)	7.129	 16% (18) -	27-jul-2021 09:42 (14 hours ago)
+210.2.135.60:3128	HTTPS	HIA	Pakistan (Karachi)	static-host210-2-135-60.link.net.pk (LINKdotNET Telecom Limited)	0.765	 67% (4) +	27-jul-2021 09:36 (14 hours ago)
+41.217.219.53:31398	HTTPS	HIA	Malawi	41.217.219.53 (SKYBAND)	2.836	 36% (180) +	27-jul-2021 09:36 (14 hours ago)
+45.6.227.6:999	HTTPS (Mikrotik)	NOA	Ecuador (Ambato) !!!	45.6.227.6 (Teneda Corporacion CIA. LTDA)	5.156	 64% (14) +	27-jul-2021 09:29 (14 hours ago)
+138.185.190.46:8080	HTTPS (Mikrotik)	NOA	Brazil (Pio IX)	vtx-c-190-046.virtex.com.br (Virtex Ltda)	1.648	 25% (26) +	27-jul-2021 08:53 (14 hours ago)
+181.189.243.254:999	HTTPS (Mikrotik)	NOA	Honduras	181.189.243.254 (Columbus Networks de Honduras S. de R.L.)	1.029	 20% (1) +	27-jul-2021 08:40 (15 hours ago)
+164.163.189.29:999	HTTPS (Mikrotik)	NOA	Mexico (Zacapu)	customer-164-163-189-29.gbic.mx (INTERNET TELEFONIA Y TV DE MICHOACAN SA DE CV)	4.097	 37% (15) -	27-jul-2021 08:33 (15 hours ago)
+200.16.208.187:8080	HTTPS (Mikrotik)	NOA	Argentina	host187.advance.com.ar (Telefonica de Argentina)	4.544	 42% (519) +	27-jul-2021 08:30 (15 hours ago)
+8.210.88.234:3128	HTTPS (Squid)	NOA	Hong Kong (Central)	8.210.88.234 (Alibaba US Technology Co., Ltd.)	2.509	 33% (229) -	27-jul-2021 08:29 (15 hours ago)
+103.230.211.29:8080	HTTPS (Mikrotik)	NOA	Bangladesh (Joypurhat)	103.230.211-29.ibds.com.bd (Infobd24 Systems)	2.363	 25% (97) -	27-jul-2021 08:29 (15 hours ago)
+5.149.219.201:8080	HTTPS	HIA	Ukraine (Sevastopol)	host-201-219-149-5.sevstar.net (Lancom Ltd.)	3.289	 33% (17) -	27-jul-2021 08:25 (15 hours ago)
+179.43.96.178:8080	HTTPS (Mikrotik)	NOA	Peru (Arequipa)	179.43.96.178 (GLG PERU SAC)	2.773	 26% (181) +	27-jul-2021 08:25 (15 hours ago)
+186.4.229.47:8080	HTTPS (Mikrotik)	NOA	Ecuador (Quito)	host-186-4-229-47.netlife.ec (Telconet S.A)	4.816	 10% (12) -	27-jul-2021 08:20 (15 hours ago)
+190.115.14.161:9991	HTTPS (Mikrotik)	NOA	Guatemala (Guatemala City)	161.14.115.190.ufinet.com.gt (UFINET PANAMA S.A.)	1.338	 25% (1) +	27-jul-2021 08:18 (15 hours ago)
+190.108.95.162:8080	HTTPS (Mikrotik)	NOA	Peru (Lima)	190.108.95.162 (INTERNEXA PERU S.A)	1.946	 58% (21) +	27-jul-2021 08:16 (15 hours ago)
+45.174.251.7:999	HTTPS (Mikrotik)	NOA	Mexico (Morelia) !!!	45.174.251.7 (Wifmax S.A de C.V.)	6.711	 40% (12) -	27-jul-2021 08:16 (15 hours ago)
+91.202.240.208:51678	HTTPS	HIA	Ukraine (Bibrka)	dun240-208.martun.net (Komertsiyno Virobnitcha Firma VEKTOR)	0.39	 35% (322) +	27-jul-2021 08:06 (15 hours ago)
+181.129.52.154:42648	HTTPS	HIA	Colombia (Medellín) !!!	aspmx2.googlemail.com (EPM Telecomunicaciones S.A. E.S.P.)	5.035	 13% (14) -	27-jul-2021 08:03 (15 hours ago)
+46.209.196.146:8080	HTTPS (Mikrotik)	NOA	Iran	46.209.196.146 (Dade Pardazi Respina PJSC)	1.915	 32% (253) -	27-jul-2021 07:55 (15 hours ago)
+65.18.114.254:55443	HTTPS	HIA	Myanmar (Yangon)	65.18.114.254 (Telecom International Myanmar Co., Ltd)	2.747	 15% (30) -	27-jul-2021 07:51 (15 hours ago)
+88.255.65.117:999	HTTPS (Mikrotik)	NOA	Turkey	88.255.65.117.static.ttnet.com.tr (Turk Telekom)	1.073	 33% (37) +	27-jul-2021 07:48 (15 hours ago)
+103.138.192.89:55443	HTTPS	HIA	Cambodia	103.138.192.89 (Istanaimpian Corporation Limited)	3.759	 26% (5) -	27-jul-2021 07:43 (16 hours ago)
+103.99.177.32:8080	HTTPS (Mikrotik)	NOA	Bangladesh !!!	103.99.177.32 (University of Rajshahi)	1.543	 15% (29) -	27-jul-2021 07:42 (16 hours ago)
+178.128.178.169:3128	HTTPS (Squid)	NOA	United States (Santa Clara)	178.128.178.169 (DIGITALOCEAN-ASN)	10.614	 7% (30) -	27-jul-2021 07:41 (16 hours ago)
+84.236.155.210:8080	HTTPS (Mikrotik)	NOA	Spain (Murcia) !!!	84.236.155.210 (ServiHosting Networks S.L.)	1.387	 22% (10) +	27-jul-2021 07:29 (16 hours ago)
+188.133.188.18:8080	HTTPS (Mikrotik)	NOA	Russia	188.133.188.18 (JSC ER-Telecom Holding)	1.763	 33% (7) +	27-jul-2021 07:29 (16 hours ago)
+62.201.217.194:8080	HTTPS (Mikrotik)	NOA	Iraq (Erbil)	62.201.217.194 (IQ Networks)	0.558	 28% (278) +	27-jul-2021 07:18 (16 hours ago)
+77.46.142.150:8080	HTTPS (Mikrotik)	NOA	Serbia (Belgrade)	77-46-142-150.static.isp.telekom.rs (TELEKOM SRBIJA a.d.)	1.325	 34% (13) -	27-jul-2021 07:13 (16 hours ago)
+95.188.90.48:3128	HTTPS	NOA	Russia (Sharypovo)	95.188.90.48 (Rostelecom)	5.663	 7% (18) -	27-jul-2021 07:08 (16 hours ago)
+43.241.141.27:35101	HTTPS	HIA	India (Khambhaliya)	43.241.141.27 (Gujarat Telelink Pvt Ltd)	5.991	 18% (38) -	27-jul-2021 06:50 (16 hours ago)
+194.44.78.22:55443	HTTPS	HIA	Ukraine (Rivne)	194.44.78.22 (State Enterprise Scientific and Telecommunication Centre Ukrainian Academic and Research Netw)	1.402	 8% (13) -	27-jul-2021 06:45 (17 hours ago)
+191.5.0.79:53281	HTTPS	HIA	Brazil (Passo Fundo)	191.5.0.79.razaoinfo.com.br (RazaoInfo Internet Ltda)	4.525	 19% (82) -	27-jul-2021 06:44 (17 hours ago)
+103.245.193.118:8080	HTTPS (Mikrotik)	NOA	Pakistan (Karachi)	103.245.193.118 (Cyber Internet Services Pvt Ltd.)	1.264	 52% (12) +	27-jul-2021 06:42 (17 hours ago)
+109.86.219.179:53438	HTTPS	HIA	Ukraine (Kharkiv)	179.219.86.109.triolan.net (Content Delivery Network Ltd)	5.219	 23% (140) +	27-jul-2021 06:42 (17 hours ago)
+200.111.182.6:443	HTTPS (Mikrotik)	NOA	Chile (Santiago)	200.111.182.6 (ENTEL CHILE S.A.)	2.036	 46% (507) -	27-jul-2021 06:42 (17 hours ago)
+80.227.141.50:8118	HTTPS	HIA	United Arab Emirates (Dubai)	80.227.141.50 (Emirates Integrated Telecommunications Company PJSC)	1.067	 11% (2) +	27-jul-2021 06:39 (17 hours ago)
+1.20.99.122:8080	HTTPS (Mikrotik)	NOA	Thailand (Nakhon Ratchasima)	1.20.99.122 (TOT Public Company Limited)	4.41	 27% (177) -	27-jul-2021 06:35 (17 hours ago)
+190.107.16.182:999	HTTPS (Mikrotik)	NOA	Colombia (Santa Rosa de Cabal)	19010716182.ip57.static.mediacommerce.com.co (Media Commerce Partners S.A)	3.136	 31% (5) -	27-jul-2021 06:32 (17 hours ago)
+62.152.36.169:8080	HTTPS (Mikrotik)	NOA	Russia (St Petersburg)	62.152.36.169 (Filanco LLC)	7.896	 18% (112) +	27-jul-2021 06:29 (17 hours ago)
+168.228.195.90:999	HTTPS (Mikrotik)	NOA	Honduras (San Pedro Sula)	168.228.195.90 (MULTICABLE DE HONDURAS)	3.701	 26% (84) +	27-jul-2021 06:22 (17 hours ago)
+62.201.228.250:56798	HTTPS	HIA	Iraq	62.201.228.250 (IQ Networks)	1.383	 35% (15) -	27-jul-2021 06:05 (17 hours ago)
+142.93.31.20:3128	HTTPS (Squid)	NOA	United States (Santa Clara)	142.93.31.20 (DIGITALOCEAN-ASN)	7.853	 13% (24) +	27-jul-2021 05:59 (17 hours ago)
+37.15.208.9:53281	HTTPS	HIA	Spain (Vilafranca del Penedès)	9.208.15.37.dynamic.jazztel.es (Orange Espagne SA)	2.898	 48% (26) -	27-jul-2021 05:56 (17 hours ago)
+187.189.255.145:999	HTTPS (Mikrotik)	NOA	Mexico (Chihuahua City)	fixed-187-189-255-145.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	5.453	 20% (3) -	27-jul-2021 05:56 (17 hours ago)
+12.239.213.215:8080	HTTPS (Mikrotik)	NOA	United States (Weatherford) !!!	12.239.213.215 (LINXUS1)	1.558	 38% (28) -	27-jul-2021 05:55 (17 hours ago)
+181.129.174.158:999	HTTPS (Mikrotik)	NOA	Colombia (Santiago de Cali)	static-bafo-181-129-174-158.une.net.co (EPM Telecomunicaciones S.A. E.S.P.)	2.404	 60% (6) -	27-jul-2021 05:55 (17 hours ago)
+183.88.210.77:8080	HTTPS (Mikrotik)	NOA	Thailand (Nonthaburi)	mx-ll-183.88.210-77.dynamic.3bb.in.th (JasTel Network International Gateway)	2.306	 53% (17) +	27-jul-2021 05:54 (17 hours ago)
+139.162.227.68:3228	HTTPS	ANM	United Kingdom (London)	li1512-68.members.linode.com (Linode, LLC)	6.576	 19% (8) +	27-jul-2021 05:53 (17 hours ago)
+182.52.229.165:8080	HTTPS (Mikrotik)	NOA	Thailand (Rayong)	node-19d1.pool-182-52.dynamic.totinternet.net (TOT Public Company Limited)	2.388	 31% (390) +	27-jul-2021 05:48 (17 hours ago)
+191.178.43.205:3128	HTTPS (Mikrotik)	NOA	Brazil (Campos dos Goytacazes)	bfb22bcd.virtua.com.br (CLARO S.A.)	2.803	 33% (14) -	27-jul-2021 05:48 (17 hours ago)
+170.83.108.69:8080	HTTPS (Mikrotik)	NOA	Argentina (Clason) !!!	host69.108.83.170.datalinksrl.com.ar (Datalink SRL)	1.957	 23% (49) +	27-jul-2021 05:44 (18 hours ago)
+201.157.252.38:9999	HTTPS (Mikrotik)	NOA	Brazil (Salvador)	201-157-252-38.tascom.com.br (TASCOM TELECOMUNICACOES LTDA)	2.296	 36% (5) +	27-jul-2021 05:41 (18 hours ago)
+77.236.237.185:1256	HTTPS (Mikrotik)	NOA	Russia (Moscow)	185.237.236.77.msk.enforta.com (JSC ER-Telecom Holding)	2.671	 34% (13) -	27-jul-2021 05:41 (18 hours ago)
+85.159.2.171:8080	HTTPS (Mikrotik)	NOA	Ukraine (Khrystynivka)	85-159-2-171-static.datagroup.ua (Private Joint Stock Company datagroup)	7.923	 21% (152) +	27-jul-2021 05:30 (18 hours ago)
+102.91.6.10:8080	HTTPS (Mikrotik)	NOA	Nigeria (Minna)	102.91.6.10 (MTN NIGERIA Communication limited)	2.061	 25% (56) -	27-jul-2021 05:29 (18 hours ago)
+104.248.150.190:3128	HTTPS (Squid)	NOA	Singapore (Singapore)	104.248.150.190 (DIGITALOCEAN-ASN)	2.165	 26% (14) +	27-jul-2021 05:21 (18 hours ago)
+91.227.2.218:8181	HTTPS (Mikrotik)	NOA	Poland (Krakow)	host-91-227-2-218.fiberlink.pl (FIBERLINK Sp. z o.o.)	0.812	 32% (11) +	27-jul-2021 05:18 (18 hours ago)
+45.133.36.3:9090	HTTPS (Mikrotik)	NOA	Turkey !!!	45.133.36.3 (Veganet Teknolojileri ve Hizmetleri LTD STI)	7.561	 13% (1) +	27-jul-2021 05:16 (18 hours ago)
+189.196.46.2:999	HTTPS (Mikrotik)	NOA	Mexico (Puebla City)	customer-PUE-46-2.megared.net.mx (Mega Cable, S.A. de C.V.)	1.415	 25% (1) +	27-jul-2021 05:13 (18 hours ago)
+201.20.110.54:55443	HTTPS (Mikrotik)	NOA	Brazil (João Pessoa)	201-20-110-54.mobtelecom.com.br (Mob Servicos de Telecomunicacoes Ltda)	2.386	 35% (18) -	27-jul-2021 05:13 (18 hours ago)
+177.53.152.170:999	HTTPS (Mikrotik)	NOA	Peru (Ancon)	177-53-152-170.liber.com.pe (MORENO YANOC NEMIAS BERNARDO)	2.662	 33% (7) +	27-jul-2021 05:12 (18 hours ago)
+91.194.239.122:8080	HTTPS (Mikrotik)	NOA	Ukraine	91.194.239.122 (Tov Neo-telecom)	8.007	 30% (325) -	27-jul-2021 05:11 (18 hours ago)
+117.20.27.130:8080	HTTPS (Mikrotik)	NOA	Pakistan	tw27-static130.tw1.com (Transworld Associates Pvt. Ltd.)	2.788	 55% (12) -	27-jul-2021 04:52 (18 hours ago)
+200.39.154.1:999	HTTPS (Mikrotik)	NOA	Peru (Chachapoyas) !!!	200.39.154.1 (AIRWIZ PERU E.I.R.L)	1.379	 43% (40) +	27-jul-2021 04:51 (18 hours ago)
+80.244.236.205:1256	HTTPS (Mikrotik)	NOA	Russia (Moscow)	205.236.244.80.msk.enforta.com (JSC ER-Telecom Holding)	0.444	 24% (14) -	27-jul-2021 04:49 (18 hours ago)
+181.188.156.171:3128	HTTPS (Mikrotik)	NOA	Bolivia (La Paz)	SCZ-181-188-156-00171.tigo.bo (Telefonica Celular de Bolivia S.A.)	5.067	 28% (28) -	27-jul-2021 04:47 (18 hours ago)
+186.225.45.13:45974	HTTPS	HIA	Brazil (Fortaleza)	186.225.45.13 (SOBRALNET SERVICOS E TELECOMUNICACOES LTDA - ME)	9.153	 19% (57) -	27-jul-2021 04:42 (19 hours ago)
+177.73.52.252:8080	HTTPS (Mikrotik)	NOA	Brazil (Vianopolis)	177-73-52-252.cyberinternet.net.br (CYBER INTERNET LTDA ME)	1.674	 18% (20) -	27-jul-2021 04:41 (19 hours ago)
+46.238.48.82:8080	HTTPS (Mikrotik)	NOA	Bulgaria (Sofia)	ip-46-238-48-82.home.megalan.bg (A1 Bulgaria EAD)	8.501	 20% (190) -	27-jul-2021 04:40 (19 hours ago)
+190.82.91.203:999	HTTPS (Mikrotik)	NOA	Chile (Penalolen)	190-82-91-203.static.tie.cl (Telefonica Empresas)	6.085	 39% (37) -	27-jul-2021 04:39 (19 hours ago)
+41.254.44.253:8080	HTTPS (Mikrotik)	NOA	Libyan Arab Jamahiriya (Tripoli) !!!	41.254.44.253 (General Post and Telecommunication Company)	0.663	 33% (29) +	27-jul-2021 04:35 (19 hours ago)
+179.124.31.233:8080	HTTPS (Mikrotik)	NOA	Brazil (Santarém)	ip-179-124-31-233.zumtelecom.net.br (ZUM TELECOM LTDA- ME)	3.89	 18% (25) -	27-jul-2021 04:35 (19 hours ago)
+177.73.70.132:3127	HTTPS (Mikrotik)	NOA	Brazil (Brasília)	177.73.70.132 (OPENTEL Comercio e Servicos Ltda)	2.718	 35% (9) +	27-jul-2021 04:32 (19 hours ago)
+191.242.230.135:8080	HTTPS (Mikrotik)	NOA	Brazil (Farroupilha)	191.242.230.135 (Domi Informatica)	5.067	 28% (235) -	27-jul-2021 04:31 (19 hours ago)
+45.6.4.60:8080	HTTPS (Mikrotik)	NOA	Argentina (San Miguel de Tucumán)	host4564-60.providers.com.ar (PROVIDERS S.A.)	1.758	 21% (67) -	27-jul-2021 04:24 (19 hours ago)
+176.62.178.247:47556	HTTPS	HIA	Russia (Moscow)	176.62.178.247 (OOO Istranet)	0.332	 19% (87) +	27-jul-2021 04:23 (19 hours ago)
+50.233.42.98:51696	HTTPS	HIA	United States (Houston)	50-233-42-98-static.hfc.comcastbusiness.net (COMCAST-7922)	4.476	 35% (555) -	27-jul-2021 04:20 (19 hours ago)
+103.242.236.202:8080	HTTPS (Mikrotik)	NOA	India (Nagari)	103.242.236.202 (Blue Lotus Support Services Pvt Ltd)	7.958	 25% (34) +	27-jul-2021 04:20 (19 hours ago)
+103.79.117.5:8080	HTTPS (Mikrotik)	NOA	Bangladesh !!!	103.79.117.5.ru.ac.bd (University of Rajshahi)	8.546	 12% (54) -	27-jul-2021 04:18 (19 hours ago)
+89.36.195.238:35328	HTTPS	ANM	Iran	89.36.195.238 (Parvaresh Dadeha Co. Private Joint Stock)	4.486	 21% (58) -	27-jul-2021 04:17 (19 hours ago)
+45.167.95.184:8085	HTTPS (Mikrotik)	NOA	Mexico (Mexico City)	45.167.95.184 (NDI.COM.MX SA DE CV)	2.475	 29% (17) +	27-jul-2021 04:16 (19 hours ago)
+186.67.200.203:999	HTTPS (Mikrotik)	NOA	Chile (Puente Alto)	186.67.200.203 (ENTEL CHILE S.A.)	12.288	 31% (4) -	27-jul-2021 04:15 (19 hours ago)
+180.210.184.226:8080	HTTPS (Mikrotik)	NOA	Bangladesh (Chittagong)	180.210.184.226 (Premium Connectivity Limited)	1.749	 44% (22) +	27-jul-2021 04:12 (19 hours ago)
+181.129.97.34:999	HTTPS (Mikrotik)	NOA	Colombia (Medellín)	static-181-129-97-34.une.net.co (EPM Telecomunicaciones S.A. E.S.P.)	1.338	 40% (2) +	27-jul-2021 04:11 (19 hours ago)
+190.152.5.126:53040	HTTPS	HIA	Ecuador	126.5.152.190.static.anycast.cnt-grms.ec (CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP)	1.26	 33% (176) +	27-jul-2021 04:07 (19 hours ago)
+139.5.132.245:8080	HTTPS (Mikrotik)	NOA	Bangladesh (Dhaka)	139.5.132.245 (Geotel Bangladesh IT Ltd.)	2.454	 32% (378) +	27-jul-2021 04:07 (19 hours ago)
+212.77.138.161:41258	HTTPS	HIA	Russia (Mezhdurechensk)	212.77.138.161.rikt.ru (MTS PJSC)	3.138	 24% (146) -	27-jul-2021 03:48 (19 hours ago)
+77.70.35.87:37475	HTTPS	HIA	Bulgaria (Sofia)	77.70.35.87 (A1 Bulgaria EAD)	1.793	 23% (83) -	27-jul-2021 03:46 (20 hours ago)
+204.199.85.178:3128	HTTPS (Mikrotik)	NOA	Colombia (San Gil) !!!	204.199.85.178 (LVLT-3549)	1.912	 35% (12) -	27-jul-2021 03:44 (20 hours ago)
+186.225.157.22:8080	HTTPS (Mikrotik)	NOA	Brazil	186-225-157-22.customer.sinalbr.com.br (Sinal Br Telecom Ltda)	8.386	 28% (280) -	27-jul-2021 03:43 (20 hours ago)
+83.229.8.9:3128	HTTPS (Squid)	NOA	Italy (Omignano Scalo)	host9-8-229-83.convergenze.it (Convergenze S.p.A.)	1.39	 83% (29) +	27-jul-2021 03:43 (20 hours ago)
+45.174.70.18:53281	HTTPS	HIA	Mexico (Navojoa) !!!	nav.index.com.mx (INDEX DATACOM S.A. DE C.V.)	1.256	 30% (31) -	27-jul-2021 03:42 (20 hours ago)
+191.103.65.170:999	HTTPS (Mikrotik)	NOA	Honduras (Ciudad Choluteca) !!!	191.103.65.170 (METRORED S.A. DE C.V.)	1.619	 56% (14) +	27-jul-2021 03:41 (20 hours ago)
+190.24.119.24:999	HTTPS (Mikrotik)	NOA	Colombia (Bogotá)	www.ingettel.com (Colombia)	1.86	 43% (10) +	27-jul-2021 03:38 (20 hours ago)
+154.79.252.70:53281	HTTPS	HIA	Kenya	70-252-79-154.r.airtelkenya.com (CKL1-ASN)	5.549	 18% (68) -	27-jul-2021 03:36 (20 hours ago)
+101.51.141.106:59932	HTTPS	HIA	Thailand (Lampang)	node-rxm.pool-101-51.dynamic.totinternet.net (TOT Public Company Limited)	4.538	 25% (136) -	27-jul-2021 03:35 (20 hours ago)
+190.2.210.139:8080	HTTPS (Mikrotik)	NOA	Colombia (La Union)	azteca-comunicaciones.com (TV AZTECA SUCURSAL COLOMBIA)	4.446	 22% (101) -	27-jul-2021 03:33 (20 hours ago)
+181.198.194.23:3127	HTTPS (Mikrotik)	NOA	Ecuador (Guayaquil)	host-181-198-194-23.netlife.ec (Telconet S.A)	9.893	 41% (9) -	27-jul-2021 03:32 (20 hours ago)
+213.6.204.153:49044	HTTPS	HIA	Palestinian Territory (Jenin) !!!	213.6.204.153 (Palestine Telecommunications Company (PALTEL))	4.61	 11% (22) -	27-jul-2021 03:30 (20 hours ago)
+170.82.115.242:999	HTTPS (Mikrotik)	NOA	Ecuador	170.82.115.242 (Asociacion de Proveedores de Servicio de Valor AgregadoAPROSVA)	9.151	 38% (3) +	27-jul-2021 03:26 (20 hours ago)
+210.48.204.134:46669	HTTPS	HIA	Malaysia	210.48.204.134 (DiGi Telecommunications Sdn. Bhd.)	8.754	 21% (41) -	27-jul-2021 03:26 (20 hours ago)
+69.63.73.171:53281	HTTPS	HIA	Swaziland	69.63.73.171 (SWAZINET)	7.042	 18% (50) -	27-jul-2021 03:25 (20 hours ago)
+79.143.87.138:9090	HTTPS (Squid)	ANM	United Kingdom (Manchester)	79.143.87.138 (Hydra Communications Ltd)	3.889	 47% (70) -	27-jul-2021 03:24 (20 hours ago)
+118.172.201.216:8080	HTTPS (Mikrotik)	NOA	Thailand (Khon Kaen)	node-13vc.pool-118-172.dynamic.totinternet.net (TOT Public Company Limited)	1.508	 28% (29) +	27-jul-2021 03:23 (20 hours ago)
+200.192.210.174:8080	HTTPS (Mikrotik)	NOA	Brazil (Paranaguá)	ip-200-192-210-174.novafibratelecom.com.br (NOVA FIBRA TELECOM S.A.)	2.469	 18% (74) -	27-jul-2021 03:22 (20 hours ago)
+207.244.248.94:999	HTTPS (Mikrotik)	NOA	United States (St Louis)	VPN-1-grupoivinet.com (CONTABO)	2.31	 34% (20) +	27-jul-2021 03:20 (20 hours ago)
+198.0.124.178:8080	HTTPS (Mikrotik)	NOA	United States (Ypsilanti)	198-0-124-178-static.hfc.comcastbusiness.net (COMCAST-7922)	0.906	 31% (22) +	27-jul-2021 03:19 (20 hours ago)
+189.161.142.150:999	HTTPS (Mikrotik)	NOA	Mexico (Puebla City)	dsl-189-161-142-150-dyn.prod-infinitum.com.mx (Uninet S.A. de C.V.)	5.014	 100% (3) +	27-jul-2021 02:15 (21 hours ago)
+176.193.32.111:8080	HTTPS (Mikrotik)	NOA	Russia (Moscow)	ip-176-193-32-111.bb.netbynet.ru (Net By Net Holding LLC)	2.045	 26% (88) +	27-jul-2021 02:13 (21 hours ago)
+110.36.213.38:8082	HTTPS (Mikrotik)	NOA	Pakistan (Jehanian)	WGPON-36213-38.wateen.net (National WiMAXIMS environment)	2.047	 69% (9) +	27-jul-2021 02:02 (21 hours ago)
+190.12.58.26:8080	HTTPS (Mikrotik)	NOA	Ecuador (Guayaquil)	corp-190-12-58-26.sto.puntonet.ec (PUNTONET S.A.)	4.53	 18% (9) -	27-jul-2021 01:58 (21 hours ago)
+77.236.248.237:8080	HTTPS (Mikrotik)	NOA	Russia (Balashikha)	237.248.236.77.msk.enforta.com (JSC ER-Telecom Holding)	8.761	 17% (75) +	27-jul-2021 01:55 (21 hours ago)
+200.63.65.64:8080	HTTPS (Mikrotik)	NOA	Argentina (Mar del Plata) !!!	host-200-063-065-064.cyberwave.com.ar (CyberWave S.A.)	2.561	 15% (82) +	27-jul-2021 01:51 (21 hours ago)
+140.227.65.159:6000	HTTPS	HIA	Japan	140-227-65-159.vpscloud.static.arena.ne.jp (NTT PC Communications, Inc.)	4.231	 22% (22) -	27-jul-2021 01:49 (21 hours ago)
+202.69.45.22:8080	HTTPS	HIA	Pakistan	202.69.45.22 (GERRYS INFORMATION TECHNOLOGY PVT LTD.)	1.919	 18% (105) -	27-jul-2021 01:48 (21 hours ago)
+103.15.140.177:44759	HTTPS	HIA	Bangladesh !!!	103.15.140.177 (ICC Communication)	2.645	 13% (41) -	27-jul-2021 01:45 (22 hours ago)
+80.95.113.148:8080	HTTPS (Mikrotik)	NOA	Czech Republic (Prague)	148.113.95.80.static.b26.cz (Vodafone Czech Republic a.s.)	1.502	 60% (27) +	27-jul-2021 01:43 (22 hours ago)
+81.30.162.28:8081	HTTPS (Squid)	NOA	Ukraine (Vinnytsia)	dial-up05.vsau.org (Telecommunication Company Vinteleport Ltd.)	0.243	 19% (3) +	27-jul-2021 01:43 (22 hours ago)
+41.220.114.154:8080	HTTPS (Mikrotik)	NOA	Kenya	41.220.114.154.accesskenya.com (ACCESSKENYA GROUP LTD is an ISP serving)	1.328	 31% (324) -	27-jul-2021 01:40 (22 hours ago)
+190.109.169.41:53281	HTTPS (Mikrotik)	NOA	Colombia (Manizales)	190.109.169.41 (EDATEL S.A. E.S.P)	4.142	 37% (201) +	27-jul-2021 01:30 (22 hours ago)
+179.189.125.222:8080	HTTPS (Mikrotik)	NOA	Brazil (Parnaiba)	179.189.125.222.static.ipcarrier.com.br (IP CARRIER BRASIL)	8.221	 24% (196) -	27-jul-2021 01:29 (22 hours ago)
+178.172.225.49:3128	HTTPS (Mikrotik)	NOA	Belarus (Minsk) !!!	usr.1net.by.225.172.178.in-addr.arpa (Private services Unitary Enterprise Vash Internet)	4.882	 19% (98) +	27-jul-2021 01:26 (22 hours ago)
+46.10.199.90:54567	HTTPS	HIA	Bulgaria	46-10-199-90.ip.btc-net.bg (Vivacom)	0.665	 21% (63) +	27-jul-2021 01:24 (22 hours ago)
+170.239.222.84:8080	HTTPS (Mikrotik)	NOA	Brazil (Nova Lima)	170.239.222.84 (Companhia Itabirana Telecomunicacoes Ltda)	3.767	 31% (23) -	27-jul-2021 01:23 (22 hours ago)
+190.60.104.218:3128	HTTPS (Mikrotik)	NOA	Colombia (Bogotá)	218.104.60.190.static.host.ifxnetworks.com (IFX18747)	4.374	 22% (137) +	27-jul-2021 01:23 (22 hours ago)
+190.2.213.129:999	HTTPS (Mikrotik)	NOA	Colombia (Valledupar) !!!	azteca-comunicaciones.com (TV AZTECA SUCURSAL COLOMBIA)	1.39	 25% (38) +	27-jul-2021 01:21 (22 hours ago)
+201.159.177.25:999	HTTPS (Mikrotik)	NOA	Mexico (Tijuana) !!!	201.159.177.25 (Bajanet Comunicaciones, S.A. de C.V.)	4.327	 50% (2) +	27-jul-2021 01:16 (22 hours ago)
+194.44.62.22:3128	HTTPS	HIA	Ukraine !!!	194.44.62.22 (State Enterprise Scientific and Telecommunication Centre Ukrainian Academic and Research Netw)	0.835	 20% (1) +	27-jul-2021 01:04 (22 hours ago)
+83.136.186.193:999	HTTPS (Mikrotik)	NOA	Spain (Valencia) !!!	83.136.186.193 (Prored Comunicaciones, S.L.)	0.996	 64% (67) -	27-jul-2021 01:03 (22 hours ago)
+177.66.52.89:8080	HTTPS (Mikrotik)	NOA	Brazil (Lavras)	177.66.52.89	5.55	 51% (22) -	27-jul-2021 01:02 (22 hours ago)
+45.189.58.71:9090	HTTPS (Mikrotik)	NOA	Ecuador (Cuenca) !!!	host-45-189-58-71.nedetel.net (CBVISION S.A.)	1.232	 67% (2) +	27-jul-2021 00:59 (22 hours ago)
+117.215.135.129:3127	HTTPS (Squid)	NOA	India (Kurnool)	117.215.135.129 (National Internet Backbone)	8.214	 50% (4) +	27-jul-2021 00:56 (22 hours ago)
+103.195.74.2:84	HTTPS (Mikrotik)	NOA	India (Murshidabad)	103.195.74.2 (cloudsky superfast broadband and services Pvt Ltd)	5.071	 14% (2) +	27-jul-2021 00:56 (22 hours ago)
+181.196.205.250:38178	HTTPS	HIA	Ecuador (Guayaquil)	250.205.196.181.static.anycast.cnt-grms.ec (CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP)	8.232	 18% (59) -	27-jul-2021 00:55 (22 hours ago)
+182.160.108.188:8090	HTTPS (Mikrotik)	NOA	Bangladesh (Dhaka)	182-160-108-188.aamranetworks.com (aamra networks limited)	2.558	 20% (79) +	27-jul-2021 00:54 (22 hours ago)
+45.173.7.114:999	HTTPS (Mikrotik)	NOA	Colombia (Bogotá) !!!	45-173-7-114.ims-ipv4.com (COLUMBUS NETWORKS COLOMBIA)	1.736	 22% (8) +	27-jul-2021 00:51 (22 hours ago)
+190.7.142.106:999	HTTPS (Mikrotik)	NOA	Colombia	dinamic-Cable-190-7-142-106.epm.net.co (EPM Telecomunicaciones S.A. E.S.P.)	3.812	 34% (10) -	27-jul-2021 00:50 (22 hours ago)
+103.122.63.17:8080	HTTPS (Mikrotik)	NOA	India (Visakhapatnam) !!!	103.122.63.17 (Vizag Broadband Communications Pvt Ltd)	2.566	 14% (46) +	27-jul-2021 00:45 (23 hours ago)
+170.238.255.90:31113	HTTPS	HIA	Mexico (Guadalupe)	170.238.255.90 (Sierra Madre Internet SA de CV)	1.658	 16% (48) -	27-jul-2021 00:44 (23 hours ago)
+189.201.213.70:3128	HTTPS (Mikrotik)	NOA	Brazil (Vitória)	189.201.213.70.gti.vix.br (GTi TELECOMUNICACOES SA)	2.982	 26% (40) -	27-jul-2021 00:42 (23 hours ago)
+181.225.70.13:999	HTTPS (Mikrotik)	NOA	Colombia (Sutamarchan)	1812257013.static.mediacommerce.com.co (Media Commerce Partners S.A)	3.33	 36% (33) +	27-jul-2021 00:42 (23 hours ago)
+189.45.199.37:20183	HTTPS (Mikrotik)	NOA	Brazil (Massaranduba)	189-45-99-37.tpa.net.br (Unifique Telecomunicacoes SA)	2.289	 39% (120) -	27-jul-2021 00:40 (23 hours ago)
+200.116.164.252:8080	HTTPS (Mikrotik)	NOA	Colombia (Medellín)	cable200-116-164-252.epm.net.co (EPM Telecomunicaciones S.A. E.S.P.)	1.524	 18% (20) +	27-jul-2021 00:32 (23 hours ago)
+181.13.14.13:8081	HTTPS (Mikrotik)	NOA	Argentina (Villa Elisa)	host13.181-13-14.telecom.net.ar (Telecom Argentina S.A.)	8.231	 33% (5) +	27-jul-2021 00:32 (23 hours ago)
+45.81.144.51:8080	HTTPS (Mikrotik)	NOA	Iraq	45.81.144.51 (FACT LTD)	0.627	 21% (55) +	27-jul-2021 00:26 (23 hours ago)
+138.0.203.163:8080	HTTPS (Mikrotik)	NOA	Brazil (Morro da Fumaca)	138-0-203-163.unifique.net (INFOWAY COMERCIO DE INFORM E TELECOMUNICACOES LTDA)	1.793	 67% (2) +	27-jul-2021 00:24 (23 hours ago)
+37.157.165.115:8080	HTTPS (Mikrotik)	NOA	Bulgaria (Sofia) !!!	37-157-165-115.net1.bg (NET1 Ltd.)	3.352	 26% (58) +	27-jul-2021 00:23 (23 hours ago)
+45.201.193.208:8080	HTTPS (Mikrotik)	NOA	Cambodia (Phnom Penh)	45.201.193.208 (OpenNet ISP Cambodia)	4.872	 8% (14) -	27-jul-2021 00:20 (23 hours ago)
+213.6.65.30:8080	HTTPS (Mikrotik)	NOA	Palestinian Territory	213.6.65.30 (Palestine Telecommunications Company (PALTEL))	5.813	 34% (347) -	27-jul-2021 00:19 (23 hours ago)
+195.123.239.114:8080	HTTPS (Mikrotik)	NOA	Singapore (Singapore)	chr-shp-28.surgainternetanaswaee.my.id (ITL-Bulgaria Ltd.)	4.561	 56% (28) +	27-jul-2021 00:17 (23 hours ago)
+45.70.238.180:999	HTTPS (Mikrotik)	NOA	Ecuador (Portoviejo)	host-45-70-238-180.nedetel.net (NEDETEL S.A.)	5.293	 60% (21) +	27-jul-2021 00:13 (23 hours ago)
+190.120.255.80:999	HTTPS (Mikrotik)	NOA	Venezuela (Valencia)	190.120.255.80 (The Houses Television C.A. ConexTELECOM)	4.111	 38% (14) -	27-jul-2021 00:07 (23 hours ago)
+193.106.138.52:3128	HTTPS (Mikrotik)	NOA	Ukraine (Kyiv)	193.106.138.52.cl.ipnet.ua (PJSC Industrial Media Network)	0.244	 41% (12) -	27-jul-2021 00:06 (23 hours ago)
+103.113.148.240:8080	HTTPS (Mikrotik)	NOA	Bangladesh	103.113.148.240 (Digicon Telecommunication Ltd)	1.771	 73% (16) -	26-jul-2021 23:56 (23 hours ago)
+183.88.194.167:8080	HTTPS (Mikrotik)	NOA	Thailand (Chachoengsao)	mx-ll-183.88.194-167.dynamic.3bb.in.th (JasTel Network International Gateway)	8.07	 17% (1) +	26-jul-2021 23:49 (23 hours ago)
+103.245.108.186:8000	HTTPS (Mikrotik)	NOA	Bangladesh (Dhaka)	103-245-108-186.aamranetworks.com (ACE IT Networks Limited)	5.579	 40% (8) -	26-jul-2021 23:46 (23 hours ago)
+176.214.99.101:1256	HTTPS (Mikrotik)	NOA	Russia (Vidnoye)	176x214x99x101.msk.enforta.com (JSC ER-Telecom Holding)	1.877	 16% (8) +	26-jul-2021 23:44 (1 days ago)
+212.95.180.50:53281	HTTPS	HIA	Bulgaria (Sofia)	212.95.180.50 (A1 Bulgaria EAD)	2.467	 31% (257) -	26-jul-2021 23:44 (1 days ago)
+213.197.148.230:8090	HTTPS (Mikrotik)	NOA	Lithuania (Vilnius)	mail1.bpc.lt (UAB Baltnetos komunikacijos)	8.763	 19% (80) -	26-jul-2021 23:43 (1 days ago)
+113.161.186.101:8080	HTTPS (Mikrotik)	NOA	VietNam (Bao Loc)	static.vnpt.vn (VNPT Corp)	4.866	 25% (212) +	26-jul-2021 23:40 (1 days ago)
+195.110.7.195:3121	HTTPS	HIA	Ukraine (Simferopol)	195.110.7.195 (Ltd. Cypher)	1.592	 22% (62) -	26-jul-2021 23:37 (1 days ago)
+103.98.131.194:8081	HTTPS (Mikrotik)	NOA	Nepal !!!	103.98.131.194 (TECHMINDS NETWORKS PVT. LTD.)	2.106	 50% (9) -	26-jul-2021 23:36 (1 days ago)
+177.71.92.134:8080	HTTPS (Mikrotik)	NOA	Brazil (Petrolina)	ip-177.71.92.134.juniornet.psi.br (L E M TELECOMUNICACOES LTDA -ME)	9.062	 56% (5) -	26-jul-2021 23:35 (1 days ago)
+165.16.96.93:8080	HTTPS (Mikrotik)	NOA	Libyan Arab Jamahiriya !!!	165.16.96.93 (Aljeel-net)	0.527	 15% (48) +	26-jul-2021 23:35 (1 days ago)
+187.108.39.64:6666	HTTPS	HIA	Brazil (São Paulo)	187.108.39.64 (America-NET Ltda.)	1.57	 24% (4) +	26-jul-2021 23:34 (1 days ago)
+109.111.232.237:8080	HTTPS (Mikrotik)	NOA	Serbia (Belgrade) !!!	free-232-237.mediaworksit.net (Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun)	7.252	 33% (21) +	26-jul-2021 23:33 (1 days ago)
+46.151.145.4:53281	HTTPS	HIA	Ukraine (Kyiv)	46.151.145.4 (Swift Trace ltd.)	7.749	 26% (220) +	26-jul-2021 23:32 (1 days ago)
+187.144.240.10:3128	HTTPS (Mikrotik)	NOA	Mexico (Manzanillo)	dsl-187-144-240-10-dyn.prod-infinitum.com.mx (Uninet S.A. de C.V.)	4.873	 39% (12) -	26-jul-2021 23:32 (1 days ago)
+85.105.139.53:8090	HTTPS (Mikrotik)	NOA	Turkey (Ankara)	85.105.139.53.static.ttnet.com.tr (Turk Telekom)	1.685	 29% (101) -	26-jul-2021 23:31 (1 days ago)
+186.64.95.1:999	HTTPS (Mikrotik)	NOA	Argentina (Laboulaye) !!!	host1.186-64-95.nodosud.com.ar (NODOSUD S.A)	1.738	 38% (20) +	26-jul-2021 23:31 (1 days ago)
+123.253.97.6:8080	HTTPS (Mikrotik)	NOA	Bangladesh (Satkhira) !!!	123.253.97.6 (KS Network Limited)	3.95	 44% (28) +	26-jul-2021 23:28 (1 days ago)
+83.171.114.92:45822	HTTPS	HIA	Russia (Ukhta)	ppp.83-171-114-92.pppoe.avangarddsl.ru (Rostelecom)	7.879	 16% (60) +	26-jul-2021 23:28 (1 days ago)
+200.29.111.215:999	HTTPS (Mikrotik)	NOA	Colombia (Santiago de Cali)	dsl-emcali-200.29.111.215.emcali.net.co (EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P.)	0.958	 29% (27) +	26-jul-2021 23:27 (1 days ago)
+201.234.53.214:999	HTTPS (Mikrotik)	NOA	Peru (Lima)	201.234.53.214 (LVLT-3549)	9.335	 15% (16) +	26-jul-2021 23:25 (1 days ago)
+46.238.230.4:8080	HTTPS (Mikrotik)	NOA	Poland (Koronowo)	static-46-238-230-4.rfc.pl (University of Technology and Life Sciences Bydgoszcz)	1.023	 22% (133) +	26-jul-2021 23:24 (1 days ago)
+177.71.77.202:20183	HTTPS (Mikrotik)	NOA	Brazil (Volta Redonda)	prinse-177-71-77-202.prinse.com.br (PRINSE MULTIMIDIA EIRELI - EPP)	1.639	 37% (139) -	26-jul-2021 23:23 (1 days ago)
+27.72.95.176:8080	HTTPS (Mikrotik)	NOA	VietNam (Hanoi)	dynamic-adsl.viettel.vn (Viettel Group)	3.481	 12% (46) -	26-jul-2021 23:23 (1 days ago)
+91.195.130.237:8080	HTTPS (Mikrotik)	NOA	Russia (Aleksandrov)	host91-195-130-237.fixed.trytek.ru (Trytech Ltd.)	0.357	 32% (334) +	26-jul-2021 23:21 (1 days ago)
+200.73.208.62:999	HTTPS (Mikrotik)	NOA	Chile (Maipu)	200.73.208.62 (Stel Chile S.A.)	3.17	 38% (3) +	26-jul-2021 23:19 (1 days ago)
+185.200.37.187:9090	HTTPS (Mikrotik)	NOA	Turkey	185.200.37.187 (High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.)	3.857	 18% (2) -	26-jul-2021 23:18 (1 days ago)
+63.209.154.34:999	HTTPS (Mikrotik)	NOA	United States !!!	63.209.154.34 (Trilogy Dominicana, S.A.)	1.711	 15% (7) -	26-jul-2021 23:14 (1 days ago)
+201.132.155.198:8080	HTTPS	HIA	Mexico (Culiacán)	customer-CLN-MCA-155-198.megared.net.mx (Mega Cable, S.A. de C.V.)	1.316	 42% (42) -	26-jul-2021 23:05 (1 days ago)
+37.26.86.206:47464	HTTPS	HIA	Albania (Tirana)	37.26.86.206 (Albanian Telecommunications Union SH. P.K.)	3.199	 22% (74) -	26-jul-2021 23:04 (1 days ago)
+185.134.96.34:8081	HTTPS (Mikrotik)	NOA	Iran	185.134.96.34 (Yaghoot Rayaneh Saveh Cooperative Co.)	1.878	 44% (4) -	26-jul-2021 23:02 (1 days ago)
+131.72.69.14:8080	HTTPS (Mikrotik)	NOA	Brazil (Estancia) !!!	AS61758-131-72-69-14.vianet.online (TOP NET SERVICOS LTDA)	5.105	 29% (70) +	26-jul-2021 23:01 (1 days ago)
+78.159.157.89:8080	HTTPS (Mikrotik)	NOA	Bulgaria	89-157-159.78.evro.net (Telecom Aset Ltd)	0.637	 37% (7) +	26-jul-2021 22:53 (1 days ago)
+183.88.6.45:8080	HTTPS (Mikrotik)	NOA	Thailand (Nakhon Ratchasima)	mx-ll-183.88.6-45.dynamic.3bb.co.th (JasTel Network International Gateway)	1.364	 33% (1) -	26-jul-2021 22:51 (1 days ago)
+95.47.102.178:8080	HTTPS	HIA	Ukraine (Kalush)	95.47.102.178 (Stream-Network Ltd.)	1.311	 17% (1) +	26-jul-2021 22:50 (1 days ago)
+43.242.242.196:8080	HTTPS (Mikrotik)	NOA	Mongolia (Ulan Bator)	43.242.242.196 (first E-commerce and TriplePlay Service ISP in Mongolia.)	8.977	 29% (258) -	26-jul-2021 22:48 (1 days ago)
+103.250.153.242:31382	HTTPS	HIA	India (Godhra)	103.250.153.242 (Gujarat Telelink Pvt Ltd)	2.296	 19% (30) -	26-jul-2021 22:47 (1 days ago)
+190.108.88.148:999	HTTPS (Mikrotik)	NOA	Peru (Lima)	190.108.88.148 (INTERNEXA PERU S.A)	4.593	 40% (30) -	26-jul-2021 22:41 (1 days ago)
+14.241.111.38:8080	HTTPS (Mikrotik)	NOA	VietNam (Hanoi)	static.vnpt.vn (VNPT Corp)	4.045	 34% (46) -	26-jul-2021 22:37 (1 days ago)
+87.255.13.217:8080	HTTPS	HIA	Russia (Khimki)	host-87-255-13-217.bigtelecom.ru (Big Telecom Jsc)	5.942	 32% (458) -	26-jul-2021 22:32 (1 days ago)
+1.1.189.58:8080	HTTPS (Mikrotik)	NOA	Thailand (Udon Thani)	node-c3e.pool-1-1.dynamic.totinternet.net (TOT Public Company Limited)	8.306	 24% (133) -	26-jul-2021 22:32 (1 days ago)
+189.126.72.97:20183	HTTPS (Mikrotik)	NOA	Brazil (Beberibe)	189.126.72.97 (Provedornet Telecom. e Servicos de Internet Ltda)	9.159	 13% (8) -	26-jul-2021 22:28 (1 days ago)
+183.89.8.21:8080	HTTPS (Mikrotik)	NOA	Thailand (Lampang)	mx-ll-183.89.8-21.dynamic.3bb.co.th (JasTel Network International Gateway)	4.407	 43% (6) +	26-jul-2021 22:23 (1 days ago)
+191.102.251.146:8085	HTTPS (Mikrotik)	NOA	Argentina	host146-251-102-191.ipred.com.ar (IP*RED)	4.96	 50% (4) -	26-jul-2021 22:19 (1 days ago)
+61.19.40.50:31707	HTTPS	HIA	Thailand (Chiang Rai)	61.19.40.50 (The Communication Authoity of Thailand, CAT)	4.052	 25% (111) -	26-jul-2021 22:10 (1 days ago)
+94.76.137.2:8080	HTTPS (Mikrotik)	NOA	Spain (Fuentes de Leon)	94.76.137.2 (ServiHosting Networks S.L.)	7.488	 26% (23) -	26-jul-2021 22:00 (1 days ago)
+209.126.13.170:3128	HTTPS	ANM	United States (St Louis)	vmi387697.contaboserver.net (CONTABO)	8.21	 19% (8) +	26-jul-2021 21:59 (1 days ago)
+158.51.201.233:8080	HTTPS (Mikrotik)	NOA	United States (Piedmont) !!!	158.51.201.233 (PINGED-NETWORKS)	8.996	 34% (21) -	26-jul-2021 21:58 (1 days ago)
+190.1.201.58:8080	HTTPS (Mikrotik)	NOA	Colombia (Jamundi)	redsuroriente.emcali.net.co (EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P.)	3.366	 20% (45) +	26-jul-2021 21:55 (1 days ago)
+180.211.248.222:8080	HTTPS (Mikrotik)	NOA	Bangladesh	180.211.248.222 (Bangladesh Telecommunications Company Limited BTCL, Nationwide PSTN Operator and Data and In)	3.425	 17% (88) -	26-jul-2021 21:55 (1 days ago)
+24.172.82.94:53281	HTTPS	HIA	United States (Charlotte)	rrcs-24-172-82-94.midsouth.biz.rr.com (TWC-11426-CAROLINAS)	4.284	 21% (252) -	26-jul-2021 21:55 (1 days ago)
+89.96.48.189:8080	HTTPS (Mikrotik)	NOA	Italy (Milan)	89-96-48-189.ip10.fastwebnet.it (Fastweb)	2.515	 26% (63) -	26-jul-2021 21:48 (1 days ago)
+103.5.232.145:8080	HTTPS (Mikrotik)	NOA	Bangladesh !!!	103.5.232.145 (Chittagong Online Limited AS38592 AP)	5.554	 17% (60) -	26-jul-2021 21:40 (1 days ago)
+95.216.106.38:3128	HTTPS (Squid)	NOA	Finland (Helsinki)	static.38.106.216.95.clients.your-server.de (Hetzner Online GmbH)	0.955	 62% (39) +	26-jul-2021 21:38 (1 days ago)
+46.209.30.12:8080	HTTPS (Mikrotik)	NOA	Iran !!!	46.209.30.12 (Dade Pardazi Respina PJSC)	7.921	 28% (100) -	26-jul-2021 21:17 (1 days ago)
+68.188.63.149:8080	HTTPS (Mikrotik)	NOA	United States (Farmington) !!!	068-188-063-149.biz.spectrum.com (CHARTER-20115)	1.551	 20% (306) -	26-jul-2021 21:09 (1 days ago)
+45.71.115.223:999	HTTPS (Mikrotik)	NOA	Ecuador (Guayaquil) !!!	host-45-71-115-223.nedetel.net (NEDETEL S.A.)	8.542	 40% (6) +	26-jul-2021 21:04 (1 days ago)
+128.199.244.63:3228	HTTPS (Mikrotik)	NOA	Singapore (Singapore)	sg-01.1go.moe (DIGITALOCEAN-ASN)	11.424	 55% (12) -	26-jul-2021 21:04 (1 days ago)
+177.124.168.81:8080	HTTPS (Mikrotik)	NOA	Brazil (Araripina)	fibra-177-124-168-81.htnet.com.br (High Tech Informatica Ltda)	3.749	 39% (86) -	26-jul-2021 21:03 (1 days ago)
+202.131.234.194:8080	HTTPS (Mikrotik)	NOA	Mongolia (Ulan Bator)	mail.ictmongolia.mn.234.131.202.in-addr.arpa (Mobinet LLC. AS Mobinet Internet Service Provider)	1.747	 19% (12) -	26-jul-2021 20:59 (1 days ago)
+136.243.81.120:8080	HTTPS (Mikrotik)	NOA	Germany	static.120.81.243.136.clients.your-server.de (Hetzner Online GmbH)	8.091	 24% (364) -	26-jul-2021 20:58 (1 days ago)
+177.44.82.232:8080	HTTPS (Mikrotik)	NOA	Brazil (Lavras)	177-44-82-232.lav-wr.mastercabo.com.br (Rede Brasileira de Comunicacao SA)	3.256	 29% (253) -	26-jul-2021 20:58 (1 days ago)
+94.247.244.120:3128	HTTPS (Squid)	NOA	Russia (St Petersburg)	94-247-244-120.westcall.net (JSC ER-Telecom Holding)	7.262	 9% (24) +	26-jul-2021 20:58 (1 days ago)
+103.14.251.76:8080	HTTPS (Mikrotik)	NOA	Cambodia (Phnom Penh)	76.loopback.sinet.com.kh (SINET, Cambodias specialist Internet and Telecom Service Provider.)	6.134	 35% (21) -	26-jul-2021 20:54 (1 days ago)
+67.55.186.1:8080	HTTPS (Mikrotik)	NOA	United States (Salix) !!!	67.55.186.1 (AUREON-5056)	3.184	 37% (69) -	26-jul-2021 20:47 (1 days ago)
+45.70.200.49:999	HTTPS (Mikrotik)	NOA	Ecuador (Ayora) !!!	host-45-70-200-49.nedetel.net (NEDETEL S.A.)	4.404	 14% (8) -	26-jul-2021 20:44 (1 days ago)
+190.122.184.69:8080	HTTPS (Mikrotik)	NOA	Guatemala (Esquipulas) !!!	190-122-184-69.reverse.cablecolor.com.gt (CABLECOLOR S.A.)	2.022	 13% (9) -	26-jul-2021 20:31 (1 days ago)
+51.116.180.157:3128	HTTPS (Squid)	NOA	Germany (Frankfurt am Main)	51.116.180.157 (MICROSOFT-CORP-MSN-AS-BLOCK)	9.419	 13% (4) +	26-jul-2021 20:29 (1 days ago)
+201.174.104.222:999	HTTPS (Mikrotik)	NOA	Mexico (Chihuahua City) !!!	201-174-104-222.transtelco.net (TRANSTELCO-INC)	11.889	 11% (33) +	26-jul-2021 20:29 (1 days ago)
+1.0.205.87:8080	HTTPS (Mikrotik)	NOA	Thailand (Kapong)	node-f9z.pool-1-0.dynamic.totinternet.net (TOT Public Company Limited)	5.307	 19% (87) -	26-jul-2021 20:27 (1 days ago)
+168.196.192.114:3128	HTTPS (Mikrotik)	NOA	Brazil (Abreu e Lima)	168.196.192.114 (FELIPE MAURICIO DE QUEIROZ)	2.703	 32% (104) -	26-jul-2021 20:23 (1 days ago)
+116.203.155.45:8118	HTTPS	HIA	Germany	static.45.155.203.116.clients.your-server.de (Hetzner Online GmbH)	12.348	 6% (23) -	26-jul-2021 20:23 (1 days ago)
+144.126.220.117:3128	HTTPS (Squid)	NOA	United States (Santa Clara)	144.126.220.117 (DIGITALOCEAN-ASN)	8.534	 15% (18) +	26-jul-2021 20:19 (1 days ago)
+200.24.135.59:999	HTTPS (Mikrotik)	NOA	Ecuador !!!	host-200-24-135-59.nedetel.net (NEDETEL S.A.)	1.403	 25% (1) -	26-jul-2021 20:12 (1 days ago)
+140.227.69.170:6000	HTTPS	HIA	Japan	140-227-69-170.vpscloud.static.arena.ne.jp (NTT PC Communications, Inc.)	4.162	 27% (26) +	26-jul-2021 20:10 (1 days ago)
+45.233.65.41:999	HTTPS (Mikrotik)	NOA	Guatemala (Jalapa) !!!	host-45-233-65-41.inetguatemala.net (CONECTIVIDAD Y TECNOLOGIA S.A.)	1.765	 28% (23) +	26-jul-2021 20:09 (1 days ago)
+139.180.137.52:8118	HTTPS	HIA	Singapore (Singapore)	139.180.137.52.vultr.com (AS-CHOOPA)	3.249	 9% (3) -	26-jul-2021 20:08 (1 days ago)
+94.140.234.76:3128	HTTPS (Squid)	NOA	Russia (Sortavala)	94.140.234.76 (CityLink Ltd)	1.519	 44% (28) +	26-jul-2021 20:08 (1 days ago)
+172.107.159.202:443	HTTPS	HIA	Singapore	172.107.159.202 (AS40676)	1.601	 31% (20) +	26-jul-2021 20:06 (1 days ago)
+38.111.97.105:8080	HTTPS (Mikrotik)	NOA	Canada (Georgetown) !!!	38.111.97.105 (COGENT-174)	12.067	 14% (30) -	26-jul-2021 20:01 (1 days ago)
+190.61.99.185:999	HTTPS (Mikrotik)	NOA	Guatemala (Guatemala City)	185.99.61.190.ufinet.com.gt (UFINET PANAMA S.A.)	8.136	 6% (15) +	26-jul-2021 20:00 (1 days ago)
+47.245.33.211:8118	HTTPS	HIA	Japan (Tokyo)	47.245.33.211 (Alibaba US Technology Co., Ltd.)	1.628	 6% (2) +	26-jul-2021 19:58 (1 days ago)
+31.40.146.169:53281	HTTPS	HIA	Russia (Temryuk)	when.davepaint.com (Comfort XXI Century Ltd.)	0.527	 11% (1) +	26-jul-2021 19:53 (1 days ago)
+129.18.175.126:8080	HTTPS (Mikrotik)	NOA	Nigeria (Lagos)	129.18.175.126 (SWIFTNG-ASN)	4.427	 32% (25) +	26-jul-2021 19:51 (1 days ago)
+46.36.132.23:8080	HTTPS (Mikrotik)	NOA	Kazakhstan (Almaty)	46.36.132.23 (JSC Alma Telecommunications)	4.176	 25% (80) +	26-jul-2021 19:38 (1 days ago)
+176.236.226.187:8080	HTTPS (Mikrotik)	NOA	Turkey	176.236.226.187 (Tellcom Iletisim Hizmetleri A.s.)	3.729	 25% (25) +	26-jul-2021 19:37 (1 days ago)
+186.195.80.84:8080	HTTPS (Mikrotik)	NOA	Brazil (Bom Despacho)	186-195-80-84.bdonline.com.br (Vero Internet)	8.67	 35% (6) +	26-jul-2021 19:35 (1 days ago)
+82.114.70.46:8080	HTTPS (Mikrotik)	NOA	Albania !!!	82.114.70.46 (Kujtesa Net Sh.p.k.)	10.004	 34% (65) +	26-jul-2021 19:27 (1 days ago)
+186.3.47.253:999	HTTPS (Mikrotik)	NOA	Ecuador	186.3.47.253 (Telconet S.A)	4.057	 30% (17) -	26-jul-2021 19:22 (1 days ago)
+188.133.192.164:8081	HTTPS (Mikrotik)	NOA	Russia (Barnaul)	188.133.192-164.xdsl.ab.ru (Rostelecom)	10.704	 17% (68) -	26-jul-2021 19:11 (1 days ago)
+190.108.93.87:999	HTTPS (Mikrotik)	NOA	Peru (Lima)	190.108.93.87 (INTERNEXA PERU S.A)	3.131	 74% (39) -	26-jul-2021 19:04 (1 days ago)
+115.243.184.76:23500	HTTPS	HIA	India (Araghar)	115.243.184.76.static.jio.com (Reliance Jio Infocomm Limited)	1.294	 29% (56) +	26-jul-2021 19:00 (1 days ago)
+176.121.1.5:8181	HTTPS (Mikrotik)	NOA	Ukraine (Rivne)	176.121.1.5 (FOP Saiv Igor Stepanovich)	4.782	 57% (13) +	26-jul-2021 18:56 (1 days ago)
+43.255.217.186:1337	HTTPS (Mikrotik)	NOA	Philippines (Valenzuela)	static-host-43-255-217-186.tri.ph (SKYBroadband SKYCable Corporation)	4.764	 67% (2) +	26-jul-2021 18:50 (1 days ago)
+45.189.252.40:999	HTTPS (Mikrotik)	NOA	Mexico (Alvarado)	45.189.252.40 (TRACERED SA DE CV)	5.644	 54% (13) +	26-jul-2021 18:48 (1 days ago)
+103.251.225.18:35101	HTTPS	HIA	India (Bharuch)	103.251.225.18 (Gujarat Telelink Pvt Ltd)	3.486	 18% (47) -	26-jul-2021 18:18 (1 days ago)
+181.189.225.203:3128	HTTPS (Mikrotik)	NOA	Honduras (Tegucigalpa)	181.189.225.203 (Columbus Networks de Honduras S. de R.L.)	10.762	 38% (5) +	26-jul-2021 17:58 (1 days ago)
+176.235.182.99:8080	HTTPS (Mikrotik)	ANM	Turkey (Gaziantep) !!!	176.235.182.99 (Tellcom Iletisim Hizmetleri A.s.)	2.389	 32% (59) +	26-jul-2021 17:46 (1 days ago)
+181.48.220.250:999	HTTPS (Mikrotik)	NOA	Colombia (Yopal)	181.48.220.250 (Telmex Colombia S.A.)	12.441	 77% (20) -	26-jul-2021 17:43 (1 days ago)
+190.248.153.162:8080	HTTPS (Mikrotik)	NOA	Colombia (Arauca)	cable190-248-153-162.une.net.co (EPM Telecomunicaciones S.A. E.S.P.)	12.941	 34% (703) -	26-jul-2021 17:41 (1 days ago)
+212.164.52.198:443	HTTPS (Mikrotik)	NOA	Russia (Novosibirsk)	212.164.52.198 (Rostelecom)	6.622	 17% (51) -	26-jul-2021 17:39 (1 days ago)
+41.71.9.109:8080	HTTPS (Mikrotik)	NOA	South Africa (Pretoria)	41-71-9-109.superfast.rsaweb.co.za (RSAWEB Internet Services)	2.32	 38% (3) -	26-jul-2021 17:37 (1 days ago)
+1.10.188.78:45208	HTTPS	HIA	Thailand (Bangkok)	node-bwu.pool-1-10.dynamic.totinternet.net (TOT Public Company Limited)	11.104	 19% (37) -	26-jul-2021 17:37 (1 days ago)
+45.181.204.2:8080	HTTPS (Mikrotik)	NOA	Colombia (Santander de Quilichao)	45.181.204.2 (TV AZTECA SUCURSAL COLOMBIA)	2.319	 19% (34) +	26-jul-2021 17:36 (1 days ago)
+179.57.11.183:999	HTTPS (Mikrotik)	NOA	Chile (Temuco)	179.57.11.183 (Telefonica del Sur S.A.)	3.379	 19% (6) -	26-jul-2021 17:28 (1 days ago)
+170.0.54.254:49912	HTTPS	HIA	Brazil (Vitorino Freire)	170.0.54.254 (TELECOM SCAE LTDA)	6.199	 23% (14) -	26-jul-2021 17:09 (1 days ago)
+178.209.25.170:8080	HTTPS (Mikrotik)	NOA	Bosnia and Herzegovina (Travnik)	178.209.25.170 (Telemach d.o.o. Sarajevo)	1.311	 54% (13) -	26-jul-2021 17:07 (1 days ago)
+91.93.48.33:9090	HTTPS (Mikrotik)	NOA	Turkey (Bursa) !!!	host-91-93-48-33.reverse.superonline.net (Tellcom Iletisim Hizmetleri A.s.)	6.756	 38% (8) -	26-jul-2021 17:05 (1 days ago)
+190.109.168.217:8080	HTTPS (Mikrotik)	NOA	Colombia	190.109.168.217 (EDATEL S.A. E.S.P)	7.518	 20% (55) -	26-jul-2021 16:55 (1 days ago)
+201.20.105.198:8080	HTTPS (Mikrotik)	NOA	Brazil (João Pessoa)	201-20-105-198.mobtelecom.com.br (Mob Servicos de Telecomunicacoes Ltda)	3.123	 33% (79) -	26-jul-2021 16:51 (1 days ago)
+201.216.91.35:6666	HTTPS	HIA	Brazil	imdt-201-216-91-35.iveloz.net.br (Iveloz Telecom)	4.513	 28% (32) -	26-jul-2021 16:44 (1 days ago)
+93.157.12.248:8080	HTTPS (Mikrotik)	NOA	Ukraine	93.157.12.248 (Pe tk Amt)	0.394	 27% (103) -	26-jul-2021 16:42 (1 days ago)
+79.120.177.106:8080	HTTPS (Mikrotik)	NOA	Hungary (Budapest)	mail.andapresent.hu (Invitech ICT Services Kft.)	5.117	 64% (1332) +	26-jul-2021 16:33 (1 days ago)
+23.105.191.105:8080	HTTPS (Mikrotik)	NOA	United States (Washington)	23.105.191.105 (LEASEWEB-USA-WDC)	5.495	 43% (29) -	26-jul-2021 16:30 (1 days ago)
+77.222.158.126:8080	HTTPS (Mikrotik)	NOA	Ukraine (Nizhyn)	77-222-158-126-static.retail.datagroup.ua (Private Joint Stock Company datagroup)	10.618	 23% (54) -	26-jul-2021 16:25 (1 days ago)
+131.221.98.98:55443	HTTPS	HIA	Brazil (Toritama)	131.221.98.98 (Jobson Luis Melo de Negreiros ME)	10.034	 21% (3) -	26-jul-2021 16:15 (1 days ago)
+79.127.56.148:8080	HTTPS (Mikrotik)	NOA	Iran !!!	79.127.56.148 (Asiatech Data Transmission company)	4.364	 24% (20) +	26-jul-2021 16:10 (1 days ago)
+103.196.162.244:8080	HTTPS (Mikrotik)	NOA	Pakistan (Karachi)	103.196.162.244 (Connect Communications)	6.783	 100% (2) -	26-jul-2021 15:37 (1 days ago)
+183.87.153.98:49602	HTTPS	HIA	India (Pune)	98-153-87-183.mysipl.com (Syscon Infoway Pvt. Ltd.)	8.821	 28% (114) -	26-jul-2021 15:23 (1 days ago)
+85.90.214.193:8080	HTTPS (Mikrotik)	NOA	Ukraine (Kharkiv)	85.90.214.193 (VELTON.TELECOM Ltd)	3.793	 50% (1) +	26-jul-2021 15:19 (1 days ago)
+200.55.218.202:53281	HTTPS	HIA	Chile (San Miguel)	static.200.55.218.202.gtdinternet.com (Gtd Internet S.A.)	1.721	 14% (64) +	26-jul-2021 15:04 (1 days ago)
+45.160.73.145:999	HTTPS (Mikrotik)	NOA	Chile (San Bernardo) !!!	reverso.45.160.73.145.static.bestdns.cl (Besthost Spa)	4.554	 42% (11) +	26-jul-2021 14:55 (1 days ago)
+188.225.252.135:82	HTTPS (Mikrotik)	NOA	Palestinian Territory	188.225.252.135 (fusion services)	3.344	 36% (4) -	26-jul-2021 14:53 (1 days ago)
+45.162.126.1:999	HTTPS (Mikrotik)	NOA	Colombia (San Agustin) !!!	45.162.126.1 (LEGON TELECOMUNICACIONES SAS)	1.397	 29% (5) -	26-jul-2021 14:47 (1 days ago)
+45.229.32.190:999	HTTPS (Mikrotik)	NOA	Dominican Republic (Santo Domingo Este)	45.229.32.190 (Gold Data C.A.)	1.229	 18% (11) +	26-jul-2021 14:38 (1 days ago)
+95.173.254.134:9090	HTTPS	HIA	Turkey (Çanakkale)	95-173-254-134.milleni.com.tr (Millenicom GmbH)	1.188	 38% (9) -	26-jul-2021 14:37 (1 days ago)
+178.134.208.126:50824	HTTPS	HIA	Georgia (K`alak`i T`bilisi)	178-134-208-126.dsl.utg.ge (JSC Silknet)	1.238	 21% (63) -	26-jul-2021 14:34 (1 days ago)
+200.35.161.98:999	HTTPS (Mikrotik)	NOA	Guatemala (Mixco)	200.35.161.98 (Navega.com S.A.)	4.183	 40% (6) +	26-jul-2021 14:09 (1 days ago)
+160.16.78.56:3128	HTTPS	HIA	Japan (Tokyo)	tk2-215-17052.vs.sakura.ne.jp (SAKURA Internet Inc.)	5.988	 27% (19) -	26-jul-2021 13:59 (1 days ago)
+45.136.53.230:8080	HTTPS	HIA	Georgia	45.136.53.230 (GreenNetworks LLC)	3.42	 39% (24) -	26-jul-2021 13:47 (1 days ago)
+190.112.156.11:6666	HTTPS	HIA	Brazil (Morros)	190-112-156-11.octatelecom.com.br (OCTA TELECOM)	6.295	 14% (5) -	26-jul-2021 13:46 (1 days ago)
+171.247.43.180:4003	HTTPS	HIA	VietNam (Trang Bom) !!!	dynamic-ip-adsl.viettel.vn (Viettel Group)	1.345	 33% (1)	26-jul-2021 13:42 (1 days ago)
+182.23.45.166:3128	HTTPS (Squid)	NOA	Indonesia (Jakarta)	182.23.45.166 (Network Access Provider and Internet Service Provider)	6.064	 new	26-jul-2021 13:41 (1 days ago)
+94.228.118.147:1329	HTTPS	HIA	Russia	519197-cr69793.tmweb.ru (TimeWeb Ltd.)	7.948	 13% (2) -	26-jul-2021 13:40 (1 days ago)
+185.242.161.46:1919	HTTPS (Squid)	NOA	Turkey (Istanbul)	185.242.161.46.hizhosting.com (Cnc Bilisim Hizmetleri Ins San Tic Ltd Sti)	0.808	 42% (5) +	26-jul-2021 13:40 (1 days ago)
+193.86.229.230:8080	HTTPS (Mikrotik)	NOA	Czech Republic (Brno)	193.86.229.230 (T-Mobile Czech Republic a.s.)	6.084	 39% (617) +	26-jul-2021 13:40 (1 days ago)
+103.158.69.178:3128	HTTPS	HIA	Indonesia !!!	178.69.158.103.Ai-bkti-dm-2.iforte.net.id (PT iForte Global Internet)	7.895	 67% (2)	26-jul-2021 13:39 (1 days ago)
+155.93.96.210:8080	HTTPS (Mikrotik)	NOA	Nigeria (Lagos)	155.93.96.210 (Inq-Digital-Nigeria-AS)	1.089	 31% (24) +	26-jul-2021 13:35 (1 days ago)
+185.234.248.253:8080	HTTPS (Mikrotik)	NOA	Slovakia (Pukanec)	185.234.248.253 (Slovanet a.s.)	8.839	 33% (13) -	26-jul-2021 13:33 (1 days ago)
+177.93.38.115:999	HTTPS (Mikrotik)	NOA	Colombia (Puerto Asís) !!!	azteca-comunicaciones.com (TV AZTECA SUCURSAL COLOMBIA)	5.551	 25% (1) -	26-jul-2021 13:12 (1 days ago)
+195.140.226.244:8080	HTTPS (Mikrotik)	NOA	Ukraine (Kharkiv)	195.140.226-244.therecom.net (Therecom Ltd)	3.688	 23% (194) -	26-jul-2021 13:01 (1 days ago)
+78.45.30.184:8080	HTTPS	HIA	Czech Republic (Prague)	ip-78-45-30-184.net.upcbroadband.cz (Vodafone Czech Republic a.s.)	7.613	 38% (20) -	26-jul-2021 12:57 (1 days ago)
+103.155.54.14:84	HTTPS (Mikrotik)	NOA	India (Haldia)	103.155.54.14 (Pegasuswave Private Limited)	1.825	 60% (6) -	26-jul-2021 12:55 (1 days ago)
+181.78.12.46:8080	HTTPS (Mikrotik)	NOA	Colombia	46.12.78.181.ufinet.com.co (UFINET PANAMA S.A.)	1.179	 33% (2) +	26-jul-2021 12:52 (1 days ago)
+177.53.152.146:999	HTTPS (Mikrotik)	NOA	Peru (Ancon)	177-53-152-146.liber.com.pe (MORENO YANOC NEMIAS BERNARDO)	1.907	 56% (5) +	26-jul-2021 12:46 (1 days ago)
+186.96.177.24:3128	HTTPS (Mikrotik)	NOA	Mexico (Querétaro City)	fixed-186-96-177-24.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	8.745	 21% (47) +	26-jul-2021 12:45 (1 days ago)
+181.78.11.221:999	HTTPS (Mikrotik)	NOA	Colombia (La Paz) !!!	221.11.78.181.ufinet.com.co (UFINET PANAMA S.A.)	7.65	 29% (11) -	26-jul-2021 12:45 (1 days ago)
+200.117.153.237:8080	HTTPS (Mikrotik)	NOA	Argentina (Las Higueras)	host237.200-117-153.telecom.net.ar (Telecom Argentina S.A.)	10.778	 21% (3) -	26-jul-2021 12:45 (1 days ago)
+95.216.9.69:2020	HTTPS	HIA	Finland (Helsinki)	gw1 (Hetzner Online GmbH)	5.174	 11% (20) -	26-jul-2021 12:41 (1 days ago)
+190.92.67.246:999	HTTPS (Mikrotik)	NOA	Honduras (San Pedro Sula)	190-92-67-246.reverse.cablecolor.hn (CABLECOLOR S.A.)	3.863	 33% (7) +	26-jul-2021 12:40 (1 days ago)
+89.208.35.79:60358	HTTPS	HIA	Russia (Reutov)	89.208.35.79 (LLC Digital Network)	3.09	 14% (27) -	26-jul-2021 12:39 (1 days ago)
+94.28.234.193:53281	HTTPS	HIA	Russia (Tula)	node-193-234-28-94.domolink.tula.net (Rostelecom)	2.092	 17% (1) +	26-jul-2021 12:39 (1 days ago)
+190.145.200.126:53281	HTTPS	HIA	Colombia (Medellín)	190.145.200.126 (Telmex Colombia S.A.)	6.465	 19% (75) -	26-jul-2021 12:38 (1 days ago)
+45.250.226.14:8080	HTTPS (Mikrotik)	NOA	India (Pune)	45.250.226.14 (AS Number of Indusind Media and communication Ltd.)	6.182	 22% (34) -	26-jul-2021 12:37 (1 days ago)
+138.36.151.28:8090	HTTPS (Mikrotik)	NOA	Argentina (Mariano Moreno) !!!	138.36.151.28 (Pedraza Luis Eduardo DANEZ)	3.566	 20% (2) -	26-jul-2021 12:36 (1 days ago)
+103.114.10.250:8080	HTTPS (Mikrotik)	NOA	Bangladesh (Chittagong) !!!	103.114.10.250 (Space Walker)	3.733	 19% (57) -	26-jul-2021 12:35 (1 days ago)
+203.112.209.10:8080	HTTPS (Mikrotik)	NOA	Bangladesh (Nalchiti)	203.112.209.10 (Bangladesh Telecommunications Company Limited BTCL, Nationwide PSTN Operator and Data and In)	3.576	 34% (46) -	26-jul-2021 12:32 (1 days ago)
+168.90.255.155:999	HTTPS (Mikrotik)	NOA	Argentina (Zárate) !!!	155-255-90-168.wifinet.com.ar (TECNOCOMP S.R.L.)	5.219	 60% (3) -	26-jul-2021 12:31 (1 days ago)
+1.20.235.100:8080	HTTPS (Mikrotik)	NOA	Thailand (Phuket)	1.20.235.100 (TOT Public Company Limited)	3.809	 23% (126) -	26-jul-2021 12:29 (1 days ago)
+2.139.232.101:3128	HTTPS (Mikrotik)	NOA	Spain (El Astillero) !!!	101.red-2-139-232.staticip.rima-tde.net (Telefonica De Espana)	5.055	 22% (136) -	26-jul-2021 12:27 (1 days ago)
