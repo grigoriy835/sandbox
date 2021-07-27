@@ -107,10 +107,9 @@ sources = [
 ]
 
 
-
 class hashabledict(dict):
     def __hash__(self):
-        return int(self['id'])
+        return int(hashlib.sha1(self['link'].encode("utf-8")).hexdigest(), 16) % (10 ** 8)
 
     @classmethod
     def from_dict(cls, item: dict):
