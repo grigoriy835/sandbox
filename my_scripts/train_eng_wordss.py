@@ -7,6 +7,9 @@ eng_rus = False
 tt = [
     ['postpone', 'переносить, откладывать', ],
     ['convenient', 'удобный', ],
+    ['formed', 'образовался', ],
+    ['hence', 'следовательно', ],
+    ['valture', 'стервятник, гриф', ],
 ]
 
 while tt:
@@ -21,3 +24,4 @@ while tt:
         print(f'{word[0]} {word[2] if len(word) > 2 else ""}')
     print('\n')
     time.sleep(1)
+    input(word[1])

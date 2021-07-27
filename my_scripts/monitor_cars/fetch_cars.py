@@ -222,8 +222,11 @@ fun_mapping = {
 
 
 def extract_new_records(old: List[Dict], actual: List[Dict]) -> List[Dict]:
-    new = set(actual) - set(old)
-    return list(new)
+    new = []
+    for act in actual:
+        if hash(act) not in map(hash, old):
+            new.append(act)
+    return new
 
 
 def process_new_items(source: dict, new_items: List[Dict]) -> None:
