@@ -1,2 +1,2 @@
-0 * * * * root docker start fetch_cars
+0 */8 * * * root docker start fetch_cars
 

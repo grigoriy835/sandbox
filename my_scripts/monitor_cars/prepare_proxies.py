@@ -75,7 +75,7 @@ with open('not_formated proxies.txt', 'r') as f:
     except Exception as e:
         pass
 
-with open('proxy_list.json', 'w') as e:
+with open('app\\proxy_list.json', 'w') as e:
     json.dump(list(s), e)
 
 print(len(s))

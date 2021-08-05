@@ -14,97 +14,8 @@ avito_notified = False
 with open('proxy_list.json', 'r') as f:
     proxy_list = json.load(f)
 
-sources = [
-    {
-        'type': 'avito',
-        'url': 'https://www.avito.ru/nizhniy_novgorod/avtomobili?f=ASgBAQECA0TyCrCKAeC2DYyZKOK2DfCjKAJA7rYNFOa3KPC2DRTstygCRfgCF3siZnJvbSI6Mjg0NCwidG8iOm51bGx9xpoMFnsiZnJvbSI6MCwidG8iOjU1MDAwMH0&radius=100&user=1',
-        'info': 'рено дастер'
-    },
-    {
-        'type': 'avito',
-        'url': 'https://www.avito.ru/nizhniy_novgorod/avtomobili?f=ASgBAQECA0TyCrCKAeC2DaiZKOK2DcyxKAJA7rYNFOa3KPC2DRTstygCRfgCF3siZnJvbSI6Mjg0NCwidG8iOm51bGx9xpoMFnsiZnJvbSI6MCwidG8iOjU1MDAwMH0&radius=100&user=1',
-        'info': 'сузуки свифт до 550'
-    },
-    {
-        'type': 'avito',
-        'url': 'https://www.avito.ru/nizhniy_novgorod/avtomobili?f=ASgBAQECA0TyCrCKAeC2DZ6ZKOK2DYilKAJA7rYNFOa3KPC2DRTstygCRfgCF3siZnJvbSI6Mjg0NCwidG8iOm51bGx9xpoMFnsiZnJvbSI6MCwidG8iOjU1MDAwMH0&radius=100&user=1',
-        'info': 'шкода фабий'
-    },
-    {
-        'type': 'avito',
-        'url': 'https://www.avito.ru/nizhniy_novgorod/avtomobili?f=ASgBAQECA0TyCrCKAeC2DcqYKOK2DaqhKAJA7rYNFOa3KPC2DRTstygCRfgCF3siZnJvbSI6Mjg0NCwidG8iOm51bGx9xpoMFnsiZnJvbSI6MCwidG8iOjU1MDAwMH0&radius=100&user=1',
-        'info': 'киа серато'
-    },
-    {
-
-        'type': 'avito',
-        'url': 'https://www.avito.ru/nizhniy_novgorod/avtomobili?f=ASgBAQECA0TyCrCKAeC2DcqYKOK2DZShKAJA7rYNFOa3KPC2DRTstygCRfgCF3siZnJvbSI6Mjg0NCwidG8iOm51bGx9xpoMFnsiZnJvbSI6MCwidG8iOjU1MDAwMH0&radius=100&user=1',
-        'info': 'киа сид'
-    },
-    {
-        'type': 'avito',
-        'url': 'https://www.avito.ru/nizhniy_novgorod/avtomobili/skoda/octavia/peredniy_privod-ASgBAQICAkTgtg2emSjitg2ErCgBQO62DRTmtyg?f=ASgBAQECA0TyCrCKAeC2DZ6ZKOK2DYSsKAFA7rYNFOa3KAJF~AIXeyJmcm9tIjoyODQ0LCJ0byI6bnVsbH3GmgwWeyJmcm9tIjowLCJ0byI6NTUwMDAwfQ&radius=100&user=1',
-        'info': 'октавиа механника и робот'
-    },
-    {
-        'type': 'avito',
-        'url': 'https://www.avito.ru/nizhniy_novgorod/avtomobili?f=ASgBAQECA0TyCrCKAeC2DfqYKOK2DfKrKAJA7rYNFOa3KPC2DRTstygCRfgCF3siZnJvbSI6Mjg0NCwidG8iOm51bGx9xpoMFnsiZnJvbSI6MCwidG8iOjU1MDAwMH0&radius=100&user=1',
-        'info': 'ниссан нот'
-    },
-    # autoru -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    {
-        'type': 'autoru',
-        'url': 'https://auto.ru/nizhniy_novgorod/cars/suzuki/swift/used/?year_from=2010&price_from=350000&price_to=550000&transmission=MECHANICAL&geo_radius=100&sort=cr_date-desc',
-        'info': 'сузуки свифт'
-    },
-    {
-        'type': 'autoru',
-        'url': 'https://auto.ru/nizhniy_novgorod/cars/kia/cerato/used/?year_from=2010&price_to=550000&sort=cr_date-desc&geo_radius=100&transmission=MECHANICAL',
-        'info': 'киа серато'
-    },
-    {
-        'type': 'autoru',
-        'url': 'https://auto.ru/nizhniy_novgorod/cars/skoda/octavia/used/?year_from=2010&price_to=550000&transmission=MECHANICAL&transmission=ROBOT&geo_radius=100&sort=cr_date-desc',
-        'info': 'октавиа механника и робот'
-    },
-    {
-        'type': 'autoru',
-        'url': 'https://auto.ru/nizhniy_novgorod/cars/skoda/fabia/used/?year_from=2010&displacement_from=1400&transmission=MECHANICAL&geo_radius=100&sort=cr_date-desc&price_to=550000',
-        'info': 'шкода фабий'
-    },
-    {
-        'type': 'autoru',
-        'url': 'https://auto.ru/nizhniy_novgorod/cars/kia/ceed/used/?geo_radius=100&year_from=2010&price_from=400000&price_to=550000&displacement_from=1400&transmission=MECHANICAL',
-        'info': 'киа сид'
-    },
-    {
-        'type': 'autoru',
-        'url': 'https://auto.ru/nizhniy_novgorod/cars/renault/duster/used/?year_from=2010&price_from=300000&price_to=550000&transmission=MECHANICAL&geo_radius=100&sort=cr_date-desc',
-        'info': 'сузуки свифт'
-    },
-    {
-        'type': 'autoru',
-        'url': 'https://auto.ru/nizhniy_novgorod/cars/nissan/note/used/?year_from=2010&price_from=300000&price_to=550000&sort=cr_date-desc&geo_radius=100&transmission=MECHANICAL',
-        'info': 'ниссан ноут'
-    },
-    {
-        'type': 'autoru',
-        'url': 'https://auto.ru/nizhniy_novgorod/cars/vendor-foreign/all/?year_from=2018&price_from=500000&price_to=600000&geo_radius=100&sort=cr_date-desc&transmission=MECHANICAL',
-        'info': 'foreign cars > 2018 year'
-    },
-    {
-        'type': 'autoru',
-        'url': 'https://auto.ru/nizhniy_novgorod/cars/ford/focus/used/?year_from=2012&price_from=400000&price_to=550000&geo_radius=100&transmission=MECHANICAL&sort=cr_date-desc',
-        'info': 'autoru ford_focus > 2012'
-    },
-    {
-        'type': 'avito',
-        'url': 'https://www.avito.ru/nizhniy_novgorod/avtomobili?f=ASgBAQECA0TyCrCKAeC2DZyYKOK2DcKlKAJA7rYNFOa3KPC2DRTstygDRfgCF3siZnJvbSI6Mjg0NCwidG8iOm51bGx9vBUYeyJmcm9tIjoxNTc4NiwidG8iOm51bGx9xpoMG3siZnJvbSI6NDAwMDAwLCJ0byI6NTUwMDAwfQ&radius=100&user=1',
-        'info': 'avito ford_focus > 2012'
-    },
-
-    
-]
+with open('sources.json', 'r') as f:
+    sources = json.load(f)
 
 
 class hashabledict(dict):
@@ -214,10 +125,15 @@ def parse_drom(url) -> List[Dict]:
     return []
 
 
+def skip_parse(url) -> List[Dict]:
+    return []
+
+
 fun_mapping = {
     'drom': parse_drom,
     'avito': parse_avito,
     'autoru': parse_autoru,
+    'skip': skip_parse,
 }
 
 
@@ -235,7 +151,7 @@ def process_new_items(source: dict, new_items: List[Dict]) -> None:
         time = item["time"] if "time" in item and item['time'] else ""
         requests.post('https://api.telegram.org/bot1868613248:AAGnE3Z3zj1H75z6KI6Nfr3kuzW-3LwIAUQ/sendMessage', json={
             'chat_id': chat_id,
-            'text': f'{time}{item["link"]}'
+            'text': f'{source["id"]} - {source["info"]}\n{time}{item["link"]}'
         })
     pass
 
@@ -274,6 +190,7 @@ if __name__ == '__main__':
     new_records_to_save = {}
     for id_ in range(0, len(sources)):
         source = sources[id_]
+        source['id'] = id_
         id_ = str(id_)
         if source['type'] in fun_mapping:
             old_items = old_records[id_] if id_ in old_records else []
