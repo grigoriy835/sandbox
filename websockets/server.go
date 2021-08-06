@@ -105,6 +105,10 @@ func get_updates(w http.ResponseWriter, r *http.Request) {
 			}
 		}
 	}
+	err = c.WriteMessage(websocket.TextMessage, []byte("TEST"))
+	if err != nil {
+		log.Println("server: write:", err)
+	}
 
 	for {
 		message := <-cli.C

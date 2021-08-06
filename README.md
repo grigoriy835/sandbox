@@ -1,2 +1,3 @@
-# sandbox
-repo for playing with some languages or frameworks
+# GO sandbox
+
+there placed some examples and code samples of go code
