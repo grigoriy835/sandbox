@@ -51,6 +51,11 @@ def parse_autoru(url) -> List[Dict]:
 
 
 def parse_avito(url) -> List[Dict]:
+    if 'localPriority' not in url:
+        url += '&localPriority=1'
+    if 'radius' not in url:
+        url += '&radius=100'
+
     user_as = [
         'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FSL 7.0.6.01001)',
         'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FSL 7.0.7.01001)',
