@@ -1,35 +1,62 @@
 package main
 
 import (
-	"crypto/subtle"
+	"bytes"
+	"encoding/json"
 	"fmt"
 	"net/http"
 )
 
-const (
-	CONN_HOST      = "localhost"
-	CONN_PORT      = "8080"
-	ADMIN_USER     = "admin"
-	ADMIN_PASSWORD = "admin"
-)
+type WebStorage struct {
+	host string
+}
 
-func helloWorld(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprintf(w, "Hello World!")
+func NewWebStorage(host string) *WebStorage {
+	return &WebStorage{host: host}
 }
-func BasicAuth(handler http.HandlerFunc, realm string) http.HandlerFunc {
-	return func(w http.ResponseWriter, r *http.Request) {
-		user, pass, ok := r.BasicAuth()
-		if !ok || subtle.ConstantTimeCompare([]byte(user),
-			[]byte(ADMIN_USER)) != 1 || subtle.ConstantTimeCompare([]byte(pass),
-			[]byte(ADMIN_PASSWORD)) != 1 {
-			w.Header().Set("WWW-Authenticate", `Basic realm="`+realm+`"`)
-			w.WriteHeader(401)
-			w.Write([]byte("You are Unauthorized to access the			application.\n			"))
-			return
-		}
-		handler(w, r)
+
+type PairRecord struct {
+	pair_id   int
+	curr_from string
+	curr_to   string
+	config    map[string]interface{}
+}
+
+type ScheduleRecord struct {
+	source_name string
+	source_id   int
+	pairs       []PairRecord
+}
+
+func (s *WebStorage) FetchScheduleConfig() ([]ScheduleRecord, error) {
+	var m []ScheduleRecord
+
+	req, err := http.NewRequest("POST", fmt.Sprintf("http://%v/schedule/get_all_by_sources", s.host), nil)
+	if err != nil {
+		return nil, err
 	}
+	defer req.Body.Close()
+	err = json.NewDecoder(req.Body).Decode(&m)
+	if err != nil {
+		return nil, err
+	}
+
+	return m, nil
 }
+
+func (s *WebStorage) StoreQuotesData(data []interface{}) error {
+	body, err := json.Marshal(data)
+	if err != nil {
+		return err
+	}
+	_, err = http.NewRequest("POST", fmt.Sprintf("http://%v/quotes/save_quotes", s.host), bytes.NewBuffer(body))
+	if err != nil {
+		return err
+	}
+
+	return nil
+}
+
 func main() {
 
 	fmt.Println("")

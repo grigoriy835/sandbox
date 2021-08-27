@@ -8,23 +8,23 @@ import (
 func main() {
 	fmt.Println("start")
 
-	gorutine()
+	//gorutine()
 
-	channel()
+	//channel()
 
-	bufferedChannel()
+	//bufferedChannel()
 
-	syncByChannel()
+	//syncByChannel()
 
-	usingSelect()
+	//usingSelect()
 
-	timeout()
+	//timeout()
 
-	nonBlocking()
+	//nonBlocking()
 
-	closingChannel()
+	//closingChannel()
 
-	rangeOverChannel()
+	//rangeOverChannel()
 }
 
 func f(from string) {

@@ -24,7 +24,7 @@ func worker1(id int, jobs <-chan int, results chan<- int) {
 }
 
 func workerPools() {
-	const numJobs = 5
+	const numJobs = 10
 	jobs := make(chan int, numJobs)
 	results := make(chan int, numJobs)
 
