@@ -33,7 +33,7 @@ class hashabledict(dict):
 
 def parse_autoru(url) -> List[Dict]:
     def is_a_item(tag: Tag):
-        return tag.name == 'div' and tag.has_attr('class') and 'ListingItem-module__container' in tag['class']
+        return tag.name == 'div' and tag.has_attr('class') and 'ListingItem' in tag['class']
 
     page = requests.get(url)
     soup = BeautifulSoup(page.text, 'html.parser')

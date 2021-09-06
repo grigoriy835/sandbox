@@ -25,7 +25,7 @@
         "info": "Renault Sandero 2015+ from 350k-600k in 100km"
     },
     {
-        "type": "avito",
+        "type": "skip",
         "url": "https://www.avito.ru/nizhniy_novgorod/avtomobili/opel/astra/levyy_rul-ASgBAQICAkTgtg3~mCjitg3cnigBQPAKFKyKAQ?f=ASgBAQECA0TyCrCKAeC2Df6YKOK2DdyeKAFA8AoUrIoBAUXGmgwbeyJmcm9tIjozNTAwMDAsInRvIjo2MDAwMDB9&localPriority=1&radius=100",
         "info": "opel astra j from 350k-600k in 100km"
     },
@@ -45,7 +45,7 @@
         "info": "Renault Sandero 2014+ 350-600 in 100kmk"
     },
     {
-        "type": "autoru",
+        "type": "skip",
         "url": "https://auto.ru/nizhniy_novgorod/cars/opel/astra-astra/all/?price_from=350000&price_to=600000&sort=cr_date-desc&geo_radius=100",
         "info": "opel astra j 2014+ 350-600 in 100kmk"
     }
