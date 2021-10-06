@@ -53,6 +53,7 @@ func worker2(id int, wg *sync.WaitGroup) {
 }
 
 func waitGroup() {
+	//checking how wg working (on w8 moment it check if count of jobs equal 0, can cause some errors for gorutines)
 
 	var wg sync.WaitGroup
 
@@ -66,7 +67,8 @@ func waitGroup() {
 
 	}(&wg)
 
-	time.Sleep(time.Second)
+	//time.Sleep(time.Second)
 	wg.Wait()
 	fmt.Printf("w8ed in main tread\n")
+	time.Sleep(time.Second)
 }
