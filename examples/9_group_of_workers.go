@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	print("start\n")
+	fmt.Printf("start\n")
 
 	workerPools()
 
@@ -48,7 +48,7 @@ func worker2(id int, wg *sync.WaitGroup) {
 
 	fmt.Printf("Worker %d starting\n", id)
 
-	time.Sleep(time.Second)
+	time.Sleep(2 * time.Second)
 	fmt.Printf("Worker %d done\n", id)
 }
 
@@ -56,10 +56,17 @@ func waitGroup() {
 
 	var wg sync.WaitGroup
 
-	for i := 1; i <= 5; i++ {
-		wg.Add(1)
-		go worker2(i, &wg)
-	}
+	go func(group *sync.WaitGroup) {
+		for i := 1; i <= 5; i++ {
+			wg.Add(1)
+			go worker2(i, &wg)
+		}
+		wg.Wait()
+		fmt.Printf("w8ed in gorutine\n")
 
+	}(&wg)
+
+	time.Sleep(time.Second)
 	wg.Wait()
+	fmt.Printf("w8ed in main tread\n")
 }

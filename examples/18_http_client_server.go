@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	print("start\n")
+	fmt.Printf("start\n")
 
 	//client()
 	server()

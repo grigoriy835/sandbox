@@ -24,7 +24,7 @@ import (
 var p = fmt.Println
 
 func main() {
-	print("start\n")
+	fmt.Printf("start\n")
 
 	stringFunctions()
 	stringFormating()
