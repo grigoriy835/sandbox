@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Request>
-    <SubscriptionProjectID>{{ subscriptionProjectID }}</SubscriptionProjectID>
-    <Now>{{ now }}</Now>
-    <Signature>{{ signature }}</Signature>
-    <ClientIP>{{ ip }}</ClientIP>
-</Request>

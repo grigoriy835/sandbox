@@ -126,7 +126,6 @@ def parse_avito(url) -> List[Dict]:
 
 
 def parse_drom(url) -> List[Dict]:
-    # todo implement drom parsing
     return []
 
 

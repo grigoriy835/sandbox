@@ -4,6 +4,7 @@ import asyncio
 
 url = 'testurl'
 
+
 async def run(k):
     print(f'start {k}')
     async with aiohttp.ClientSession() as session:
