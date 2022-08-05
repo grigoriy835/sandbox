@@ -1,3 +1,6 @@
+service for crawling adverb site with cars and notify about fresh lots
+
+
 Commands to setup or update app 
 
 - you need add config from crontab file to your /etc/crontab
