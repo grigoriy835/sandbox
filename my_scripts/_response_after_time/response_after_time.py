@@ -1,6 +1,7 @@
 from aiohttp import web
 from aiohttp.web_request import Request
 import asyncio
+import logging
 
 from aiohttp.web_response import Response
 
@@ -18,6 +19,7 @@ async def sleep_n_response(request: Request) -> Response:
     return web.Response(text=response)
 
 app.router.add_get('/', sleep_n_response)
+logging.basicConfig(level=logging.DEBUG)
 
 
 def run_server(host, port):
