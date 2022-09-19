@@ -1,9 +1,9 @@
 package model_test
 
 import (
+	"github.com/gopherschool/http-rest-api/internal/app/model"
 	"testing"
 
-	"github.com/gopherschool/http-rest-api/internal/app/model"
 	"github.com/stretchr/testify/assert"
 )
 
