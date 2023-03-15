@@ -1,14 +1,12 @@
-val scala3Version = "3.2.0"
+name := "sandbox"
 
-lazy val root = project
-  .in(file("."))
-  .settings(
-    name := "sandbox",
-    version := "0.1.0-SNAPSHOT",
+version := "1.0"
 
-    scalaVersion := scala3Version,
+scalaVersion := "2.13.6" // Fixed - https://docs.codescreen.com/#/creating-custom-scala-assessments
 
-    libraryDependencies += "org.scalameta" %% "munit" % "0.7.29" % Test
-  )
-libraryDependencies += "org.scala-lang.modules" %% "scala-parser-combinators" % "2.1.1"
-
+libraryDependencies ++= Seq(
+  "org.typelevel" %% "cats-effect" % "3.4.1",
+  "com.olegpy" %% "better-monadic-for" % "0.3.1",
+  "org.typelevel" %% "cats-effect-testing-scalatest" % "1.4.0" % Test,
+  "org.scalatest" %% "scalatest" % "3.2.14" % Test,
+)
