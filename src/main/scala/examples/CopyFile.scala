@@ -6,9 +6,7 @@ import cats.effect.{IO, Resource}
 import java.io._
 
 object CopyFile {
-  def copy(origin: File, destination: File): IO[Long] = {
-
-  }
+  def copy(origin: File, destination: File): IO[Long] = ???
 
   def inputStream(f: File): Resource[IO, FileInputStream] =
     Resource.make {
