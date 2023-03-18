@@ -10,3 +10,10 @@ libraryDependencies ++= Seq(
   "org.typelevel" %% "cats-effect-testing-scalatest" % "1.4.0" % Test,
   "org.scalatest" %% "scalatest" % "3.2.14" % Test,
 )
+
+scalacOptions ++= Seq(
+  "-feature",
+  "-deprecation",
+  "-unchecked",
+  "-language:postfixOps"
+)
